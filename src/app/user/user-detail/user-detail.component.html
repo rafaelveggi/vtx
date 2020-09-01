@@ -1,0 +1,11 @@
+<div *ngIf="user">
+  <h1>USER</h1>
+  <h2>{{user.firstName}} {{user.lastName}}</h2>
+  <p>{{user.age}} years old</p>
+  <h3>Hobbies: </h3>
+  <ol>
+    <li *ngFor="let hobby of user.hobbies">
+      <span>{{hobby}}</span>
+    </li>
+  </ol>
+</div>

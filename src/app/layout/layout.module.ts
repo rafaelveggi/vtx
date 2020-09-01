@@ -24,7 +24,8 @@ import { MatMenuModule } from '@angular/material/menu'
     FooterComponent,
   ],
   exports: [
-    HomeComponent
+    HomeComponent,
+    FooterComponent,
   ]
 })
 export class LayoutModule { }

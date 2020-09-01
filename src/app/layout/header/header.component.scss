@@ -1,6 +1,13 @@
-.header-icon {
-  padding: 0 1rem;
-}
-.header-spacer {
-  flex: 1 1 auto;
+.header {
+  &-home {
+    cursor: pointer;
+  }
+
+  &-icon {
+    padding: 0 1rem;
+  }
+
+  &-spacer {
+    flex: 1 1 auto;
+  }
 }
