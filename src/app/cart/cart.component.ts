@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core'
-import { CartItem } from '../cart.types'
-import { CartService } from '../cart.service'
+import { CartItem } from './cart.types'
+import { CartService } from './cart.service'
 
 @Component({
   selector: 'app-cart',
@@ -17,9 +17,8 @@ export class CartComponent implements OnInit {
     this.list = this.service.getItems()
   }
 
-  public onFileUpload(file: File) {
-    this.service.processFile(file)
-    this.list = this.service.getItems()
+  public async onFileUpload(file: File) {
+    this.list = await this.service.processFile(file)
   }
 
 }

@@ -20,12 +20,14 @@ export class CartService {
     }
   }
 
-  public async processFile(file: File) {
+  public async processFile(file: File): Promise<CartItem[] | null> {
+    let items = null
     try {
-      const items = await this.readFileAsync(file)
-      return items
+      items = await this.readFileAsync(file)
     } catch (error) {
       console.error(error) // FIXME use material ui error message
+    } finally {
+      return items
     }
   }
 
