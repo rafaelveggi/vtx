@@ -1,0 +1,19 @@
+<mat-toolbar>
+  <span>MyProdCart</span>
+  <span class="header-spacer"></span>
+  <button mat-icon-button class="header-icon" aria-label="Shopping cart button">
+    <mat-icon>shopping_cart</mat-icon>
+  </button>
+  <button mat-icon-button class="header-icon" aria-label="Person button">
+    <mat-icon>person</mat-icon>
+  </button>
+  <button mat-icon-button class="header-icon" aria-label="Person button">
+    <button mat-button [matMenuTriggerFor]="menu">
+      <mat-icon>language</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>Português</button>
+      <button mat-menu-item>English</button>
+    </mat-menu>
+  </button>
+</mat-toolbar>
