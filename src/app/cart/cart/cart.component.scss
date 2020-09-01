@@ -1,0 +1,15 @@
+.cart {
+  &-file-upload {
+    display: inline-flex;
+    cursor: pointer;
+    padding: 1rem 0;
+
+    &:hover {
+      color: maroon;
+    }
+
+    &-label {
+      margin: 3px 0.4em;
+    }
+  }
+}

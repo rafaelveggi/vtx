@@ -1,10 +1,9 @@
 <h2>Cart</h2>
 
-<label>
-  File
+<label mat-button class="cart-file-upload">
+  <mat-icon>folder_open</mat-icon>
+  <span class="cart-file-upload-label">Choose a JSON file to load the list of items.</span>
   <input accept="application/JSON" type="file" style="display: none" (change)="onFileUpload($event.target.files[0])">
 </label>
 
-<div *ngIf="list">
-  <div *ngFor="let item of list">{{item.description}}</div>
-</div>
+<app-cart-list [list]="list"></app-cart-list>

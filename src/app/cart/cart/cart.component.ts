@@ -1,29 +1,25 @@
 import { Component, OnInit } from '@angular/core'
 import { CartItem } from '../cart.types'
+import { CartService } from '../cart.service'
 
 @Component({
   selector: 'app-cart',
   templateUrl: './cart.component.html',
-  styleUrls: ['./cart.component.scss']
+  styleUrls: ['./cart.component.scss'],
+  providers: [CartService]
 })
 export class CartComponent implements OnInit {
   list: CartItem[]
 
-  constructor() { }
+  constructor(private service: CartService) { }
 
   ngOnInit(): void {
+    this.list = this.service.getItems()
   }
 
   public onFileUpload(file: File) {
-
-    if (!file.type.toLowerCase().includes('json')) {
-      alert('File not supported. Please select a JSON file') // FIXME material ui message
-      return
-    }
-
-    const reader = new FileReader()
-    reader.addEventListener('load', (e) => this.list = JSON.parse(e.target.result as string))
-    reader.readAsText(file)
+    this.service.processFile(file)
+    this.list = this.service.getItems()
   }
 
 }
