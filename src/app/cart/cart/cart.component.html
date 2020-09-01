@@ -1,0 +1,10 @@
+<h2>Cart</h2>
+
+<label>
+  File
+  <input accept="application/JSON" type="file" style="display: none" (change)="onFileUpload($event.target.files[0])">
+</label>
+
+<div *ngIf="list">
+  <div *ngFor="let item of list">{{item.description}}</div>
+</div>

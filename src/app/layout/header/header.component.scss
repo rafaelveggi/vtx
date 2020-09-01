@@ -1,6 +1,9 @@
 .header {
-  &-home {
+  &-link-home {
     cursor: pointer;
+    &:focus {
+      outline: none;
+    }
   }
 
   &-icon {

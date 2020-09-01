@@ -6,6 +6,7 @@ import { AppComponent } from './app.component'
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
 import { LayoutModule } from './layout/layout.module'
 import { UserModule } from './user/user.module'
+import { CartModule } from './cart/cart.module'
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { UserModule } from './user/user.module'
     BrowserAnimationsModule,
     LayoutModule,
     UserModule,
+    CartModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
