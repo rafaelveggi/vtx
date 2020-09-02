@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable } from '@angular/core'
 import { CartItem } from './cart.types'
 
 @Injectable({
@@ -13,9 +13,9 @@ export class CartService {
     try {
       const json = window.sessionStorage.getItem('items')
       items = JSON.parse(json)
+      return items
     } catch (error) {
       console.error('Error retrieving items from sessionStorage', error)
-    } finally {
       return items
     }
   }
@@ -24,14 +24,14 @@ export class CartService {
     let items = null
     try {
       items = await this.readFileAsync(file)
+      return items
     } catch (error) {
       console.error(error) // FIXME use material ui error message
-    } finally {
       return items
     }
   }
 
-  private saveItemsInStorage(items: CartItem[]) {
+  private saveItemsInStorage(items: CartItem[]): void {
     try {
       window.sessionStorage.setItem('items', JSON.stringify(items))
     } catch (error) {
@@ -41,7 +41,7 @@ export class CartService {
 
   private readFileAsync(file: File): Promise<CartItem[]> {
     return new Promise((resolve, reject) => {
-      let reader = new FileReader()
+      const reader = new FileReader()
 
       reader.onload = () => {
         const contents = JSON.parse(reader.result as string)

@@ -25,7 +25,7 @@ export class CartListComponent implements OnChanges, OnInit {
   ngOnInit(): void {
     this.initTableData()
   }
-  
+
   ngOnChanges(): void {
     this.initTableData()
   }
@@ -35,7 +35,7 @@ export class CartListComponent implements OnChanges, OnInit {
     return `${(subTotal + subTotal * (item.vatPercentage / 100)).toFixed(2)}`
   }
 
-  private initTableData() {
+  private initTableData(): void {
     if (this.list) {
       this.dataSource = new MatTableDataSource(this.list)
       this.dataSource.paginator = this.paginator

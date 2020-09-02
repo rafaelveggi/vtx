@@ -17,7 +17,7 @@ export class CartComponent implements OnInit {
     this.list = this.service.getItems()
   }
 
-  public async onFileUpload(file: File) {
+  public async onFileUpload(file: File): Promise<void> {
     this.list = await this.service.processFile(file)
   }
 
