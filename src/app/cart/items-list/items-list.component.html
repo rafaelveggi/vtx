@@ -2,27 +2,27 @@
 
   <table mat-table [dataSource]="dataSource" matSort>
   
-    <ng-container matColumnDef="description">
+    <ng-container matColumnDef="Descriptive">
       <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Name </th>
-      <td mat-cell *matCellDef="let item"> {{item.description}} </td>
+      <td mat-cell *matCellDef="let item"> {{item.Descriptive}} </td>
     </ng-container>
 
-    <ng-container matColumnDef="quantity">
+    <ng-container matColumnDef="Quantity">
       <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Qty </th>
-      <td mat-cell *matCellDef="let item"> {{item.quantity}} </td>
+      <td mat-cell *matCellDef="let item"> {{item.Quantity}} </td>
     </ng-container>
 
-    <ng-container matColumnDef="unitPrice">
+    <ng-container matColumnDef="UnitPrice">
       <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Unit Price </th>
-      <td mat-cell *matCellDef="let item"> {{item.unitPrice}} </td>
+      <td mat-cell *matCellDef="let item"> {{item.UnitPrice}} </td>
     </ng-container>
 
-    <ng-container matColumnDef="vatPercentage">
+    <ng-container matColumnDef="VATPercentage">
       <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> VAT (%) </th>
-      <td mat-cell *matCellDef="let item"> {{item.vatPercentage}} </td>
+      <td mat-cell *matCellDef="let item"> {{item.VATPercentage}} </td>
     </ng-container>
 
-    <ng-container matColumnDef="itemTotal">
+    <ng-container matColumnDef="ItemTotal">
       <th mat-header-cell *matHeaderCellDef mat-sort-header i18n> Item total</th>
       <td mat-cell *matCellDef="let item"> {{getItemTotal(item)}} </td>
     </ng-container>
