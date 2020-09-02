@@ -1,0 +1,7002 @@
+[
+  {
+    "ProductCode": "9303f8c4-4028-4156-ba28-17cd6c13d613",
+    "Descriptive": "Amarula Cream",
+    "Quantity": 90,
+    "UnitPrice": 9.92,
+    "VATPercentage": 16.59
+  },
+  {
+    "ProductCode": "dbc10359-679f-4642-aa92-e7609e932322",
+    "Descriptive": "Beer - Camerons Auburn",
+    "Quantity": 50,
+    "UnitPrice": 0.02,
+    "VATPercentage": 8.59
+  },
+  {
+    "ProductCode": "f15c08c0-e190-4d60-b734-933b6b0e1993",
+    "Descriptive": "Oregano - Fresh",
+    "Quantity": 2,
+    "UnitPrice": 4.2,
+    "VATPercentage": 12.71
+  },
+  {
+    "ProductCode": "b6f85b43-f660-44e3-a8e3-4b64a3ca21ca",
+    "Descriptive": "Potatoes - Purple, Organic",
+    "Quantity": 69,
+    "UnitPrice": 5.34,
+    "VATPercentage": 2.8
+  },
+  {
+    "ProductCode": "849c19dc-2d1c-4a13-a631-e1576d49a081",
+    "Descriptive": "Guava",
+    "Quantity": 11,
+    "UnitPrice": 1.2,
+    "VATPercentage": 7.86
+  },
+  {
+    "ProductCode": "4c6ee0e1-a219-48c1-8e24-90f37bf189fa",
+    "Descriptive": "Veal - Striploin",
+    "Quantity": 12,
+    "UnitPrice": 9.44,
+    "VATPercentage": 21.7
+  },
+  {
+    "ProductCode": "b9092a66-f8cd-470a-8a10-bcc703836ec4",
+    "Descriptive": "Yukon Jack",
+    "Quantity": 29,
+    "UnitPrice": 4.82,
+    "VATPercentage": 3.25
+  },
+  {
+    "ProductCode": "019c419d-d252-4d23-9607-90011047c5b5",
+    "Descriptive": "Soup - Knorr, Chicken Noodle",
+    "Quantity": 45,
+    "UnitPrice": 1.39,
+    "VATPercentage": 18.36
+  },
+  {
+    "ProductCode": "f252627b-a3c1-41b7-b7cd-121b28297b4b",
+    "Descriptive": "Bread - White Mini Epi",
+    "Quantity": 38,
+    "UnitPrice": 4.91,
+    "VATPercentage": 8.81
+  },
+  {
+    "ProductCode": "125bc9df-691b-4729-82dd-7d5a9817392d",
+    "Descriptive": "Slt - Individual Portions",
+    "Quantity": 26,
+    "UnitPrice": 9.4,
+    "VATPercentage": 18.87
+  },
+  {
+    "ProductCode": "d903088c-d9ce-48bc-b06d-723a98543309",
+    "Descriptive": "Wine - Placido Pinot Grigo",
+    "Quantity": 1,
+    "UnitPrice": 4.15,
+    "VATPercentage": 5.04
+  },
+  {
+    "ProductCode": "f6707775-a3bb-4f33-b393-b66b577e60b4",
+    "Descriptive": "Apple - Macintosh",
+    "Quantity": 61,
+    "UnitPrice": 7.01,
+    "VATPercentage": 11.02
+  },
+  {
+    "ProductCode": "fdacb3a9-7ee0-43f7-80aa-8243f3dc91c3",
+    "Descriptive": "Wine - Soave Folonari",
+    "Quantity": 79,
+    "UnitPrice": 3.63,
+    "VATPercentage": 18.95
+  },
+  {
+    "ProductCode": "d57f4c2c-9e79-4d3f-8723-6a6ae1f99455",
+    "Descriptive": "Chocolate - Pistoles, White",
+    "Quantity": 8,
+    "UnitPrice": 8.6,
+    "VATPercentage": 20.81
+  },
+  {
+    "ProductCode": "926b4b09-9aae-44e8-8078-1f70c3f0dd68",
+    "Descriptive": "Pears - Bartlett",
+    "Quantity": 62,
+    "UnitPrice": 0.84,
+    "VATPercentage": 21.63
+  },
+  {
+    "ProductCode": "e3215f92-da0e-4ad1-b131-3b0ac47d9877",
+    "Descriptive": "Cake - Pancake",
+    "Quantity": 26,
+    "UnitPrice": 7.44,
+    "VATPercentage": 5.29
+  },
+  {
+    "ProductCode": "80a834a7-5676-4628-b78a-73a2ec59c614",
+    "Descriptive": "Beef - Cooked, Corned",
+    "Quantity": 35,
+    "UnitPrice": 3.82,
+    "VATPercentage": 4.91
+  },
+  {
+    "ProductCode": "c841bf0c-41f3-429a-889f-fd5ac832a001",
+    "Descriptive": "Mix Pina Colada",
+    "Quantity": 23,
+    "UnitPrice": 5.48,
+    "VATPercentage": 1.53
+  },
+  {
+    "ProductCode": "e11fe2a7-eb0f-4856-80cb-6b4db3b5e1ba",
+    "Descriptive": "Gherkin - Sour",
+    "Quantity": 79,
+    "UnitPrice": 4.7,
+    "VATPercentage": 14.71
+  },
+  {
+    "ProductCode": "8d54148a-6c5f-4427-8303-f518f4e6b253",
+    "Descriptive": "Muffin Mix - Oatmeal",
+    "Quantity": 59,
+    "UnitPrice": 3.39,
+    "VATPercentage": 12.29
+  },
+  {
+    "ProductCode": "cc750be0-4c6b-465a-8bdc-9c7178f2e9dc",
+    "Descriptive": "Vinegar - Rice",
+    "Quantity": 4,
+    "UnitPrice": 6.75,
+    "VATPercentage": 10.84
+  },
+  {
+    "ProductCode": "c2faba01-12e6-4831-b7fc-1adfc29f1811",
+    "Descriptive": "Cake - Cake Sheet Macaroon",
+    "Quantity": 53,
+    "UnitPrice": 1.68,
+    "VATPercentage": 10.22
+  },
+  {
+    "ProductCode": "6a14e697-6111-4c6c-bab0-a260e94aa7de",
+    "Descriptive": "Transfer Sheets",
+    "Quantity": 6,
+    "UnitPrice": 3.5,
+    "VATPercentage": 6.93
+  },
+  {
+    "ProductCode": "ff903b60-1014-4a11-bf57-c4698896712d",
+    "Descriptive": "Puree - Kiwi",
+    "Quantity": 79,
+    "UnitPrice": 7.15,
+    "VATPercentage": 4.52
+  },
+  {
+    "ProductCode": "4c65252b-e239-4858-8df8-7521b1368de2",
+    "Descriptive": "Wine - Red, Cabernet Merlot",
+    "Quantity": 2,
+    "UnitPrice": 9.05,
+    "VATPercentage": 22.98
+  },
+  {
+    "ProductCode": "a96a7e7e-d3b0-4ae3-850b-e07ec50b7f68",
+    "Descriptive": "Coffee - Flavoured",
+    "Quantity": 10,
+    "UnitPrice": 2.52,
+    "VATPercentage": 18.32
+  },
+  {
+    "ProductCode": "16dfabda-1d58-49cb-bc15-8893277e67d0",
+    "Descriptive": "Sauce - Bernaise, Mix",
+    "Quantity": 56,
+    "UnitPrice": 8.27,
+    "VATPercentage": 13.77
+  },
+  {
+    "ProductCode": "11f1049f-3847-4322-bfa4-4501c6c42311",
+    "Descriptive": "Puff Pastry - Sheets",
+    "Quantity": 19,
+    "UnitPrice": 2.27,
+    "VATPercentage": 6.81
+  },
+  {
+    "ProductCode": "beddcc05-4672-4ede-8fcf-349a186bda16",
+    "Descriptive": "Gatorade - Cool Blue Raspberry",
+    "Quantity": 36,
+    "UnitPrice": 8.77,
+    "VATPercentage": 21.9
+  },
+  {
+    "ProductCode": "dabbdbdc-733e-40e2-b843-27e1fa38a681",
+    "Descriptive": "Sausage - Andouille",
+    "Quantity": 86,
+    "UnitPrice": 1.61,
+    "VATPercentage": 17.08
+  },
+  {
+    "ProductCode": "f09c7140-f543-4776-bc66-9f18bc63ef01",
+    "Descriptive": "Lamb - Sausage Casings",
+    "Quantity": 28,
+    "UnitPrice": 1.54,
+    "VATPercentage": 14.25
+  },
+  {
+    "ProductCode": "94e96318-c837-4ce5-8966-5833d13d977e",
+    "Descriptive": "Ham - Cooked Italian",
+    "Quantity": 33,
+    "UnitPrice": 7.11,
+    "VATPercentage": 22.04
+  },
+  {
+    "ProductCode": "1ad3261e-7319-4616-b980-771cd2f8e9f5",
+    "Descriptive": "Gatorade - Orange",
+    "Quantity": 21,
+    "UnitPrice": 1.29,
+    "VATPercentage": 2.7
+  },
+  {
+    "ProductCode": "fe73f691-7603-4760-bdb9-b48c3db0d890",
+    "Descriptive": "Tarts Assorted",
+    "Quantity": 77,
+    "UnitPrice": 7.43,
+    "VATPercentage": 7.63
+  },
+  {
+    "ProductCode": "6eea14f4-7f1a-41af-92b3-055175b7b397",
+    "Descriptive": "Beef Tenderloin Aaa",
+    "Quantity": 76,
+    "UnitPrice": 8.17,
+    "VATPercentage": 5.53
+  },
+  {
+    "ProductCode": "f7e47711-e961-473a-880d-5c279fc26888",
+    "Descriptive": "Cheese - Shred Cheddar / Mozza",
+    "Quantity": 66,
+    "UnitPrice": 0.05,
+    "VATPercentage": 21.85
+  },
+  {
+    "ProductCode": "7da94b94-1c21-4f02-883e-5c687d69b54a",
+    "Descriptive": "V8 - Tropical Blend",
+    "Quantity": 26,
+    "UnitPrice": 6.33,
+    "VATPercentage": 4.98
+  },
+  {
+    "ProductCode": "3ed4e4c2-4399-42c8-a529-5f90533a8991",
+    "Descriptive": "Compound - Passion Fruit",
+    "Quantity": 32,
+    "UnitPrice": 3.29,
+    "VATPercentage": 19.98
+  },
+  {
+    "ProductCode": "d9361ce4-8c21-4c98-b777-82dfd4c912ff",
+    "Descriptive": "Sprouts - Corn",
+    "Quantity": 84,
+    "UnitPrice": 0.64,
+    "VATPercentage": 4.24
+  },
+  {
+    "ProductCode": "e96196a7-a315-44b1-9f2f-8a0aa8f19929",
+    "Descriptive": "Pears - Fiorelle",
+    "Quantity": 87,
+    "UnitPrice": 7.69,
+    "VATPercentage": 19.65
+  },
+  {
+    "ProductCode": "04885b96-9f2f-4513-9d58-a731125f0fa3",
+    "Descriptive": "Chinese Foods - Chicken Wing",
+    "Quantity": 57,
+    "UnitPrice": 9.54,
+    "VATPercentage": 9.85
+  },
+  {
+    "ProductCode": "0d21ab10-9ec5-453f-a6a0-6d6bdb20cc78",
+    "Descriptive": "Cookies Oatmeal Raisin",
+    "Quantity": 75,
+    "UnitPrice": 5.58,
+    "VATPercentage": 16.35
+  },
+  {
+    "ProductCode": "2d41b531-b34c-4d93-a456-ddd42f2a5507",
+    "Descriptive": "Wine - Chardonnay Mondavi",
+    "Quantity": 10,
+    "UnitPrice": 0.83,
+    "VATPercentage": 6.99
+  },
+  {
+    "ProductCode": "bfdf2aac-04a6-4a5e-a5e7-726664f981a2",
+    "Descriptive": "Tea - Herbal Orange Spice",
+    "Quantity": 47,
+    "UnitPrice": 7.04,
+    "VATPercentage": 15.75
+  },
+  {
+    "ProductCode": "eb8e75a9-9707-4c98-bde8-4b3de276c74a",
+    "Descriptive": "Lemon Pepper",
+    "Quantity": 29,
+    "UnitPrice": 5.83,
+    "VATPercentage": 1.43
+  },
+  {
+    "ProductCode": "b4cf84ee-11a2-471a-98e8-123675728edd",
+    "Descriptive": "Pepper - Sorrano",
+    "Quantity": 15,
+    "UnitPrice": 7.33,
+    "VATPercentage": 18.56
+  },
+  {
+    "ProductCode": "5223ceeb-ff98-4f8d-98cc-c7189cf4412a",
+    "Descriptive": "Spice - Onion Powder Granulated",
+    "Quantity": 21,
+    "UnitPrice": 8.77,
+    "VATPercentage": 22.13
+  },
+  {
+    "ProductCode": "be862cd7-cc61-40ae-92fa-11d5e75f7723",
+    "Descriptive": "Quail Eggs - Canned",
+    "Quantity": 17,
+    "UnitPrice": 1.01,
+    "VATPercentage": 11.07
+  },
+  {
+    "ProductCode": "70bcd171-6c71-40c8-9445-a358fe92bcab",
+    "Descriptive": "Beef - Tongue, Fresh",
+    "Quantity": 53,
+    "UnitPrice": 3.65,
+    "VATPercentage": 3.72
+  },
+  {
+    "ProductCode": "26ba64c0-1e3b-4746-9ed3-23f1df366b68",
+    "Descriptive": "Dip - Tapenade",
+    "Quantity": 44,
+    "UnitPrice": 8.34,
+    "VATPercentage": 14.24
+  },
+  {
+    "ProductCode": "f1a1b69e-f0f7-4d25-b939-2a7fa6e48bc2",
+    "Descriptive": "Muffin Mix - Lemon Cranberry",
+    "Quantity": 72,
+    "UnitPrice": 6.68,
+    "VATPercentage": 19.56
+  },
+  {
+    "ProductCode": "d0373bb0-f407-499c-a81a-fa2cf6f1e951",
+    "Descriptive": "Pie Filling - Pumpkin",
+    "Quantity": 1,
+    "UnitPrice": 4.51,
+    "VATPercentage": 8.78
+  },
+  {
+    "ProductCode": "91142794-c5cc-4d94-960e-f7ce42efd93d",
+    "Descriptive": "Pastry - Choclate Baked",
+    "Quantity": 18,
+    "UnitPrice": 2.5,
+    "VATPercentage": 2.31
+  },
+  {
+    "ProductCode": "9914d45d-0ab2-4036-9e41-e1bd65b54d3c",
+    "Descriptive": "Beef - Salted",
+    "Quantity": 9,
+    "UnitPrice": 6.13,
+    "VATPercentage": 15.65
+  },
+  {
+    "ProductCode": "857ec7d0-8f92-4232-9a6c-a98a8a9cdfab",
+    "Descriptive": "Apron",
+    "Quantity": 89,
+    "UnitPrice": 1.8,
+    "VATPercentage": 9.17
+  },
+  {
+    "ProductCode": "b4660ef2-33f9-4c6d-b16c-b97de83be099",
+    "Descriptive": "Cookies - Englishbay Oatmeal",
+    "Quantity": 71,
+    "UnitPrice": 4.82,
+    "VATPercentage": 18.65
+  },
+  {
+    "ProductCode": "48b022ae-aa91-4f0c-a77b-6f50adcbcaaf",
+    "Descriptive": "Chocolate - White",
+    "Quantity": 89,
+    "UnitPrice": 6.36,
+    "VATPercentage": 2.64
+  },
+  {
+    "ProductCode": "3542f844-158f-4b64-8c14-f046ad95de04",
+    "Descriptive": "Nut - Pecan, Halves",
+    "Quantity": 88,
+    "UnitPrice": 6.11,
+    "VATPercentage": 3.04
+  },
+  {
+    "ProductCode": "ffd541dd-5d83-4ead-8560-e00255597384",
+    "Descriptive": "Papayas",
+    "Quantity": 58,
+    "UnitPrice": 8.47,
+    "VATPercentage": 16.46
+  },
+  {
+    "ProductCode": "b1f0dfe4-ff93-4ee9-a47d-e9e3994036f5",
+    "Descriptive": "Extract - Rum",
+    "Quantity": 40,
+    "UnitPrice": 0.06,
+    "VATPercentage": 18.39
+  },
+  {
+    "ProductCode": "2482a0c1-a82a-4188-9ce8-943782eec7af",
+    "Descriptive": "Longos - Burritos",
+    "Quantity": 85,
+    "UnitPrice": 9.02,
+    "VATPercentage": 13.52
+  },
+  {
+    "ProductCode": "e82ef885-eccf-4861-b361-3e7c556838b0",
+    "Descriptive": "Longos - Lasagna Veg",
+    "Quantity": 78,
+    "UnitPrice": 1.7,
+    "VATPercentage": 2.82
+  },
+  {
+    "ProductCode": "8d7de883-f1c0-468d-906b-55f8f0208402",
+    "Descriptive": "Bread - Calabrese Baguette",
+    "Quantity": 16,
+    "UnitPrice": 6.05,
+    "VATPercentage": 19
+  },
+  {
+    "ProductCode": "4919197f-029a-446d-9bf1-9f298ecfb425",
+    "Descriptive": "Mortadella",
+    "Quantity": 94,
+    "UnitPrice": 3.49,
+    "VATPercentage": 12.95
+  },
+  {
+    "ProductCode": "1e119ff9-3a6e-4e27-8dc5-2bb86a3c47a4",
+    "Descriptive": "Gelatine Leaves - Envelopes",
+    "Quantity": 51,
+    "UnitPrice": 9.33,
+    "VATPercentage": 11.04
+  },
+  {
+    "ProductCode": "8b7bc1c1-62cc-4bc7-8283-9645164563a9",
+    "Descriptive": "Apple - Fuji",
+    "Quantity": 19,
+    "UnitPrice": 6.82,
+    "VATPercentage": 13.65
+  },
+  {
+    "ProductCode": "583baae2-5865-4caa-bedc-61d9f4fab9ee",
+    "Descriptive": "Nut - Peanut, Roasted",
+    "Quantity": 31,
+    "UnitPrice": 1.6,
+    "VATPercentage": 4.08
+  },
+  {
+    "ProductCode": "36267242-a962-41e6-ae80-9df62331909f",
+    "Descriptive": "Fudge - Cream Fudge",
+    "Quantity": 43,
+    "UnitPrice": 5.31,
+    "VATPercentage": 12.19
+  },
+  {
+    "ProductCode": "d27ea41e-1398-4aa7-9dbe-4f6664360812",
+    "Descriptive": "Bread - Onion Focaccia",
+    "Quantity": 22,
+    "UnitPrice": 7.22,
+    "VATPercentage": 13.44
+  },
+  {
+    "ProductCode": "961ce35c-7f87-433d-becb-67b30d9b96bf",
+    "Descriptive": "Quinoa",
+    "Quantity": 90,
+    "UnitPrice": 4.22,
+    "VATPercentage": 18.42
+  },
+  {
+    "ProductCode": "1d579173-03f5-4388-b80d-187f0d1ac0b4",
+    "Descriptive": "Mayonnaise",
+    "Quantity": 9,
+    "UnitPrice": 2.11,
+    "VATPercentage": 5.54
+  },
+  {
+    "ProductCode": "3034f4b9-b786-4ea7-bc98-4f60113c196e",
+    "Descriptive": "Tofu - Firm",
+    "Quantity": 72,
+    "UnitPrice": 0.44,
+    "VATPercentage": 21.75
+  },
+  {
+    "ProductCode": "379bec1a-e323-49a1-ab0f-1b7cd5c63fa1",
+    "Descriptive": "Syrup - Kahlua Chocolate",
+    "Quantity": 42,
+    "UnitPrice": 6.89,
+    "VATPercentage": 2.31
+  },
+  {
+    "ProductCode": "8bb92f99-b725-4c2b-9069-a7498f6754db",
+    "Descriptive": "Hipnotiq Liquor",
+    "Quantity": 95,
+    "UnitPrice": 6.23,
+    "VATPercentage": 5.15
+  },
+  {
+    "ProductCode": "2b9d5fd8-6af7-49d2-a302-ac2f85558142",
+    "Descriptive": "Juice - Tomato, 10 Oz",
+    "Quantity": 83,
+    "UnitPrice": 3.18,
+    "VATPercentage": 4.71
+  },
+  {
+    "ProductCode": "cca1faef-a304-4348-a556-d1a11a6e879f",
+    "Descriptive": "Veal - Provimi Inside",
+    "Quantity": 77,
+    "UnitPrice": 0.08,
+    "VATPercentage": 16.14
+  },
+  {
+    "ProductCode": "79610162-2a43-44c1-93e3-cc89cc73adf6",
+    "Descriptive": "Scallops - U - 10",
+    "Quantity": 7,
+    "UnitPrice": 9.17,
+    "VATPercentage": 13.28
+  },
+  {
+    "ProductCode": "1d15fd29-6b51-444d-9177-ba4a8ed6d932",
+    "Descriptive": "Wine - Muscadet Sur Lie",
+    "Quantity": 89,
+    "UnitPrice": 7.45,
+    "VATPercentage": 1.67
+  },
+  {
+    "ProductCode": "c24288c6-ba09-4402-be42-e601aa96c67f",
+    "Descriptive": "Plastic Wrap",
+    "Quantity": 25,
+    "UnitPrice": 8.22,
+    "VATPercentage": 10.91
+  },
+  {
+    "ProductCode": "9ed8cf29-1cce-410b-8e4b-1204cc87c5c9",
+    "Descriptive": "Pears - Fiorelle",
+    "Quantity": 60,
+    "UnitPrice": 1.64,
+    "VATPercentage": 2.39
+  },
+  {
+    "ProductCode": "c4f517e6-aeb6-49bc-8701-e76190675390",
+    "Descriptive": "Sauce - Balsamic Viniagrette",
+    "Quantity": 70,
+    "UnitPrice": 8.77,
+    "VATPercentage": 13.47
+  },
+  {
+    "ProductCode": "94ab09d2-a827-4b8e-a9b3-b8341ba2c690",
+    "Descriptive": "Ice Cream - Super Sandwich",
+    "Quantity": 60,
+    "UnitPrice": 8.67,
+    "VATPercentage": 9.82
+  },
+  {
+    "ProductCode": "f19c554d-2bca-4fdc-8d27-71c5309e719a",
+    "Descriptive": "Potatoes - Pei 10 Oz",
+    "Quantity": 42,
+    "UnitPrice": 7.98,
+    "VATPercentage": 9.03
+  },
+  {
+    "ProductCode": "5d50c39e-ea63-4a99-aa93-2d96d896a656",
+    "Descriptive": "Guava",
+    "Quantity": 48,
+    "UnitPrice": 6.36,
+    "VATPercentage": 5.75
+  },
+  {
+    "ProductCode": "e2f8a5ca-d60d-4a57-a9e3-8f3175b9e401",
+    "Descriptive": "Energy Drink Bawls",
+    "Quantity": 26,
+    "UnitPrice": 2.45,
+    "VATPercentage": 18.4
+  },
+  {
+    "ProductCode": "5be42a5f-9e4e-4b02-ae9f-6283ed35fa26",
+    "Descriptive": "Bread Sour Rolls",
+    "Quantity": 19,
+    "UnitPrice": 8.32,
+    "VATPercentage": 10.82
+  },
+  {
+    "ProductCode": "8cca5c91-97cd-4931-85e7-9b9e9f818660",
+    "Descriptive": "Bread - 10 Grain Parisian",
+    "Quantity": 11,
+    "UnitPrice": 2.44,
+    "VATPercentage": 21.32
+  },
+  {
+    "ProductCode": "fabf3cdc-15ce-40fc-9ca4-d838072b48d1",
+    "Descriptive": "Lettuce - Curly Endive",
+    "Quantity": 17,
+    "UnitPrice": 7.34,
+    "VATPercentage": 22.24
+  },
+  {
+    "ProductCode": "767160f9-327f-4094-b6fc-82a8f817d758",
+    "Descriptive": "Coke - Classic, 355 Ml",
+    "Quantity": 69,
+    "UnitPrice": 2.77,
+    "VATPercentage": 14.33
+  },
+  {
+    "ProductCode": "d2fd8e8a-020e-435e-bd77-ce4c3874c75a",
+    "Descriptive": "Sauce - Oyster",
+    "Quantity": 27,
+    "UnitPrice": 8.53,
+    "VATPercentage": 5.17
+  },
+  {
+    "ProductCode": "cdd08cc7-d07a-4f2e-ac29-172e68217433",
+    "Descriptive": "Chef Hat 25cm",
+    "Quantity": 96,
+    "UnitPrice": 1.78,
+    "VATPercentage": 4.8
+  },
+  {
+    "ProductCode": "7fadd3dc-d085-42bc-ae87-f3e69a0af686",
+    "Descriptive": "Bar Special K",
+    "Quantity": 29,
+    "UnitPrice": 8.61,
+    "VATPercentage": 13.57
+  },
+  {
+    "ProductCode": "c3b57d30-4f4b-4909-865b-6ce66a985f82",
+    "Descriptive": "Beer - Tetleys",
+    "Quantity": 14,
+    "UnitPrice": 3.23,
+    "VATPercentage": 18.57
+  },
+  {
+    "ProductCode": "18989979-a660-4a89-b821-833b93329cf8",
+    "Descriptive": "Pasta - Orecchiette",
+    "Quantity": 70,
+    "UnitPrice": 6.41,
+    "VATPercentage": 11.64
+  },
+  {
+    "ProductCode": "716520d5-2f6a-4b7a-99a1-6ea7749b4eb6",
+    "Descriptive": "Crush - Cream Soda",
+    "Quantity": 68,
+    "UnitPrice": 1.57,
+    "VATPercentage": 8.85
+  },
+  {
+    "ProductCode": "32ae34bc-4f54-441e-9bb2-0f78b6a617fa",
+    "Descriptive": "Bread Cranberry Foccacia",
+    "Quantity": 72,
+    "UnitPrice": 3.46,
+    "VATPercentage": 14.94
+  },
+  {
+    "ProductCode": "197c48ed-b9ff-4da8-807b-c8fabd1c6f68",
+    "Descriptive": "Wine - Magnotta - Pinot Gris Sr",
+    "Quantity": 19,
+    "UnitPrice": 0.24,
+    "VATPercentage": 8.69
+  },
+  {
+    "ProductCode": "717765fd-4f45-4666-b87e-aed0e8e57eda",
+    "Descriptive": "Rum - Cream, Amarula",
+    "Quantity": 82,
+    "UnitPrice": 0.47,
+    "VATPercentage": 20.32
+  },
+  {
+    "ProductCode": "5a90238e-ddec-4198-b0c3-48ee0cf4bea5",
+    "Descriptive": "Gatorade - Orange",
+    "Quantity": 5,
+    "UnitPrice": 0.13,
+    "VATPercentage": 18.04
+  },
+  {
+    "ProductCode": "593ed561-b73c-40ba-bb80-981195524eab",
+    "Descriptive": "Aspic - Clear",
+    "Quantity": 49,
+    "UnitPrice": 0.16,
+    "VATPercentage": 12.29
+  },
+  {
+    "ProductCode": "b4ee2380-36ad-4795-a1ba-37685711394e",
+    "Descriptive": "Grand Marnier",
+    "Quantity": 87,
+    "UnitPrice": 5.14,
+    "VATPercentage": 19.87
+  },
+  {
+    "ProductCode": "1cc69675-90c0-47b8-a656-f54292e53328",
+    "Descriptive": "Soup - Tomato Mush. Florentine",
+    "Quantity": 50,
+    "UnitPrice": 0.99,
+    "VATPercentage": 17.06
+  },
+  {
+    "ProductCode": "1820742f-42e1-40c8-b8f4-0d9270707e7f",
+    "Descriptive": "Corn Meal",
+    "Quantity": 51,
+    "UnitPrice": 3.26,
+    "VATPercentage": 6.64
+  },
+  {
+    "ProductCode": "2c1164a8-12bc-47de-b568-41ead47bb766",
+    "Descriptive": "Beer - Steamwhistle",
+    "Quantity": 32,
+    "UnitPrice": 5,
+    "VATPercentage": 7.23
+  },
+  {
+    "ProductCode": "b9706eee-c1e7-4f78-8f3d-120c6d717f3b",
+    "Descriptive": "Chicken - Whole Fryers",
+    "Quantity": 1,
+    "UnitPrice": 0.74,
+    "VATPercentage": 15.63
+  },
+  {
+    "ProductCode": "56dcf34a-6507-4a51-b489-a279ec28ca26",
+    "Descriptive": "Squid - U 5",
+    "Quantity": 96,
+    "UnitPrice": 7.4,
+    "VATPercentage": 8.74
+  },
+  {
+    "ProductCode": "c2056062-8ec0-48a4-aca2-2facde5aaefd",
+    "Descriptive": "Garbage Bag - Clear",
+    "Quantity": 53,
+    "UnitPrice": 3.2,
+    "VATPercentage": 4.47
+  },
+  {
+    "ProductCode": "1f5fbe44-4520-4d69-aa85-05419b731966",
+    "Descriptive": "Chinese Foods - Plain Fried Rice",
+    "Quantity": 2,
+    "UnitPrice": 0.85,
+    "VATPercentage": 19.11
+  },
+  {
+    "ProductCode": "0a3cd932-96a7-4184-9245-de4e27b48d45",
+    "Descriptive": "Island Oasis - Mango Daiquiri",
+    "Quantity": 19,
+    "UnitPrice": 2.96,
+    "VATPercentage": 19.96
+  },
+  {
+    "ProductCode": "dbc9baba-d39b-44b6-a983-6fadabb0d0f2",
+    "Descriptive": "Beef Striploin Aaa",
+    "Quantity": 74,
+    "UnitPrice": 0.19,
+    "VATPercentage": 4.77
+  },
+  {
+    "ProductCode": "27201264-a1b7-453a-b9bf-90d6c6007993",
+    "Descriptive": "Shrimp - 100 / 200 Cold Water",
+    "Quantity": 2,
+    "UnitPrice": 0.98,
+    "VATPercentage": 18.8
+  },
+  {
+    "ProductCode": "f02902f1-09ba-4428-809c-201a3627fb0a",
+    "Descriptive": "Flour - All Purpose",
+    "Quantity": 15,
+    "UnitPrice": 4.45,
+    "VATPercentage": 15.09
+  },
+  {
+    "ProductCode": "af3af51a-e8ac-4f3a-86a0-595534628c13",
+    "Descriptive": "Pork - Kidney",
+    "Quantity": 100,
+    "UnitPrice": 2.98,
+    "VATPercentage": 20.13
+  },
+  {
+    "ProductCode": "91ce3dda-23c6-46e6-9237-3361c4e8da62",
+    "Descriptive": "Vinegar - Rice",
+    "Quantity": 17,
+    "UnitPrice": 2.91,
+    "VATPercentage": 9.02
+  },
+  {
+    "ProductCode": "e557a418-6315-4930-bdc1-9cecf8f9c834",
+    "Descriptive": "Alize Sunset",
+    "Quantity": 43,
+    "UnitPrice": 2.44,
+    "VATPercentage": 11.66
+  },
+  {
+    "ProductCode": "9ca3d89d-4de9-4cf8-a583-a341a3607b06",
+    "Descriptive": "Plastic Wrap",
+    "Quantity": 63,
+    "UnitPrice": 6.19,
+    "VATPercentage": 15.88
+  },
+  {
+    "ProductCode": "416c5e05-3fcb-40c4-a2b4-f35bd900fbeb",
+    "Descriptive": "Flower - Carnations",
+    "Quantity": 9,
+    "UnitPrice": 0.62,
+    "VATPercentage": 13.87
+  },
+  {
+    "ProductCode": "95acbe73-a3ed-4767-a2ed-67f3199e6f92",
+    "Descriptive": "Soup Campbells Split Pea And Ham",
+    "Quantity": 67,
+    "UnitPrice": 9.58,
+    "VATPercentage": 8.45
+  },
+  {
+    "ProductCode": "badda381-d5b3-4acf-8a4a-df9e7eb6475a",
+    "Descriptive": "Soup - Campbells, Lentil",
+    "Quantity": 46,
+    "UnitPrice": 1.18,
+    "VATPercentage": 1.99
+  },
+  {
+    "ProductCode": "c5f1b2a0-ce95-4457-af23-2f3bfeb7c829",
+    "Descriptive": "Pork - Bacon, Double Smoked",
+    "Quantity": 67,
+    "UnitPrice": 4.77,
+    "VATPercentage": 11.31
+  },
+  {
+    "ProductCode": "35096d67-6332-44ce-86f0-874933a660d0",
+    "Descriptive": "Lettuce - Curly Endive",
+    "Quantity": 97,
+    "UnitPrice": 8.83,
+    "VATPercentage": 10.38
+  },
+  {
+    "ProductCode": "b9e382e4-6205-4d1b-90d5-62faf23248c2",
+    "Descriptive": "Squid U5 - Thailand",
+    "Quantity": 27,
+    "UnitPrice": 8.78,
+    "VATPercentage": 21.82
+  },
+  {
+    "ProductCode": "f2a56079-37b4-4feb-9964-dd588675a075",
+    "Descriptive": "Pasta - Orzo, Dry",
+    "Quantity": 12,
+    "UnitPrice": 1.17,
+    "VATPercentage": 2.57
+  },
+  {
+    "ProductCode": "b710151b-51b4-4ee5-83fc-d681bed59cfb",
+    "Descriptive": "Duck - Legs",
+    "Quantity": 100,
+    "UnitPrice": 6.58,
+    "VATPercentage": 18.8
+  },
+  {
+    "ProductCode": "ae0bab33-065e-4ed8-a8e4-48898622149d",
+    "Descriptive": "Appetizer - Assorted Box",
+    "Quantity": 80,
+    "UnitPrice": 9.32,
+    "VATPercentage": 18.9
+  },
+  {
+    "ProductCode": "d4abb0bb-0b23-4ef2-b106-b292dddb3de4",
+    "Descriptive": "Pail For Lid 1537",
+    "Quantity": 64,
+    "UnitPrice": 6.69,
+    "VATPercentage": 4.79
+  },
+  {
+    "ProductCode": "daa3e395-ad9b-439d-9531-f75a3cce3f72",
+    "Descriptive": "Syrup - Golden, Lyles",
+    "Quantity": 8,
+    "UnitPrice": 5.1,
+    "VATPercentage": 22.46
+  },
+  {
+    "ProductCode": "f342dbe2-71a4-46bd-bac1-d3d9ea050240",
+    "Descriptive": "Thyme - Fresh",
+    "Quantity": 23,
+    "UnitPrice": 5.73,
+    "VATPercentage": 6.69
+  },
+  {
+    "ProductCode": "92a65cb1-d845-41d6-ae4a-80d1c38ad5d4",
+    "Descriptive": "Appetiser - Bought",
+    "Quantity": 57,
+    "UnitPrice": 8.92,
+    "VATPercentage": 17.71
+  },
+  {
+    "ProductCode": "7c07e755-41e2-4e3b-bf42-f6b2d827f04d",
+    "Descriptive": "Strawberries - California",
+    "Quantity": 35,
+    "UnitPrice": 8.44,
+    "VATPercentage": 8.35
+  },
+  {
+    "ProductCode": "5269656c-3f17-4418-b3fa-b73aaae2f43e",
+    "Descriptive": "Pepper - Red Bell",
+    "Quantity": 34,
+    "UnitPrice": 9.62,
+    "VATPercentage": 21.76
+  },
+  {
+    "ProductCode": "0d1f2aea-4352-432f-97e6-e1aa54eaf968",
+    "Descriptive": "Cocoa Powder - Dutched",
+    "Quantity": 68,
+    "UnitPrice": 5.5,
+    "VATPercentage": 8.67
+  },
+  {
+    "ProductCode": "94c250bc-ca25-4b15-857a-3426ff7a7e4b",
+    "Descriptive": "Olive - Spread Tapenade",
+    "Quantity": 23,
+    "UnitPrice": 4,
+    "VATPercentage": 19.67
+  },
+  {
+    "ProductCode": "424f7dd2-ea53-4d9c-ad5d-bf5f8ec69479",
+    "Descriptive": "Pasta - Tortellini, Fresh",
+    "Quantity": 6,
+    "UnitPrice": 7.75,
+    "VATPercentage": 14.03
+  },
+  {
+    "ProductCode": "024b1940-d9e2-464c-82f3-61e46e3dc0f7",
+    "Descriptive": "Marjoram - Dried, Rubbed",
+    "Quantity": 69,
+    "UnitPrice": 2.1,
+    "VATPercentage": 15.79
+  },
+  {
+    "ProductCode": "acc7842e-23a8-4fc0-b044-84df1083b9b4",
+    "Descriptive": "Nut - Pecan, Halves",
+    "Quantity": 58,
+    "UnitPrice": 2.28,
+    "VATPercentage": 12.42
+  },
+  {
+    "ProductCode": "70d67028-c079-42dd-8636-c242e68614d4",
+    "Descriptive": "Praline Paste",
+    "Quantity": 76,
+    "UnitPrice": 6.32,
+    "VATPercentage": 21.08
+  },
+  {
+    "ProductCode": "c7c1bb46-5d80-42c7-bad0-3ca14fe29acc",
+    "Descriptive": "Muffin Batt - Ban Dream Zero",
+    "Quantity": 100,
+    "UnitPrice": 8.84,
+    "VATPercentage": 5.16
+  },
+  {
+    "ProductCode": "12ba5bd6-8966-4b74-aa62-8ece1750396a",
+    "Descriptive": "Wine - Alsace Gewurztraminer",
+    "Quantity": 29,
+    "UnitPrice": 8.61,
+    "VATPercentage": 18.27
+  },
+  {
+    "ProductCode": "d86a3926-0432-4dff-b4c5-567709a0f40f",
+    "Descriptive": "Sprite, Diet - 355ml",
+    "Quantity": 10,
+    "UnitPrice": 2.43,
+    "VATPercentage": 21.5
+  },
+  {
+    "ProductCode": "0b49cb39-bace-46fe-b25d-4754443f8c2f",
+    "Descriptive": "Goldschalger",
+    "Quantity": 100,
+    "UnitPrice": 1.1,
+    "VATPercentage": 22.74
+  },
+  {
+    "ProductCode": "e4de0eea-db8c-4fed-8473-eeef64d16fbd",
+    "Descriptive": "Pasta - Angel Hair",
+    "Quantity": 68,
+    "UnitPrice": 7.27,
+    "VATPercentage": 4.47
+  },
+  {
+    "ProductCode": "7d8b7dd0-6b97-4795-9ba5-06d5463449b5",
+    "Descriptive": "Soup - Campbells, Lentil",
+    "Quantity": 24,
+    "UnitPrice": 3.94,
+    "VATPercentage": 15.19
+  },
+  {
+    "ProductCode": "3723cfd7-92a9-4479-a0ff-1e1820e7f9b3",
+    "Descriptive": "Lemon Grass",
+    "Quantity": 32,
+    "UnitPrice": 9,
+    "VATPercentage": 12.35
+  },
+  {
+    "ProductCode": "6eda8a0d-c41e-4944-9012-1fae1159de90",
+    "Descriptive": "Amarula Cream",
+    "Quantity": 95,
+    "UnitPrice": 6.58,
+    "VATPercentage": 11.1
+  },
+  {
+    "ProductCode": "a9b28e18-8d0c-49bd-ab89-8b3681fda7c5",
+    "Descriptive": "Pepper - Red Thai",
+    "Quantity": 52,
+    "UnitPrice": 4.59,
+    "VATPercentage": 16.12
+  },
+  {
+    "ProductCode": "a7262c95-9b5b-4776-9718-8d6bfc49f8d0",
+    "Descriptive": "Soup - Clam Chowder, Dry Mix",
+    "Quantity": 9,
+    "UnitPrice": 4.29,
+    "VATPercentage": 22.25
+  },
+  {
+    "ProductCode": "9fd83c9a-d870-4534-851c-6daed6aa2539",
+    "Descriptive": "Ecolab - Balanced Fusion",
+    "Quantity": 43,
+    "UnitPrice": 0.31,
+    "VATPercentage": 1.39
+  },
+  {
+    "ProductCode": "701bfa7b-c343-4981-aeb3-ad200cccb628",
+    "Descriptive": "Syrup - Golden, Lyles",
+    "Quantity": 73,
+    "UnitPrice": 0.62,
+    "VATPercentage": 2.57
+  },
+  {
+    "ProductCode": "cc9c3fbb-4663-4579-9da0-d4354e78d2c6",
+    "Descriptive": "Lettuce Romaine Chopped",
+    "Quantity": 51,
+    "UnitPrice": 4.48,
+    "VATPercentage": 17.22
+  },
+  {
+    "ProductCode": "e534ed50-6a37-4fcb-be4a-dbbff10e8080",
+    "Descriptive": "Tea Leaves - Oolong",
+    "Quantity": 64,
+    "UnitPrice": 0.21,
+    "VATPercentage": 17.73
+  },
+  {
+    "ProductCode": "85eeeeaa-1685-420e-9623-7166e671f0a5",
+    "Descriptive": "Hand Towel",
+    "Quantity": 91,
+    "UnitPrice": 5.46,
+    "VATPercentage": 8.56
+  },
+  {
+    "ProductCode": "8f78a5e1-54da-4300-a9e4-d6099663cdb9",
+    "Descriptive": "Cheese - Oka",
+    "Quantity": 94,
+    "UnitPrice": 7.65,
+    "VATPercentage": 17.13
+  },
+  {
+    "ProductCode": "931ffe7c-71e4-4de8-ba60-7a722226c453",
+    "Descriptive": "Bread - White, Sliced",
+    "Quantity": 89,
+    "UnitPrice": 5.83,
+    "VATPercentage": 11.97
+  },
+  {
+    "ProductCode": "08ab3b36-41a3-46e4-abba-ec66c2de3390",
+    "Descriptive": "Island Oasis - Lemonade",
+    "Quantity": 52,
+    "UnitPrice": 9.94,
+    "VATPercentage": 20.13
+  },
+  {
+    "ProductCode": "b9fb2d68-4f4a-4909-bd48-808b311c58bc",
+    "Descriptive": "Wine - Muscadet Sur Lie",
+    "Quantity": 83,
+    "UnitPrice": 6.87,
+    "VATPercentage": 7.92
+  },
+  {
+    "ProductCode": "af4220f9-9fff-4dfa-9bb9-165b53afa236",
+    "Descriptive": "Brownies - Two Bite, Chocolate",
+    "Quantity": 72,
+    "UnitPrice": 7.37,
+    "VATPercentage": 21.86
+  },
+  {
+    "ProductCode": "a34c7729-98fa-45ae-9117-b27c4881169f",
+    "Descriptive": "Bread - Pain Au Liat X12",
+    "Quantity": 23,
+    "UnitPrice": 7.06,
+    "VATPercentage": 22.94
+  },
+  {
+    "ProductCode": "654957f5-82df-4a9a-b9a0-a8b37c6c3e06",
+    "Descriptive": "Squash - Guords",
+    "Quantity": 58,
+    "UnitPrice": 0.64,
+    "VATPercentage": 6.54
+  },
+  {
+    "ProductCode": "da6ebb2a-9452-4ca9-a13e-603255b609d7",
+    "Descriptive": "Dry Ice",
+    "Quantity": 98,
+    "UnitPrice": 9.21,
+    "VATPercentage": 2.94
+  },
+  {
+    "ProductCode": "72f731e2-fad0-403d-a765-40d7789a20dd",
+    "Descriptive": "Numi - Assorted Teas",
+    "Quantity": 31,
+    "UnitPrice": 3.77,
+    "VATPercentage": 9.24
+  },
+  {
+    "ProductCode": "11950a58-70f8-499d-bf4e-3b4a9d7f9b09",
+    "Descriptive": "Mustard - Dry, Powder",
+    "Quantity": 48,
+    "UnitPrice": 2.47,
+    "VATPercentage": 2.8
+  },
+  {
+    "ProductCode": "49e6387b-9af0-4646-b3cb-52373a315af4",
+    "Descriptive": "Towel Multifold",
+    "Quantity": 65,
+    "UnitPrice": 2.94,
+    "VATPercentage": 7.35
+  },
+  {
+    "ProductCode": "dc377e23-e90e-46b7-9083-376ddb08a3af",
+    "Descriptive": "Cookie Dough - Oatmeal Rasin",
+    "Quantity": 72,
+    "UnitPrice": 7.87,
+    "VATPercentage": 13.6
+  },
+  {
+    "ProductCode": "f8415e14-881c-4073-b5be-c8c2dd3a7475",
+    "Descriptive": "Veal - Loin",
+    "Quantity": 6,
+    "UnitPrice": 8.27,
+    "VATPercentage": 15.58
+  },
+  {
+    "ProductCode": "3091955e-0111-4e29-80c2-5d2d691ac10b",
+    "Descriptive": "Vinegar - White",
+    "Quantity": 18,
+    "UnitPrice": 6.03,
+    "VATPercentage": 6.02
+  },
+  {
+    "ProductCode": "1f896542-c434-44b1-9d62-46ba02439b9a",
+    "Descriptive": "Rice - Wild",
+    "Quantity": 50,
+    "UnitPrice": 0.8,
+    "VATPercentage": 5.22
+  },
+  {
+    "ProductCode": "6d47b5e3-15dd-4d96-bb8e-3093c40c6a35",
+    "Descriptive": "Ezy Change Mophandle",
+    "Quantity": 48,
+    "UnitPrice": 7,
+    "VATPercentage": 19.78
+  },
+  {
+    "ProductCode": "f2fe21a8-97f6-47c5-8568-7f6a92bfd136",
+    "Descriptive": "Ocean Spray - Ruby Red",
+    "Quantity": 81,
+    "UnitPrice": 3.59,
+    "VATPercentage": 10.63
+  },
+  {
+    "ProductCode": "a3303351-8b2d-47b1-8be5-3c725be570fd",
+    "Descriptive": "Bread - Multigrain",
+    "Quantity": 93,
+    "UnitPrice": 3.84,
+    "VATPercentage": 10.76
+  },
+  {
+    "ProductCode": "9131d58f-69ec-4f84-a2f9-f07a356bd92e",
+    "Descriptive": "Soup - Campbells, Cream Of",
+    "Quantity": 46,
+    "UnitPrice": 6.98,
+    "VATPercentage": 17.92
+  },
+  {
+    "ProductCode": "5318097e-c8d8-4bad-b021-b580fe293356",
+    "Descriptive": "Beef - Ground, Extra Lean, Fresh",
+    "Quantity": 75,
+    "UnitPrice": 7.49,
+    "VATPercentage": 11.2
+  },
+  {
+    "ProductCode": "9ef15566-02cc-49c7-b2df-69d7e403244f",
+    "Descriptive": "Aspic - Amber",
+    "Quantity": 86,
+    "UnitPrice": 0.86,
+    "VATPercentage": 11.36
+  },
+  {
+    "ProductCode": "7d78643f-9ca7-48e2-b894-507cf34b3322",
+    "Descriptive": "Pasta - Fusili Tri - Coloured",
+    "Quantity": 57,
+    "UnitPrice": 1.53,
+    "VATPercentage": 21.77
+  },
+  {
+    "ProductCode": "4f517d66-57a2-4f9d-b02f-b012f4b0a58c",
+    "Descriptive": "Horseradish - Prepared",
+    "Quantity": 49,
+    "UnitPrice": 5.86,
+    "VATPercentage": 8.05
+  },
+  {
+    "ProductCode": "55253b81-7d33-4535-b8c5-ba5eb30a2382",
+    "Descriptive": "Juice - Cranberry 284ml",
+    "Quantity": 37,
+    "UnitPrice": 0.61,
+    "VATPercentage": 10.9
+  },
+  {
+    "ProductCode": "aa3011f6-f368-476b-9aaf-b7e1d928261d",
+    "Descriptive": "Shrimp - 21/25, Peel And Deviened",
+    "Quantity": 86,
+    "UnitPrice": 6.82,
+    "VATPercentage": 19.03
+  },
+  {
+    "ProductCode": "443c5f0b-6601-4c1a-916b-cbb18bed96b6",
+    "Descriptive": "Oil - Safflower",
+    "Quantity": 94,
+    "UnitPrice": 6.67,
+    "VATPercentage": 3.04
+  },
+  {
+    "ProductCode": "f8b9d899-32e4-4341-bcf2-39199df14cf3",
+    "Descriptive": "Eggplant - Asian",
+    "Quantity": 62,
+    "UnitPrice": 1.35,
+    "VATPercentage": 16.97
+  },
+  {
+    "ProductCode": "a9034214-4c45-45b9-b62f-1e99e9209440",
+    "Descriptive": "Banana - Leaves",
+    "Quantity": 87,
+    "UnitPrice": 3.93,
+    "VATPercentage": 12.15
+  },
+  {
+    "ProductCode": "1d356347-a3ab-4595-8048-f38bddefd042",
+    "Descriptive": "Lamb - Whole, Fresh",
+    "Quantity": 41,
+    "UnitPrice": 2.58,
+    "VATPercentage": 6.52
+  },
+  {
+    "ProductCode": "dfe08cff-96ab-4c37-8ed3-73e9ec04b8c6",
+    "Descriptive": "Cheese - Grie Des Champ",
+    "Quantity": 50,
+    "UnitPrice": 3.2,
+    "VATPercentage": 9.72
+  },
+  {
+    "ProductCode": "74a8f0e8-05dd-4784-bce6-17b011636dc7",
+    "Descriptive": "Crab - Claws, 26 - 30",
+    "Quantity": 71,
+    "UnitPrice": 4.75,
+    "VATPercentage": 14.35
+  },
+  {
+    "ProductCode": "bf1a66df-af3c-47e2-9ac4-bef5c96c2338",
+    "Descriptive": "Sponge Cake Mix - Chocolate",
+    "Quantity": 77,
+    "UnitPrice": 7.45,
+    "VATPercentage": 16.59
+  },
+  {
+    "ProductCode": "3ea2a434-3ab2-40c8-a275-764d3467cf4e",
+    "Descriptive": "Truffle - Whole Black Peeled",
+    "Quantity": 1,
+    "UnitPrice": 6.55,
+    "VATPercentage": 18.74
+  },
+  {
+    "ProductCode": "f3bfa898-d065-411f-b501-c0892ee2daf2",
+    "Descriptive": "Beans - Navy, Dry",
+    "Quantity": 15,
+    "UnitPrice": 5.15,
+    "VATPercentage": 3.57
+  },
+  {
+    "ProductCode": "93229802-404f-494d-8ef0-cea256bb5165",
+    "Descriptive": "Oats Large Flake",
+    "Quantity": 83,
+    "UnitPrice": 5.34,
+    "VATPercentage": 17.71
+  },
+  {
+    "ProductCode": "24293bc1-8b47-477f-a936-81860a4cc942",
+    "Descriptive": "Pail - 15l White, With Handle",
+    "Quantity": 2,
+    "UnitPrice": 7.91,
+    "VATPercentage": 20.99
+  },
+  {
+    "ProductCode": "ae11b2cb-0aaf-4071-9493-0800eaf6165d",
+    "Descriptive": "Salmon - Atlantic, No Skin",
+    "Quantity": 84,
+    "UnitPrice": 8.76,
+    "VATPercentage": 6.26
+  },
+  {
+    "ProductCode": "a97072ac-5278-44df-a051-d1cba207d4da",
+    "Descriptive": "Lettuce - Arugula",
+    "Quantity": 43,
+    "UnitPrice": 9.8,
+    "VATPercentage": 4.54
+  },
+  {
+    "ProductCode": "0bc41b88-a57c-4810-bbb7-fd48040cd7a1",
+    "Descriptive": "Arizona - Green Tea",
+    "Quantity": 58,
+    "UnitPrice": 1.1,
+    "VATPercentage": 1.73
+  },
+  {
+    "ProductCode": "c076726a-b9fe-4139-8c3f-a38150df507e",
+    "Descriptive": "Fork - Plastic",
+    "Quantity": 18,
+    "UnitPrice": 1.48,
+    "VATPercentage": 16.83
+  },
+  {
+    "ProductCode": "51409ab3-8637-430e-aaf8-4b3a6201ed4b",
+    "Descriptive": "Island Oasis - Mango Daiquiri",
+    "Quantity": 85,
+    "UnitPrice": 8.16,
+    "VATPercentage": 10.19
+  },
+  {
+    "ProductCode": "0f8d0a7d-22f4-4b58-95c0-f0e608ae01e2",
+    "Descriptive": "Tray - 12in Rnd Blk",
+    "Quantity": 65,
+    "UnitPrice": 7.14,
+    "VATPercentage": 7.6
+  },
+  {
+    "ProductCode": "ec7bca29-93dd-4d21-8951-6402f6c0ac64",
+    "Descriptive": "Pasta - Orzo, Dry",
+    "Quantity": 16,
+    "UnitPrice": 7.24,
+    "VATPercentage": 12.51
+  },
+  {
+    "ProductCode": "32b472af-15b6-4044-94a1-a3ce747a2cd2",
+    "Descriptive": "Fond - Neutral",
+    "Quantity": 71,
+    "UnitPrice": 7.55,
+    "VATPercentage": 2.66
+  },
+  {
+    "ProductCode": "b675a43f-1363-4677-9cac-939429e71ec0",
+    "Descriptive": "Cheese - Victor Et Berthold",
+    "Quantity": 82,
+    "UnitPrice": 2.23,
+    "VATPercentage": 17.88
+  },
+  {
+    "ProductCode": "3197d2ee-db3d-4fcd-bba1-43b0fef749b9",
+    "Descriptive": "Tortillas - Flour, 8",
+    "Quantity": 19,
+    "UnitPrice": 6.04,
+    "VATPercentage": 8.69
+  },
+  {
+    "ProductCode": "21bde0e4-6f14-4d81-91bb-1e85ea854e96",
+    "Descriptive": "Veal - Inside, Choice",
+    "Quantity": 21,
+    "UnitPrice": 9.23,
+    "VATPercentage": 3.41
+  },
+  {
+    "ProductCode": "8eb54af9-6f13-447d-85c1-1543e607dad4",
+    "Descriptive": "Trout Rainbow Whole",
+    "Quantity": 92,
+    "UnitPrice": 5.82,
+    "VATPercentage": 18.36
+  },
+  {
+    "ProductCode": "e8e2a0cf-1f36-4fb1-ba5f-85ed39d1864d",
+    "Descriptive": "Sugar - Monocystal / Rock",
+    "Quantity": 56,
+    "UnitPrice": 2.6,
+    "VATPercentage": 10.52
+  },
+  {
+    "ProductCode": "133808a4-ec12-4c22-9156-e077f750cf99",
+    "Descriptive": "Filling - Mince Meat",
+    "Quantity": 64,
+    "UnitPrice": 0.51,
+    "VATPercentage": 1.18
+  },
+  {
+    "ProductCode": "86306ade-3cc3-4d37-af81-1a1d94ddc65a",
+    "Descriptive": "Truffle - Whole Black Peeled",
+    "Quantity": 21,
+    "UnitPrice": 9.05,
+    "VATPercentage": 8.55
+  },
+  {
+    "ProductCode": "14e7b39c-1dc7-418a-96ad-9fbb77a87878",
+    "Descriptive": "Plate Pie Foil",
+    "Quantity": 20,
+    "UnitPrice": 0.01,
+    "VATPercentage": 3.94
+  },
+  {
+    "ProductCode": "6f2440b1-a72e-4404-be73-3f42c8b1e28b",
+    "Descriptive": "Cheese - La Sauvagine",
+    "Quantity": 50,
+    "UnitPrice": 3.18,
+    "VATPercentage": 11.51
+  },
+  {
+    "ProductCode": "7e5236e0-d903-4823-9e71-1a781ae632ae",
+    "Descriptive": "Yogurt - Assorted Pack",
+    "Quantity": 49,
+    "UnitPrice": 9.94,
+    "VATPercentage": 17.59
+  },
+  {
+    "ProductCode": "892a8da2-bdd8-4381-918f-a1a6d6038653",
+    "Descriptive": "Wine - Champagne Brut Veuve",
+    "Quantity": 53,
+    "UnitPrice": 5.49,
+    "VATPercentage": 13
+  },
+  {
+    "ProductCode": "4eab4ec7-e9ad-4e56-892e-29a5ceebc9a0",
+    "Descriptive": "Beef - Flank Steak",
+    "Quantity": 64,
+    "UnitPrice": 9.25,
+    "VATPercentage": 17.78
+  },
+  {
+    "ProductCode": "24182c6f-5087-42b1-ba4a-eabc443340b8",
+    "Descriptive": "Petite Baguette",
+    "Quantity": 34,
+    "UnitPrice": 1.36,
+    "VATPercentage": 10.02
+  },
+  {
+    "ProductCode": "e2e85b8d-2905-4e9f-a51f-ae294ddaea2c",
+    "Descriptive": "Crackers - Water",
+    "Quantity": 51,
+    "UnitPrice": 9.81,
+    "VATPercentage": 7.26
+  },
+  {
+    "ProductCode": "a1793bbe-5e13-406c-86b7-6cf7be0db513",
+    "Descriptive": "Mustard - Dry, Powder",
+    "Quantity": 44,
+    "UnitPrice": 2.47,
+    "VATPercentage": 12.11
+  },
+  {
+    "ProductCode": "d9d98c87-580b-49f5-a52c-6eca268d1456",
+    "Descriptive": "Beer - True North Lager",
+    "Quantity": 17,
+    "UnitPrice": 5.65,
+    "VATPercentage": 6.62
+  },
+  {
+    "ProductCode": "0f9b3673-4cfa-4bdb-a092-36c024def2e2",
+    "Descriptive": "Energy Drink",
+    "Quantity": 19,
+    "UnitPrice": 0.98,
+    "VATPercentage": 12.36
+  },
+  {
+    "ProductCode": "0f7560dd-7a13-41e5-8575-dee1400ac457",
+    "Descriptive": "Mushroom - Shitake, Fresh",
+    "Quantity": 98,
+    "UnitPrice": 2.85,
+    "VATPercentage": 9.36
+  },
+  {
+    "ProductCode": "efe8f11e-ecf5-4fd1-ae3c-f7fac62acd30",
+    "Descriptive": "Stock - Beef, Brown",
+    "Quantity": 25,
+    "UnitPrice": 6.2,
+    "VATPercentage": 18.08
+  },
+  {
+    "ProductCode": "6a4f8380-5e59-4524-8eb0-1965ac611c78",
+    "Descriptive": "Oven Mitts 17 Inch",
+    "Quantity": 43,
+    "UnitPrice": 0.7,
+    "VATPercentage": 21.25
+  },
+  {
+    "ProductCode": "a4e7a25e-1ebc-45e5-a7d9-3f26f9324333",
+    "Descriptive": "Wine - Tio Pepe Sherry Fino",
+    "Quantity": 74,
+    "UnitPrice": 8.97,
+    "VATPercentage": 9.49
+  },
+  {
+    "ProductCode": "758b7ba0-2f54-47e2-846a-c9e16bf4c52b",
+    "Descriptive": "V8 Pet",
+    "Quantity": 19,
+    "UnitPrice": 1.81,
+    "VATPercentage": 10.05
+  },
+  {
+    "ProductCode": "8918c223-72e4-491d-9c5e-114f5ff48d9e",
+    "Descriptive": "Kale - Red",
+    "Quantity": 27,
+    "UnitPrice": 1.19,
+    "VATPercentage": 8.24
+  },
+  {
+    "ProductCode": "6a9c535e-c47b-4fda-aa70-290d79837c42",
+    "Descriptive": "Towel - Roll White",
+    "Quantity": 44,
+    "UnitPrice": 7.93,
+    "VATPercentage": 3.75
+  },
+  {
+    "ProductCode": "6ad09be3-ec8c-4c12-87e7-8c04131e45df",
+    "Descriptive": "Cardamon Ground",
+    "Quantity": 11,
+    "UnitPrice": 2.81,
+    "VATPercentage": 3.78
+  },
+  {
+    "ProductCode": "6785f1d3-a97a-417d-8815-1de262200ded",
+    "Descriptive": "Soup Knorr Chili With Beans",
+    "Quantity": 97,
+    "UnitPrice": 2.83,
+    "VATPercentage": 22.04
+  },
+  {
+    "ProductCode": "c8efee6d-47fb-47ce-9e3a-b63d788055eb",
+    "Descriptive": "Ecolab - Ster Bac",
+    "Quantity": 90,
+    "UnitPrice": 5.61,
+    "VATPercentage": 11.37
+  },
+  {
+    "ProductCode": "70920753-201f-4556-b9f2-0dcfe27c4814",
+    "Descriptive": "Shrimp - Black Tiger 8 - 12",
+    "Quantity": 82,
+    "UnitPrice": 0.13,
+    "VATPercentage": 19.01
+  },
+  {
+    "ProductCode": "599477c3-07df-4288-973b-684c3df3da63",
+    "Descriptive": "Yogurt - Blueberry, 175 Gr",
+    "Quantity": 97,
+    "UnitPrice": 2.22,
+    "VATPercentage": 22.25
+  },
+  {
+    "ProductCode": "8ddf260d-c05a-45dd-9db8-0315b23ec5af",
+    "Descriptive": "Yogurt - Raspberry, 175 Gr",
+    "Quantity": 23,
+    "UnitPrice": 1.49,
+    "VATPercentage": 4.71
+  },
+  {
+    "ProductCode": "eaa2a46a-c36e-4b9a-a076-309076e1c569",
+    "Descriptive": "Gatorade - Orange",
+    "Quantity": 32,
+    "UnitPrice": 9.45,
+    "VATPercentage": 22.01
+  },
+  {
+    "ProductCode": "93569b86-64f8-4ac3-9a42-c7c78a450364",
+    "Descriptive": "Absolut Citron",
+    "Quantity": 32,
+    "UnitPrice": 9.71,
+    "VATPercentage": 11.67
+  },
+  {
+    "ProductCode": "8d8a94b6-25e1-49fe-b971-240aecc29c52",
+    "Descriptive": "Arctic Char - Fillets",
+    "Quantity": 96,
+    "UnitPrice": 3.9,
+    "VATPercentage": 9.31
+  },
+  {
+    "ProductCode": "fc6a2ede-ad8a-4bf2-9daa-44efa2227a1c",
+    "Descriptive": "Rabbit - Saddles",
+    "Quantity": 92,
+    "UnitPrice": 2.45,
+    "VATPercentage": 20.24
+  },
+  {
+    "ProductCode": "659f4285-277c-4f08-94f7-f26026c37f35",
+    "Descriptive": "Lotus Root",
+    "Quantity": 36,
+    "UnitPrice": 9.46,
+    "VATPercentage": 12.35
+  },
+  {
+    "ProductCode": "fd0a0fda-2b3e-4dbe-956f-159193cc58d8",
+    "Descriptive": "Hand Towel",
+    "Quantity": 34,
+    "UnitPrice": 1.37,
+    "VATPercentage": 3.34
+  },
+  {
+    "ProductCode": "0069fae1-1291-4522-aae1-40a93c35f837",
+    "Descriptive": "Sauce - Hollandaise",
+    "Quantity": 15,
+    "UnitPrice": 6.25,
+    "VATPercentage": 20.68
+  },
+  {
+    "ProductCode": "693bebc8-1a37-4bcd-83bc-713213021b3c",
+    "Descriptive": "Cheese - Wine",
+    "Quantity": 48,
+    "UnitPrice": 9.23,
+    "VATPercentage": 11.22
+  },
+  {
+    "ProductCode": "4334f6bd-0123-4554-a270-a05ce8c1daf0",
+    "Descriptive": "Wine - Malbec Trapiche Reserve",
+    "Quantity": 23,
+    "UnitPrice": 3.26,
+    "VATPercentage": 3.14
+  },
+  {
+    "ProductCode": "3dbaeef8-586a-48b2-a5ae-d445db5e1ec7",
+    "Descriptive": "Trout - Rainbow, Frozen",
+    "Quantity": 65,
+    "UnitPrice": 3.67,
+    "VATPercentage": 20.56
+  },
+  {
+    "ProductCode": "2adb2036-b49a-4a9f-b934-d6a9fcc5021b",
+    "Descriptive": "Gatorade - Xfactor Berry",
+    "Quantity": 69,
+    "UnitPrice": 8.38,
+    "VATPercentage": 15.71
+  },
+  {
+    "ProductCode": "1d3a89db-e6cc-40f8-99fc-b2ce41bce7b0",
+    "Descriptive": "Bread - Corn Muffaleta Onion",
+    "Quantity": 44,
+    "UnitPrice": 2.97,
+    "VATPercentage": 4.5
+  },
+  {
+    "ProductCode": "0ba04e94-ac6e-4152-809f-a0e1172bcd81",
+    "Descriptive": "Ginger - Crystalized",
+    "Quantity": 59,
+    "UnitPrice": 2.26,
+    "VATPercentage": 22.33
+  },
+  {
+    "ProductCode": "73028c99-45ae-48fe-96aa-a31429a2fc5a",
+    "Descriptive": "Nougat - Paste / Cream",
+    "Quantity": 48,
+    "UnitPrice": 5.79,
+    "VATPercentage": 19.78
+  },
+  {
+    "ProductCode": "11141ffe-5144-4fb4-bb5a-0ff26dfae3f2",
+    "Descriptive": "Squash - Sunburst",
+    "Quantity": 17,
+    "UnitPrice": 3.16,
+    "VATPercentage": 22.51
+  },
+  {
+    "ProductCode": "55712d14-1164-499b-bed3-dd73d792aaff",
+    "Descriptive": "Quail - Whole, Bone - In",
+    "Quantity": 56,
+    "UnitPrice": 6.2,
+    "VATPercentage": 17.44
+  },
+  {
+    "ProductCode": "b67b52e8-9550-48f5-9c85-73f3c156d75d",
+    "Descriptive": "Nescafe - Frothy French Vanilla",
+    "Quantity": 39,
+    "UnitPrice": 7.33,
+    "VATPercentage": 6.12
+  },
+  {
+    "ProductCode": "01bd38d2-20bf-42d7-8cc0-090f4dc179a0",
+    "Descriptive": "Milk - Chocolate 250 Ml",
+    "Quantity": 76,
+    "UnitPrice": 5.87,
+    "VATPercentage": 22.23
+  },
+  {
+    "ProductCode": "61d1bd05-0909-48e5-b5bb-cf7887ddc105",
+    "Descriptive": "Pork - Butt, Boneless",
+    "Quantity": 91,
+    "UnitPrice": 2.74,
+    "VATPercentage": 3.88
+  },
+  {
+    "ProductCode": "e5e33e66-bbfe-4899-a824-addeb4b7dc5d",
+    "Descriptive": "Compound - Strawberry",
+    "Quantity": 54,
+    "UnitPrice": 7.17,
+    "VATPercentage": 16.5
+  },
+  {
+    "ProductCode": "e3329615-ef0a-46f9-8fcc-f9cac85fd657",
+    "Descriptive": "Bread - Roll, Canadian Dinner",
+    "Quantity": 45,
+    "UnitPrice": 5.57,
+    "VATPercentage": 2.61
+  },
+  {
+    "ProductCode": "5c3efa9d-dae1-4825-a7a9-ab72314f48b8",
+    "Descriptive": "Beef - Rouladin, Sliced",
+    "Quantity": 40,
+    "UnitPrice": 5.65,
+    "VATPercentage": 12.47
+  },
+  {
+    "ProductCode": "4da1c7d8-0d87-4a01-913c-2e7c383797b2",
+    "Descriptive": "Fish - Soup Base, Bouillon",
+    "Quantity": 69,
+    "UnitPrice": 5.56,
+    "VATPercentage": 14.47
+  },
+  {
+    "ProductCode": "0ef76a5f-37fe-4256-a4b8-389528bf9e90",
+    "Descriptive": "Corn - Cream, Canned",
+    "Quantity": 59,
+    "UnitPrice": 7.12,
+    "VATPercentage": 22.48
+  },
+  {
+    "ProductCode": "e959cfdc-7a8e-45d0-99ff-211e3d8d1ece",
+    "Descriptive": "Shiratamako - Rice Flour",
+    "Quantity": 40,
+    "UnitPrice": 8.72,
+    "VATPercentage": 17.31
+  },
+  {
+    "ProductCode": "97597726-7e0d-4902-93bc-517d0ecc7aed",
+    "Descriptive": "Sachet",
+    "Quantity": 67,
+    "UnitPrice": 7.72,
+    "VATPercentage": 16.11
+  },
+  {
+    "ProductCode": "70ee7127-297e-4acd-aef5-ff7cb8f014ca",
+    "Descriptive": "Gatorade - Orange",
+    "Quantity": 91,
+    "UnitPrice": 7.97,
+    "VATPercentage": 7.34
+  },
+  {
+    "ProductCode": "5e2ed74d-4c36-49f1-93b1-4a6a4e1f04f2",
+    "Descriptive": "Compound - Mocha",
+    "Quantity": 40,
+    "UnitPrice": 1.13,
+    "VATPercentage": 13.5
+  },
+  {
+    "ProductCode": "2a863cb1-6d7f-4f76-b758-5a0e318a51ff",
+    "Descriptive": "Banana - Leaves",
+    "Quantity": 83,
+    "UnitPrice": 2.21,
+    "VATPercentage": 5.78
+  },
+  {
+    "ProductCode": "bca5d08b-4728-44c6-ae96-72ae3fa81070",
+    "Descriptive": "Cookie Double Choco",
+    "Quantity": 29,
+    "UnitPrice": 3.08,
+    "VATPercentage": 8.41
+  },
+  {
+    "ProductCode": "608dc57e-4ce9-4ff7-8640-be340c087b1a",
+    "Descriptive": "Napkin - Beverage 1 Ply",
+    "Quantity": 39,
+    "UnitPrice": 0.39,
+    "VATPercentage": 11.37
+  },
+  {
+    "ProductCode": "f5ca9394-587c-4181-87fd-2f2b4bcf44ee",
+    "Descriptive": "Pasta - Fett Alfredo, Single Serve",
+    "Quantity": 4,
+    "UnitPrice": 8.66,
+    "VATPercentage": 10.03
+  },
+  {
+    "ProductCode": "6c21c110-1cf5-4577-b210-994c0e8c90c9",
+    "Descriptive": "Towel - Roll White",
+    "Quantity": 74,
+    "UnitPrice": 1.77,
+    "VATPercentage": 14.58
+  },
+  {
+    "ProductCode": "2ce72495-9181-4e8d-af2e-ba2d3dc0dcd1",
+    "Descriptive": "Cookie Dough - Oatmeal Rasin",
+    "Quantity": 37,
+    "UnitPrice": 5.16,
+    "VATPercentage": 9.16
+  },
+  {
+    "ProductCode": "08f2d94c-5ba0-4472-abf9-7e93c048c136",
+    "Descriptive": "Soup Campbells Turkey Veg.",
+    "Quantity": 98,
+    "UnitPrice": 5.61,
+    "VATPercentage": 20.97
+  },
+  {
+    "ProductCode": "4ea195e6-d031-4c35-9d19-870e503d47fa",
+    "Descriptive": "Spinach - Spinach Leaf",
+    "Quantity": 26,
+    "UnitPrice": 3.44,
+    "VATPercentage": 22.08
+  },
+  {
+    "ProductCode": "c381c84d-d2e2-454c-8c40-4c00cb01da20",
+    "Descriptive": "Vodka - Moskovskaya",
+    "Quantity": 62,
+    "UnitPrice": 0.36,
+    "VATPercentage": 2.7
+  },
+  {
+    "ProductCode": "7e4c3a63-5d1b-479b-a550-6321dd4cb457",
+    "Descriptive": "Toamtoes 6x7 Select",
+    "Quantity": 73,
+    "UnitPrice": 9.98,
+    "VATPercentage": 21.95
+  },
+  {
+    "ProductCode": "d60bc025-65a8-4390-a199-40cd1e665486",
+    "Descriptive": "Coffee - French Vanilla Frothy",
+    "Quantity": 74,
+    "UnitPrice": 2.1,
+    "VATPercentage": 10.75
+  },
+  {
+    "ProductCode": "45dbba32-101b-46d9-abd0-1810d2c100f6",
+    "Descriptive": "Soup - Campbells Asian Noodle",
+    "Quantity": 48,
+    "UnitPrice": 2.67,
+    "VATPercentage": 5.67
+  },
+  {
+    "ProductCode": "7f0082aa-c31e-4e82-b2ce-c37e0df7df34",
+    "Descriptive": "Turkey - Breast, Boneless Sk On",
+    "Quantity": 67,
+    "UnitPrice": 4.3,
+    "VATPercentage": 11.64
+  },
+  {
+    "ProductCode": "a9e2bc02-028d-4971-99b4-74b240a59c20",
+    "Descriptive": "Crush - Orange, 355ml",
+    "Quantity": 25,
+    "UnitPrice": 2.36,
+    "VATPercentage": 17.97
+  },
+  {
+    "ProductCode": "00453232-e5b6-4904-b15e-289f8667c913",
+    "Descriptive": "Sugar - Individual Portions",
+    "Quantity": 50,
+    "UnitPrice": 3.01,
+    "VATPercentage": 6.5
+  },
+  {
+    "ProductCode": "a4949390-bbab-4a5b-aef9-b7fe419290e1",
+    "Descriptive": "Sauce - Chili",
+    "Quantity": 68,
+    "UnitPrice": 7.61,
+    "VATPercentage": 4.77
+  },
+  {
+    "ProductCode": "fac81054-f86a-40c9-acc0-4d0d243f26ea",
+    "Descriptive": "Coffee - Decaffeinato Coffee",
+    "Quantity": 77,
+    "UnitPrice": 6.95,
+    "VATPercentage": 10.47
+  },
+  {
+    "ProductCode": "4bd72a1b-e0d7-4c10-8d91-cc857fb0eaaa",
+    "Descriptive": "Cheese - Cambozola",
+    "Quantity": 28,
+    "UnitPrice": 7.08,
+    "VATPercentage": 13.09
+  },
+  {
+    "ProductCode": "e21165a6-3007-4594-8eeb-4adc8d0e21c1",
+    "Descriptive": "Rosemary - Dry",
+    "Quantity": 1,
+    "UnitPrice": 3.48,
+    "VATPercentage": 10.72
+  },
+  {
+    "ProductCode": "89dfb86c-8b82-4978-937f-1c339976cab6",
+    "Descriptive": "Veal - Shank, Pieces",
+    "Quantity": 35,
+    "UnitPrice": 6.2,
+    "VATPercentage": 22.98
+  },
+  {
+    "ProductCode": "66f5b158-0325-4b13-9644-878e378cea49",
+    "Descriptive": "Veal - Knuckle",
+    "Quantity": 84,
+    "UnitPrice": 3.77,
+    "VATPercentage": 14.31
+  },
+  {
+    "ProductCode": "9406c59b-dca0-47d1-99c6-530e5288c10d",
+    "Descriptive": "Sobe - Green Tea",
+    "Quantity": 21,
+    "UnitPrice": 5.36,
+    "VATPercentage": 15.72
+  },
+  {
+    "ProductCode": "4471508b-78c4-4990-a267-a8bce10ed679",
+    "Descriptive": "Juice - Cranberry 284ml",
+    "Quantity": 14,
+    "UnitPrice": 9.04,
+    "VATPercentage": 17.17
+  },
+  {
+    "ProductCode": "ec3e7cdf-f0c1-46fa-aaf6-72d342b4c641",
+    "Descriptive": "Salmon - Sockeye Raw",
+    "Quantity": 63,
+    "UnitPrice": 1.01,
+    "VATPercentage": 11.66
+  },
+  {
+    "ProductCode": "90c53c69-8b7c-446f-8196-c5ef80a7da77",
+    "Descriptive": "Boogies",
+    "Quantity": 65,
+    "UnitPrice": 2.12,
+    "VATPercentage": 1.71
+  },
+  {
+    "ProductCode": "71e85dd8-01ea-48ef-a86c-39c0345ceb10",
+    "Descriptive": "English Muffin",
+    "Quantity": 85,
+    "UnitPrice": 3.01,
+    "VATPercentage": 16.91
+  },
+  {
+    "ProductCode": "772a0b15-8ba7-4ef6-a4ef-2020587688ea",
+    "Descriptive": "Nestea - Ice Tea, Diet",
+    "Quantity": 47,
+    "UnitPrice": 9.28,
+    "VATPercentage": 18.69
+  },
+  {
+    "ProductCode": "efc03bda-65ae-47be-bb37-74b54b67ed9c",
+    "Descriptive": "Orange - Blood",
+    "Quantity": 15,
+    "UnitPrice": 0.93,
+    "VATPercentage": 22.91
+  },
+  {
+    "ProductCode": "f237aa64-27e5-4a51-a8bd-46c3ba41cc84",
+    "Descriptive": "Pasta - Lasagna Noodle, Frozen",
+    "Quantity": 35,
+    "UnitPrice": 3.72,
+    "VATPercentage": 16.66
+  },
+  {
+    "ProductCode": "443ee202-dc2f-45c6-af97-a2a3cf5fcf59",
+    "Descriptive": "Lettuce - Lolla Rosa",
+    "Quantity": 42,
+    "UnitPrice": 6.65,
+    "VATPercentage": 12.31
+  },
+  {
+    "ProductCode": "afdb534a-f1a8-4199-b46d-05675d0f80a3",
+    "Descriptive": "Pork - Shoulder",
+    "Quantity": 63,
+    "UnitPrice": 5.83,
+    "VATPercentage": 1.65
+  },
+  {
+    "ProductCode": "b6df74a5-55a4-4d51-860d-e86f136edb46",
+    "Descriptive": "Everfresh Products",
+    "Quantity": 63,
+    "UnitPrice": 3.43,
+    "VATPercentage": 15.79
+  },
+  {
+    "ProductCode": "4d55a2cc-5f7f-4446-b05f-0ccab6576ed4",
+    "Descriptive": "Milk - Chocolate 250 Ml",
+    "Quantity": 53,
+    "UnitPrice": 9.01,
+    "VATPercentage": 11.66
+  },
+  {
+    "ProductCode": "312b9c26-50e1-4a0d-bf75-b0c9c548c8f2",
+    "Descriptive": "Hickory Smoke, Liquid",
+    "Quantity": 54,
+    "UnitPrice": 2.59,
+    "VATPercentage": 13.57
+  },
+  {
+    "ProductCode": "4fb81650-7930-4044-9e50-fcd44e006504",
+    "Descriptive": "Isomalt",
+    "Quantity": 15,
+    "UnitPrice": 8.96,
+    "VATPercentage": 1.6
+  },
+  {
+    "ProductCode": "3d05ef07-3e2c-4b6a-96de-d278f08dfc4f",
+    "Descriptive": "Lamb - Loin Chops",
+    "Quantity": 53,
+    "UnitPrice": 8.8,
+    "VATPercentage": 13.87
+  },
+  {
+    "ProductCode": "92d17289-6f4f-4f1d-9c71-0a94afb4ab85",
+    "Descriptive": "Edible Flower - Mixed",
+    "Quantity": 78,
+    "UnitPrice": 6.51,
+    "VATPercentage": 13.08
+  },
+  {
+    "ProductCode": "f61466d1-494f-44ff-a761-0fa4c3983e2f",
+    "Descriptive": "Pork - European Side Bacon",
+    "Quantity": 86,
+    "UnitPrice": 5.74,
+    "VATPercentage": 15.37
+  },
+  {
+    "ProductCode": "19f5e5e8-5967-4e30-a1ba-3b27229791f9",
+    "Descriptive": "Wine - White, Mosel Gold",
+    "Quantity": 86,
+    "UnitPrice": 9.5,
+    "VATPercentage": 8.31
+  },
+  {
+    "ProductCode": "feb6e0f6-c0ef-4dda-a9be-436e437283a6",
+    "Descriptive": "Bread - Olive",
+    "Quantity": 5,
+    "UnitPrice": 7.25,
+    "VATPercentage": 3.05
+  },
+  {
+    "ProductCode": "c2f37990-cee9-4e83-9a26-77563582f622",
+    "Descriptive": "Vinegar - Rice",
+    "Quantity": 57,
+    "UnitPrice": 4.48,
+    "VATPercentage": 21.8
+  },
+  {
+    "ProductCode": "588855b4-f120-4c73-a536-9206889ed452",
+    "Descriptive": "Pumpkin",
+    "Quantity": 9,
+    "UnitPrice": 1.29,
+    "VATPercentage": 20.59
+  },
+  {
+    "ProductCode": "beeefda0-e1e1-4200-9661-f44ece46716f",
+    "Descriptive": "Ice Cream - Fudge Bars",
+    "Quantity": 34,
+    "UnitPrice": 4.43,
+    "VATPercentage": 5.03
+  },
+  {
+    "ProductCode": "a7bea4ed-edf2-45dd-83f4-618bfbd27f68",
+    "Descriptive": "Venison - Denver Leg Boneless",
+    "Quantity": 8,
+    "UnitPrice": 6.86,
+    "VATPercentage": 13.49
+  },
+  {
+    "ProductCode": "1641cb3d-4e62-4155-96ae-660b750772f2",
+    "Descriptive": "Pancetta",
+    "Quantity": 58,
+    "UnitPrice": 9.47,
+    "VATPercentage": 22.74
+  },
+  {
+    "ProductCode": "a9ed239f-530c-49de-ba5a-6a45b555a122",
+    "Descriptive": "Onions - Cippolini",
+    "Quantity": 34,
+    "UnitPrice": 0.14,
+    "VATPercentage": 12.63
+  },
+  {
+    "ProductCode": "f88fd479-d6b7-4aba-aead-6465ba540933",
+    "Descriptive": "Cookies - Fortune",
+    "Quantity": 34,
+    "UnitPrice": 8.56,
+    "VATPercentage": 19.86
+  },
+  {
+    "ProductCode": "30a7ffe6-63e4-449c-a53c-d667a88e24d0",
+    "Descriptive": "Pasta - Bauletti, Chicken White",
+    "Quantity": 40,
+    "UnitPrice": 1.51,
+    "VATPercentage": 11.96
+  },
+  {
+    "ProductCode": "c11f31e8-52d4-433c-b0c9-bdd7bb0bae30",
+    "Descriptive": "Cinnamon - Ground",
+    "Quantity": 55,
+    "UnitPrice": 1.13,
+    "VATPercentage": 17.65
+  },
+  {
+    "ProductCode": "01c5a69b-a2ec-4d98-b475-621d6032c12e",
+    "Descriptive": "Papadam",
+    "Quantity": 14,
+    "UnitPrice": 4.38,
+    "VATPercentage": 8.57
+  },
+  {
+    "ProductCode": "390b1265-e9ca-456e-8bac-864eb0bee54d",
+    "Descriptive": "Apple - Fuji",
+    "Quantity": 5,
+    "UnitPrice": 9.27,
+    "VATPercentage": 6.65
+  },
+  {
+    "ProductCode": "7a7ccf60-c1b8-4199-bf36-b54fcaf0d591",
+    "Descriptive": "Salt - Seasoned",
+    "Quantity": 86,
+    "UnitPrice": 0.53,
+    "VATPercentage": 10.03
+  },
+  {
+    "ProductCode": "668a2299-ae02-42e7-8038-579792cc4b6a",
+    "Descriptive": "Salami - Genova",
+    "Quantity": 75,
+    "UnitPrice": 4.07,
+    "VATPercentage": 4.49
+  },
+  {
+    "ProductCode": "ddce3b83-d5ba-465f-94d2-de78ce01f5ec",
+    "Descriptive": "Pork - Inside",
+    "Quantity": 4,
+    "UnitPrice": 5.5,
+    "VATPercentage": 22.24
+  },
+  {
+    "ProductCode": "abd493df-f930-4696-8b29-91c9dcc3afbf",
+    "Descriptive": "Filter - Coffee",
+    "Quantity": 98,
+    "UnitPrice": 5.6,
+    "VATPercentage": 3.2
+  },
+  {
+    "ProductCode": "64436cee-9378-47de-bde4-c3b27cad9228",
+    "Descriptive": "Tarragon - Primerba, Paste",
+    "Quantity": 98,
+    "UnitPrice": 7.95,
+    "VATPercentage": 14.32
+  },
+  {
+    "ProductCode": "5f565c33-7ff6-431f-a89f-7ed8fda850e5",
+    "Descriptive": "Bread Fig And Almond",
+    "Quantity": 73,
+    "UnitPrice": 2.14,
+    "VATPercentage": 20.9
+  },
+  {
+    "ProductCode": "d7cb2c76-8486-40eb-a46e-d0fc5fc8f2ee",
+    "Descriptive": "Pheasants - Whole",
+    "Quantity": 76,
+    "UnitPrice": 1.07,
+    "VATPercentage": 5.71
+  },
+  {
+    "ProductCode": "5527ad46-6f66-4a7b-aff8-d02ff56dfdaf",
+    "Descriptive": "Water - Spring 1.5lit",
+    "Quantity": 95,
+    "UnitPrice": 1.36,
+    "VATPercentage": 15.24
+  },
+  {
+    "ProductCode": "f21d5f2f-856d-47cd-9eb0-88971c8da871",
+    "Descriptive": "Containter - 3oz Microwave Rect.",
+    "Quantity": 28,
+    "UnitPrice": 2.92,
+    "VATPercentage": 8.31
+  },
+  {
+    "ProductCode": "86d2c107-2e6d-43fa-ae7e-6fa70b75f67a",
+    "Descriptive": "Chickensplit Half",
+    "Quantity": 96,
+    "UnitPrice": 1.55,
+    "VATPercentage": 7.41
+  },
+  {
+    "ProductCode": "958649d9-f6ca-4d78-bfc2-82b505554165",
+    "Descriptive": "Arrowroot",
+    "Quantity": 96,
+    "UnitPrice": 5.66,
+    "VATPercentage": 14.69
+  },
+  {
+    "ProductCode": "b2fecda0-2030-4864-8da2-7f071b5b0f48",
+    "Descriptive": "Ice Cream - Chocolate",
+    "Quantity": 15,
+    "UnitPrice": 2.09,
+    "VATPercentage": 14.88
+  },
+  {
+    "ProductCode": "e91ff398-fb83-4106-ac6d-cc7f48956c94",
+    "Descriptive": "Wine - Marlbourough Sauv Blanc",
+    "Quantity": 1,
+    "UnitPrice": 3.22,
+    "VATPercentage": 20.05
+  },
+  {
+    "ProductCode": "4f433117-50f5-41fb-8487-76b8c45b81d1",
+    "Descriptive": "Sauce - Roasted Red Pepper",
+    "Quantity": 7,
+    "UnitPrice": 6.61,
+    "VATPercentage": 12.65
+  },
+  {
+    "ProductCode": "1f0164ce-0934-4344-9c58-ff9df2ab7bc4",
+    "Descriptive": "Juice - Orange",
+    "Quantity": 21,
+    "UnitPrice": 2.44,
+    "VATPercentage": 8.9
+  },
+  {
+    "ProductCode": "4792fb6d-3169-417a-a176-641bf87c0718",
+    "Descriptive": "Cheese - Woolwich Goat, Log",
+    "Quantity": 65,
+    "UnitPrice": 4.96,
+    "VATPercentage": 1.52
+  },
+  {
+    "ProductCode": "72c46f5e-df03-4efa-96cc-1f369f3df59d",
+    "Descriptive": "Bagels Poppyseed",
+    "Quantity": 97,
+    "UnitPrice": 8.66,
+    "VATPercentage": 3.39
+  },
+  {
+    "ProductCode": "6ba42f00-c1a1-4b85-97d4-2c930e2b4810",
+    "Descriptive": "Snapple Lemon Tea",
+    "Quantity": 38,
+    "UnitPrice": 7.91,
+    "VATPercentage": 14.72
+  },
+  {
+    "ProductCode": "31144473-3704-4070-ad40-c0852494efc2",
+    "Descriptive": "Thyme - Dried",
+    "Quantity": 34,
+    "UnitPrice": 2.13,
+    "VATPercentage": 4.5
+  },
+  {
+    "ProductCode": "536e980e-4fa9-4030-a649-3ce47b21bf40",
+    "Descriptive": "Pepper - White, Ground",
+    "Quantity": 94,
+    "UnitPrice": 4.6,
+    "VATPercentage": 2.01
+  },
+  {
+    "ProductCode": "9d2cf4a8-9c58-4f80-a6e9-e4742d87c5b7",
+    "Descriptive": "Juice - Lime",
+    "Quantity": 56,
+    "UnitPrice": 5,
+    "VATPercentage": 5.31
+  },
+  {
+    "ProductCode": "d0e01f2d-ad90-401b-bf27-9aefa8bcdcbe",
+    "Descriptive": "Tea - English Breakfast",
+    "Quantity": 15,
+    "UnitPrice": 3.76,
+    "VATPercentage": 5.76
+  },
+  {
+    "ProductCode": "68d9ee29-1ce1-4e9d-86b1-bd013b54018b",
+    "Descriptive": "Cake Slab",
+    "Quantity": 80,
+    "UnitPrice": 6.69,
+    "VATPercentage": 1.7
+  },
+  {
+    "ProductCode": "915e027e-3878-4e8d-9238-33c0e883307d",
+    "Descriptive": "Tomatoes - Heirloom",
+    "Quantity": 78,
+    "UnitPrice": 6.01,
+    "VATPercentage": 14.99
+  },
+  {
+    "ProductCode": "56c037bf-f060-46b4-a13d-d001cdff7c18",
+    "Descriptive": "Coriander - Seed",
+    "Quantity": 12,
+    "UnitPrice": 9.11,
+    "VATPercentage": 19.53
+  },
+  {
+    "ProductCode": "c95ecf4a-a600-47fa-8d88-b50e262c6259",
+    "Descriptive": "Pastrami",
+    "Quantity": 37,
+    "UnitPrice": 3.45,
+    "VATPercentage": 3.46
+  },
+  {
+    "ProductCode": "74d8e5ee-7efa-4728-b42b-0090c376355b",
+    "Descriptive": "Nut - Pecan, Halves",
+    "Quantity": 24,
+    "UnitPrice": 2.93,
+    "VATPercentage": 2.3
+  },
+  {
+    "ProductCode": "eecb4d6b-87fb-4edf-903a-8e63ed16e6a8",
+    "Descriptive": "Pasta - Gnocchi, Potato",
+    "Quantity": 38,
+    "UnitPrice": 7.27,
+    "VATPercentage": 16.11
+  },
+  {
+    "ProductCode": "923ad3cc-8089-46fb-8c1f-83957e2b8793",
+    "Descriptive": "Pork - Tenderloin, Frozen",
+    "Quantity": 69,
+    "UnitPrice": 2.32,
+    "VATPercentage": 18.14
+  },
+  {
+    "ProductCode": "9287b034-a95d-461c-8572-ba35320278ec",
+    "Descriptive": "Eel - Smoked",
+    "Quantity": 72,
+    "UnitPrice": 0.03,
+    "VATPercentage": 16.62
+  },
+  {
+    "ProductCode": "6cce6a5d-fa72-401f-8f2f-853d6698a1d7",
+    "Descriptive": "Veal - Liver",
+    "Quantity": 78,
+    "UnitPrice": 0.86,
+    "VATPercentage": 6.26
+  },
+  {
+    "ProductCode": "0576cf25-c90e-47b8-a10d-c55ed19273fd",
+    "Descriptive": "Muffin Mix - Lemon Cranberry",
+    "Quantity": 36,
+    "UnitPrice": 9.28,
+    "VATPercentage": 8.61
+  },
+  {
+    "ProductCode": "8d423fc8-efa9-45fe-b001-f4d11bd30d09",
+    "Descriptive": "Browning Caramel Glace",
+    "Quantity": 8,
+    "UnitPrice": 7.31,
+    "VATPercentage": 12.29
+  },
+  {
+    "ProductCode": "206e6a48-de9b-435d-a567-0cbe1312b8d7",
+    "Descriptive": "Chip - Potato Dill Pickle",
+    "Quantity": 18,
+    "UnitPrice": 2.35,
+    "VATPercentage": 17.89
+  },
+  {
+    "ProductCode": "57202fcd-e85a-4623-9a55-30cda4b49a1a",
+    "Descriptive": "Chocolate - Milk",
+    "Quantity": 2,
+    "UnitPrice": 7.11,
+    "VATPercentage": 12.38
+  },
+  {
+    "ProductCode": "914da545-555e-46b4-8c4f-290d99ee6529",
+    "Descriptive": "Cheese - St. Paulin",
+    "Quantity": 14,
+    "UnitPrice": 9.48,
+    "VATPercentage": 7.75
+  },
+  {
+    "ProductCode": "fa739b76-e4c4-40ac-af38-cdda53ca5014",
+    "Descriptive": "Ecolab Silver Fusion",
+    "Quantity": 37,
+    "UnitPrice": 5.44,
+    "VATPercentage": 18.14
+  },
+  {
+    "ProductCode": "267a547f-a88a-4e7b-b3ab-7a009d447b5d",
+    "Descriptive": "Eggroll",
+    "Quantity": 13,
+    "UnitPrice": 3.28,
+    "VATPercentage": 8.94
+  },
+  {
+    "ProductCode": "40a26f14-b575-4523-b004-f2bf87789260",
+    "Descriptive": "Bag - Clear 7 Lb",
+    "Quantity": 82,
+    "UnitPrice": 1.96,
+    "VATPercentage": 20.77
+  },
+  {
+    "ProductCode": "9fd4efb3-fde2-46de-b385-2d805fc93d77",
+    "Descriptive": "Calypso - Pineapple Passion",
+    "Quantity": 3,
+    "UnitPrice": 1.26,
+    "VATPercentage": 2.56
+  },
+  {
+    "ProductCode": "7433d0a6-e6e9-472e-815f-9d752e285b9a",
+    "Descriptive": "Broccoli - Fresh",
+    "Quantity": 74,
+    "UnitPrice": 6.49,
+    "VATPercentage": 21.28
+  },
+  {
+    "ProductCode": "fc0bef1d-52d0-4160-bf70-368973812e7d",
+    "Descriptive": "Lamb Rack - Ontario",
+    "Quantity": 80,
+    "UnitPrice": 8.3,
+    "VATPercentage": 2.99
+  },
+  {
+    "ProductCode": "c2e88144-c974-493d-a958-f01b90d25f19",
+    "Descriptive": "Tray - 16in Rnd Blk",
+    "Quantity": 4,
+    "UnitPrice": 3.72,
+    "VATPercentage": 12.04
+  },
+  {
+    "ProductCode": "7cc4738e-6423-4dbe-8cda-d02e7f65b87f",
+    "Descriptive": "Longos - Chicken Caeser Salad",
+    "Quantity": 41,
+    "UnitPrice": 1.26,
+    "VATPercentage": 2.65
+  },
+  {
+    "ProductCode": "01e1af86-d201-4ede-92c6-d9f9a05eeffd",
+    "Descriptive": "Wine - Duboeuf Beaujolais",
+    "Quantity": 24,
+    "UnitPrice": 2.07,
+    "VATPercentage": 17.43
+  },
+  {
+    "ProductCode": "d07abe19-7097-4b3d-a517-a2819c36b6d3",
+    "Descriptive": "Lettuce - Red Leaf",
+    "Quantity": 72,
+    "UnitPrice": 8.99,
+    "VATPercentage": 19.48
+  },
+  {
+    "ProductCode": "44cf0d9f-ff77-4b32-a025-9280070a9ebd",
+    "Descriptive": "Wine - Sauvignon Blanc",
+    "Quantity": 17,
+    "UnitPrice": 2.64,
+    "VATPercentage": 13.12
+  },
+  {
+    "ProductCode": "813812ec-d0d4-4c7c-9a60-c0fd9900ec0d",
+    "Descriptive": "Rice Wine - Aji Mirin",
+    "Quantity": 43,
+    "UnitPrice": 2.81,
+    "VATPercentage": 20.97
+  },
+  {
+    "ProductCode": "93e01cc4-387b-4d7c-a3f6-29f1b01f7fd6",
+    "Descriptive": "Sprouts - China Rose",
+    "Quantity": 38,
+    "UnitPrice": 1.51,
+    "VATPercentage": 15.35
+  },
+  {
+    "ProductCode": "e9a51036-6825-4344-b1c4-1fbf4b197e7b",
+    "Descriptive": "Fond - Neutral",
+    "Quantity": 72,
+    "UnitPrice": 8.27,
+    "VATPercentage": 8.35
+  },
+  {
+    "ProductCode": "639abc91-a9e1-4ffc-9891-a04bc2e92b84",
+    "Descriptive": "Tea - Lemon Scented",
+    "Quantity": 55,
+    "UnitPrice": 9.91,
+    "VATPercentage": 18.36
+  },
+  {
+    "ProductCode": "3f4ca88d-f360-4521-a1c7-3953bd99b21b",
+    "Descriptive": "Tea Leaves - Oolong",
+    "Quantity": 16,
+    "UnitPrice": 9.56,
+    "VATPercentage": 1.51
+  },
+  {
+    "ProductCode": "4c44185e-d71e-45d1-b2d2-b94993d75291",
+    "Descriptive": "Cake Circle, Foil, Scallop",
+    "Quantity": 11,
+    "UnitPrice": 9.36,
+    "VATPercentage": 4.09
+  },
+  {
+    "ProductCode": "61b064a8-874f-414c-ac32-1c9ca2cccdd8",
+    "Descriptive": "Sage - Fresh",
+    "Quantity": 14,
+    "UnitPrice": 8.78,
+    "VATPercentage": 20.9
+  },
+  {
+    "ProductCode": "78c2877b-9fe4-4e8f-94ac-8357de9a5f53",
+    "Descriptive": "Tea - Mint",
+    "Quantity": 92,
+    "UnitPrice": 8.58,
+    "VATPercentage": 12.31
+  },
+  {
+    "ProductCode": "af0c0984-1ce7-4f1c-8e97-564272e16901",
+    "Descriptive": "Wine - Jackson Triggs Okonagan",
+    "Quantity": 64,
+    "UnitPrice": 5.28,
+    "VATPercentage": 13.26
+  },
+  {
+    "ProductCode": "918c67d4-c448-4bf9-8f25-4d8b499371d4",
+    "Descriptive": "Pastry - Butterscotch Baked",
+    "Quantity": 47,
+    "UnitPrice": 5.93,
+    "VATPercentage": 14.74
+  },
+  {
+    "ProductCode": "c6b2ce07-1051-494f-9dc0-6ef42f12ee95",
+    "Descriptive": "Lettuce - Radicchio",
+    "Quantity": 75,
+    "UnitPrice": 2.36,
+    "VATPercentage": 16.92
+  },
+  {
+    "ProductCode": "253c2314-79b5-4eff-abb7-4d325e4def03",
+    "Descriptive": "Creme De Cacao White",
+    "Quantity": 9,
+    "UnitPrice": 2.28,
+    "VATPercentage": 17.65
+  },
+  {
+    "ProductCode": "2a477ea8-f675-4794-a067-0a4470685098",
+    "Descriptive": "Coconut - Shredded, Unsweet",
+    "Quantity": 14,
+    "UnitPrice": 7.08,
+    "VATPercentage": 1.97
+  },
+  {
+    "ProductCode": "1f16c81a-c4aa-4ba1-8ece-e653b1b6e36b",
+    "Descriptive": "Chef Hat 20cm",
+    "Quantity": 22,
+    "UnitPrice": 7.47,
+    "VATPercentage": 1.54
+  },
+  {
+    "ProductCode": "e96f204d-fc91-4ce2-a365-1a799293b571",
+    "Descriptive": "Kellogs Cereal In A Cup",
+    "Quantity": 66,
+    "UnitPrice": 8.75,
+    "VATPercentage": 4.49
+  },
+  {
+    "ProductCode": "719fb79b-5b1c-4f2a-a242-b34c226a57dc",
+    "Descriptive": "Wine - Savigny - Les - Beaune",
+    "Quantity": 91,
+    "UnitPrice": 4.82,
+    "VATPercentage": 12.85
+  },
+  {
+    "ProductCode": "71477d85-5c82-46bf-8835-cec4a36e4b02",
+    "Descriptive": "Containter - 3oz Microwave Rect.",
+    "Quantity": 1,
+    "UnitPrice": 1.5,
+    "VATPercentage": 7.74
+  },
+  {
+    "ProductCode": "4dd13f7b-313a-4b3b-9ea0-eae1befd43de",
+    "Descriptive": "Salmon - Whole, 4 - 6 Pounds",
+    "Quantity": 2,
+    "UnitPrice": 4.17,
+    "VATPercentage": 22.01
+  },
+  {
+    "ProductCode": "6b72bfb7-b3e4-47ee-a76e-93c253207bad",
+    "Descriptive": "Tomatoes - Orange",
+    "Quantity": 74,
+    "UnitPrice": 3.12,
+    "VATPercentage": 11.77
+  },
+  {
+    "ProductCode": "e8e3e8f4-69f4-4373-b359-d3ba928a0644",
+    "Descriptive": "Yoplait Drink",
+    "Quantity": 1,
+    "UnitPrice": 2.07,
+    "VATPercentage": 20.34
+  },
+  {
+    "ProductCode": "b7b28f8f-60d6-4f98-a957-3f7e01dca6bf",
+    "Descriptive": "Wine - Riesling Alsace Ac 2001",
+    "Quantity": 100,
+    "UnitPrice": 4.51,
+    "VATPercentage": 21.97
+  },
+  {
+    "ProductCode": "2f7aa224-ef90-44e2-9367-1e3879b3bb59",
+    "Descriptive": "Bread - Bistro Sour",
+    "Quantity": 84,
+    "UnitPrice": 9.27,
+    "VATPercentage": 8.37
+  },
+  {
+    "ProductCode": "4ec6545f-3e54-4154-afde-bf6419b2ee3b",
+    "Descriptive": "Lamb - Leg, Bone In",
+    "Quantity": 43,
+    "UnitPrice": 5.57,
+    "VATPercentage": 21.61
+  },
+  {
+    "ProductCode": "e087471a-d7b9-4036-9d69-a906a058a385",
+    "Descriptive": "Lidsoupcont Rp12dn",
+    "Quantity": 58,
+    "UnitPrice": 1.28,
+    "VATPercentage": 22.7
+  },
+  {
+    "ProductCode": "da15abb5-4395-41bb-b5c9-87bfcf9a344f",
+    "Descriptive": "Table Cloth 54x72 Colour",
+    "Quantity": 83,
+    "UnitPrice": 3.9,
+    "VATPercentage": 6.08
+  },
+  {
+    "ProductCode": "5af9bc7b-58d4-438f-b789-6931da3e6252",
+    "Descriptive": "Fish - Bones",
+    "Quantity": 44,
+    "UnitPrice": 7.83,
+    "VATPercentage": 7.31
+  },
+  {
+    "ProductCode": "4e42b935-ce39-4ebe-a5e2-79e79325cd11",
+    "Descriptive": "Olive - Spread Tapenade",
+    "Quantity": 72,
+    "UnitPrice": 1.4,
+    "VATPercentage": 19.5
+  },
+  {
+    "ProductCode": "f5091662-e6ba-4cd3-8aef-40fb955aa6d5",
+    "Descriptive": "Shrimp - Tiger 21/25",
+    "Quantity": 52,
+    "UnitPrice": 1.22,
+    "VATPercentage": 18.56
+  },
+  {
+    "ProductCode": "196d9ef8-0000-4e00-8b91-14bbe9777c8b",
+    "Descriptive": "Tea - Lemon Scented",
+    "Quantity": 30,
+    "UnitPrice": 9.43,
+    "VATPercentage": 20.94
+  },
+  {
+    "ProductCode": "87e054e8-2a14-4e6b-90f6-81be4488a462",
+    "Descriptive": "Green Tea Refresher",
+    "Quantity": 35,
+    "UnitPrice": 7.58,
+    "VATPercentage": 11.68
+  },
+  {
+    "ProductCode": "89107be8-2e63-48ee-8904-6bb53da0fb2c",
+    "Descriptive": "Venison - Denver Leg Boneless",
+    "Quantity": 6,
+    "UnitPrice": 5.57,
+    "VATPercentage": 4.46
+  },
+  {
+    "ProductCode": "a3deafc7-80a7-4228-a1fb-61b94c41bcc3",
+    "Descriptive": "Wasabi Powder",
+    "Quantity": 2,
+    "UnitPrice": 6.68,
+    "VATPercentage": 6.42
+  },
+  {
+    "ProductCode": "cba6ab35-46bf-42be-95a9-563fe2fb12f3",
+    "Descriptive": "Wine - Chardonnay Mondavi",
+    "Quantity": 36,
+    "UnitPrice": 0.48,
+    "VATPercentage": 11.37
+  },
+  {
+    "ProductCode": "dfd82564-1314-49c7-be78-4d6b658488eb",
+    "Descriptive": "Crackers - Graham",
+    "Quantity": 91,
+    "UnitPrice": 2.75,
+    "VATPercentage": 9.41
+  },
+  {
+    "ProductCode": "482856b2-8176-418c-a648-63da82653555",
+    "Descriptive": "Cookie Trail Mix",
+    "Quantity": 7,
+    "UnitPrice": 6.68,
+    "VATPercentage": 15.37
+  },
+  {
+    "ProductCode": "4a50915d-fb02-4ae0-a7e0-da7a0db42ff0",
+    "Descriptive": "Flour - Teff",
+    "Quantity": 85,
+    "UnitPrice": 3.39,
+    "VATPercentage": 6.47
+  },
+  {
+    "ProductCode": "1255ecc2-cfe1-43c7-abff-fdba10e8ef81",
+    "Descriptive": "Bread - Corn Muffaleta Onion",
+    "Quantity": 96,
+    "UnitPrice": 6.77,
+    "VATPercentage": 15.56
+  },
+  {
+    "ProductCode": "7ed6eee6-c053-423d-afd9-2a324ab1cc0f",
+    "Descriptive": "Butter - Salted, Micro",
+    "Quantity": 34,
+    "UnitPrice": 3.17,
+    "VATPercentage": 1.58
+  },
+  {
+    "ProductCode": "a66611fb-426e-4971-9019-0d9c71de3107",
+    "Descriptive": "Beef - Baby, Liver",
+    "Quantity": 65,
+    "UnitPrice": 8.87,
+    "VATPercentage": 1.36
+  },
+  {
+    "ProductCode": "73a30f8a-7909-46e8-b07a-7c4bbacf01b2",
+    "Descriptive": "Bar Mix - Lime",
+    "Quantity": 79,
+    "UnitPrice": 6.78,
+    "VATPercentage": 16.82
+  },
+  {
+    "ProductCode": "991fd709-2d05-47e8-bd12-3b5a07ac7a44",
+    "Descriptive": "Sugar - Icing",
+    "Quantity": 63,
+    "UnitPrice": 2.63,
+    "VATPercentage": 17.84
+  },
+  {
+    "ProductCode": "8e00e1c5-dab3-4319-b933-82af6378ee5d",
+    "Descriptive": "Bread Bowl Plain",
+    "Quantity": 75,
+    "UnitPrice": 2.01,
+    "VATPercentage": 14.22
+  },
+  {
+    "ProductCode": "47efbb5d-4c02-40b6-9eab-709f525afa31",
+    "Descriptive": "Apple - Royal Gala",
+    "Quantity": 91,
+    "UnitPrice": 7.17,
+    "VATPercentage": 15.47
+  },
+  {
+    "ProductCode": "ca121d85-d972-44e9-aeaa-d8f6a64cca8b",
+    "Descriptive": "Pork - Sausage, Medium",
+    "Quantity": 60,
+    "UnitPrice": 4.67,
+    "VATPercentage": 6.5
+  },
+  {
+    "ProductCode": "19f36a72-b138-4090-b381-a3e442546904",
+    "Descriptive": "Food Colouring - Blue",
+    "Quantity": 19,
+    "UnitPrice": 6.36,
+    "VATPercentage": 3.82
+  },
+  {
+    "ProductCode": "48f693ba-8e2c-4a47-8c2f-4e3518eb6eba",
+    "Descriptive": "Wine - Mas Chicet Rose, Vintage",
+    "Quantity": 17,
+    "UnitPrice": 6.43,
+    "VATPercentage": 10.94
+  },
+  {
+    "ProductCode": "22d7e8e8-d9af-42d9-aa33-af6feb99ea53",
+    "Descriptive": "Liquid Aminios Acid - Braggs",
+    "Quantity": 24,
+    "UnitPrice": 6.55,
+    "VATPercentage": 18.62
+  },
+  {
+    "ProductCode": "c87c131e-fabf-4b42-a216-243a6e4cc25b",
+    "Descriptive": "Rosemary - Fresh",
+    "Quantity": 59,
+    "UnitPrice": 5.88,
+    "VATPercentage": 3.38
+  },
+  {
+    "ProductCode": "2b147615-0363-468a-8c63-35d82d38830c",
+    "Descriptive": "Seaweed Green Sheets",
+    "Quantity": 13,
+    "UnitPrice": 9.19,
+    "VATPercentage": 1.71
+  },
+  {
+    "ProductCode": "9515f4be-7e83-46fe-8696-9a855a99bc5d",
+    "Descriptive": "Cheese - Mozzarella, Shredded",
+    "Quantity": 36,
+    "UnitPrice": 3.15,
+    "VATPercentage": 12.62
+  },
+  {
+    "ProductCode": "3409fc85-fbbb-4beb-aeb7-764bc3f1bd41",
+    "Descriptive": "Bacardi Raspberry",
+    "Quantity": 91,
+    "UnitPrice": 0.27,
+    "VATPercentage": 22.27
+  },
+  {
+    "ProductCode": "415a41d9-4e27-40cf-b714-ec8ef65f283a",
+    "Descriptive": "Cherries - Fresh",
+    "Quantity": 5,
+    "UnitPrice": 1.26,
+    "VATPercentage": 4.45
+  },
+  {
+    "ProductCode": "96734661-6142-4fd5-92f1-6879c450b520",
+    "Descriptive": "Sauce - Sesame Thai Dressing",
+    "Quantity": 91,
+    "UnitPrice": 1.24,
+    "VATPercentage": 7.33
+  },
+  {
+    "ProductCode": "4ad47a5c-eed2-45ae-9674-da60c369a702",
+    "Descriptive": "Veal - Inside",
+    "Quantity": 9,
+    "UnitPrice": 0,
+    "VATPercentage": 12.12
+  },
+  {
+    "ProductCode": "aea45480-00b1-4f6b-8c6f-486a78563547",
+    "Descriptive": "Soup Campbells",
+    "Quantity": 88,
+    "UnitPrice": 8.98,
+    "VATPercentage": 18.94
+  },
+  {
+    "ProductCode": "6ffe60a3-3946-431f-b9fc-c790250645ea",
+    "Descriptive": "Bread - Raisin Walnut Pull",
+    "Quantity": 43,
+    "UnitPrice": 7.38,
+    "VATPercentage": 18.84
+  },
+  {
+    "ProductCode": "76b2db7e-2b82-4ac3-8dae-28642af2c7ae",
+    "Descriptive": "Peach - Fresh",
+    "Quantity": 76,
+    "UnitPrice": 9.3,
+    "VATPercentage": 14.57
+  },
+  {
+    "ProductCode": "4f0bc909-38e4-497a-a403-204bd1294c28",
+    "Descriptive": "Crab - Imitation Flakes",
+    "Quantity": 89,
+    "UnitPrice": 9.52,
+    "VATPercentage": 21.13
+  },
+  {
+    "ProductCode": "587b751f-0e5f-4fa3-89ea-81027d39fae1",
+    "Descriptive": "Pasta - Cannelloni, Sheets, Fresh",
+    "Quantity": 17,
+    "UnitPrice": 6.93,
+    "VATPercentage": 20.47
+  },
+  {
+    "ProductCode": "53201f2d-3a72-4cbf-8c8e-c10fbec155d5",
+    "Descriptive": "Lettuce Romaine Chopped",
+    "Quantity": 16,
+    "UnitPrice": 2.51,
+    "VATPercentage": 20.48
+  },
+  {
+    "ProductCode": "1e8b0626-3fd1-4664-96d2-b1465be713a4",
+    "Descriptive": "Dome Lid Clear P92008h",
+    "Quantity": 79,
+    "UnitPrice": 0.69,
+    "VATPercentage": 17.83
+  },
+  {
+    "ProductCode": "e19925f2-bf65-46f1-89ef-6b00473f69d9",
+    "Descriptive": "Butter Sweet",
+    "Quantity": 3,
+    "UnitPrice": 6.97,
+    "VATPercentage": 12.41
+  },
+  {
+    "ProductCode": "cc03f852-090c-4898-96bd-5194da469c9e",
+    "Descriptive": "Dip - Tapenade",
+    "Quantity": 90,
+    "UnitPrice": 8.95,
+    "VATPercentage": 15.02
+  },
+  {
+    "ProductCode": "4a1c050a-61dc-415a-aecb-1fb81385ee1b",
+    "Descriptive": "Mikes Hard Lemonade",
+    "Quantity": 13,
+    "UnitPrice": 1.35,
+    "VATPercentage": 13.09
+  },
+  {
+    "ProductCode": "ee239496-9c5e-48c6-939f-e9cda01b200f",
+    "Descriptive": "Schnappes - Peach, Walkers",
+    "Quantity": 1,
+    "UnitPrice": 1.08,
+    "VATPercentage": 19.64
+  },
+  {
+    "ProductCode": "1c0191e4-2930-4a4a-aa9a-87978ce31d58",
+    "Descriptive": "Pepper - Orange",
+    "Quantity": 93,
+    "UnitPrice": 2.41,
+    "VATPercentage": 18.7
+  },
+  {
+    "ProductCode": "91584306-62d7-437c-b910-1ef0386e2850",
+    "Descriptive": "Tea - Camomele",
+    "Quantity": 94,
+    "UnitPrice": 9.06,
+    "VATPercentage": 18.19
+  },
+  {
+    "ProductCode": "eb7f59ca-d815-47b8-b0ad-95302bfca03e",
+    "Descriptive": "Wine - Ej Gallo Sierra Valley",
+    "Quantity": 23,
+    "UnitPrice": 9.83,
+    "VATPercentage": 13.27
+  },
+  {
+    "ProductCode": "d73b8c2d-1aba-4364-9ce3-499b532d92f1",
+    "Descriptive": "Pasta - Angel Hair",
+    "Quantity": 33,
+    "UnitPrice": 5.92,
+    "VATPercentage": 2.77
+  },
+  {
+    "ProductCode": "b22a954b-9143-46ba-9522-22c9489f20cb",
+    "Descriptive": "Bread Base - Gold Formel",
+    "Quantity": 31,
+    "UnitPrice": 6.38,
+    "VATPercentage": 20.44
+  },
+  {
+    "ProductCode": "ca7100f4-111b-4f59-9a25-161bd430fe28",
+    "Descriptive": "Table Cloth 62x120 White",
+    "Quantity": 92,
+    "UnitPrice": 8.57,
+    "VATPercentage": 11.26
+  },
+  {
+    "ProductCode": "e7b6e741-df7d-4a3f-936d-f6eb22d1a8b1",
+    "Descriptive": "Coffee - Egg Nog Capuccino",
+    "Quantity": 66,
+    "UnitPrice": 2.91,
+    "VATPercentage": 14.16
+  },
+  {
+    "ProductCode": "58872c0d-d851-4e23-ae64-9276cbe60e23",
+    "Descriptive": "Chickhen - Chicken Phyllo",
+    "Quantity": 35,
+    "UnitPrice": 3.52,
+    "VATPercentage": 3.63
+  },
+  {
+    "ProductCode": "25ecdec1-8a4f-4c83-a184-22da96e9374c",
+    "Descriptive": "Tilapia - Fillets",
+    "Quantity": 100,
+    "UnitPrice": 2.14,
+    "VATPercentage": 5.26
+  },
+  {
+    "ProductCode": "b2a276e1-c706-4d4a-a11e-c00694bfa1a6",
+    "Descriptive": "Coffee - Frthy Coffee Crisp",
+    "Quantity": 17,
+    "UnitPrice": 9.13,
+    "VATPercentage": 22.12
+  },
+  {
+    "ProductCode": "5eaa5473-0a9e-4efe-92ad-53b97baecffe",
+    "Descriptive": "Ecolab - Hobart Upr Prewash Arm",
+    "Quantity": 98,
+    "UnitPrice": 5.83,
+    "VATPercentage": 7.53
+  },
+  {
+    "ProductCode": "7e314b25-bb5f-4df3-a8b8-457b26dcf6d3",
+    "Descriptive": "Glove - Cutting",
+    "Quantity": 85,
+    "UnitPrice": 0.14,
+    "VATPercentage": 7.47
+  },
+  {
+    "ProductCode": "5e4f90d5-0f41-4cad-874c-e6ae751b9817",
+    "Descriptive": "Milk - 2% 250 Ml",
+    "Quantity": 44,
+    "UnitPrice": 4.29,
+    "VATPercentage": 20.02
+  },
+  {
+    "ProductCode": "5cb08625-e0b5-49d2-8716-096d8ec5c858",
+    "Descriptive": "Galliano",
+    "Quantity": 14,
+    "UnitPrice": 9.92,
+    "VATPercentage": 16.12
+  },
+  {
+    "ProductCode": "8e47c9ae-a75e-4d2f-8f34-73d4125173a2",
+    "Descriptive": "Quiche Assorted",
+    "Quantity": 85,
+    "UnitPrice": 0.81,
+    "VATPercentage": 13.06
+  },
+  {
+    "ProductCode": "c938b0d6-0084-4c15-b299-42b9e4ac0eab",
+    "Descriptive": "Cheese - Havarti, Roasted Garlic",
+    "Quantity": 66,
+    "UnitPrice": 3.15,
+    "VATPercentage": 4.25
+  },
+  {
+    "ProductCode": "f28193ec-ac56-417f-bcbb-f274ccbe4783",
+    "Descriptive": "Chinese Foods - Chicken Wing",
+    "Quantity": 100,
+    "UnitPrice": 7.66,
+    "VATPercentage": 5.99
+  },
+  {
+    "ProductCode": "fb12e348-8f25-4e3a-aeaf-7b22e84c2ff1",
+    "Descriptive": "Soupcontfoam16oz 116con",
+    "Quantity": 1,
+    "UnitPrice": 6.23,
+    "VATPercentage": 17.26
+  },
+  {
+    "ProductCode": "23d79f99-3c42-48f5-a9d9-4bbf7076d281",
+    "Descriptive": "Icecream Cone - Areo Chocolate",
+    "Quantity": 87,
+    "UnitPrice": 1.04,
+    "VATPercentage": 12.11
+  },
+  {
+    "ProductCode": "0d6b1315-ce2b-4a9d-91b6-462d908165a5",
+    "Descriptive": "Beef - Tenderloin Tails",
+    "Quantity": 68,
+    "UnitPrice": 4.43,
+    "VATPercentage": 14.71
+  },
+  {
+    "ProductCode": "6101b86b-2e9b-4b26-b343-c221654f97bb",
+    "Descriptive": "Pepper - Chillies, Crushed",
+    "Quantity": 76,
+    "UnitPrice": 9.77,
+    "VATPercentage": 17.67
+  },
+  {
+    "ProductCode": "aca82ed8-f6dd-4a48-9f05-24445888a98a",
+    "Descriptive": "Ocean Spray - Kiwi Strawberry",
+    "Quantity": 77,
+    "UnitPrice": 3.36,
+    "VATPercentage": 19.52
+  },
+  {
+    "ProductCode": "a8f2d2db-b8ed-423c-b9f0-e909ca838d34",
+    "Descriptive": "Mint - Fresh",
+    "Quantity": 28,
+    "UnitPrice": 7.21,
+    "VATPercentage": 4.01
+  },
+  {
+    "ProductCode": "0baad0be-fe29-4a88-843a-89e71b4e910e",
+    "Descriptive": "Pepper - Chipotle, Canned",
+    "Quantity": 5,
+    "UnitPrice": 4.45,
+    "VATPercentage": 2.69
+  },
+  {
+    "ProductCode": "144c6e5f-4a11-442f-a042-f0b86b97173c",
+    "Descriptive": "Lamb Rack Frenched Australian",
+    "Quantity": 10,
+    "UnitPrice": 6.82,
+    "VATPercentage": 18.04
+  },
+  {
+    "ProductCode": "5665e6f6-35bb-42e4-a4bb-53c465091c67",
+    "Descriptive": "Soup Knorr Chili With Beans",
+    "Quantity": 70,
+    "UnitPrice": 3.7,
+    "VATPercentage": 13.98
+  },
+  {
+    "ProductCode": "f1c1054e-749c-4d97-a118-80f23dff71c1",
+    "Descriptive": "Sauce Tomato Pouch",
+    "Quantity": 67,
+    "UnitPrice": 4.12,
+    "VATPercentage": 6.3
+  },
+  {
+    "ProductCode": "e2e627c9-41fe-4db0-aaf2-8c9c62c52d84",
+    "Descriptive": "Cabbage - Savoy",
+    "Quantity": 92,
+    "UnitPrice": 7.22,
+    "VATPercentage": 22.11
+  },
+  {
+    "ProductCode": "4b2fdef3-95ef-4245-827a-c4c82e6a0395",
+    "Descriptive": "Coke - Diet, 355 Ml",
+    "Quantity": 96,
+    "UnitPrice": 5.59,
+    "VATPercentage": 19.77
+  },
+  {
+    "ProductCode": "626a35dc-f71b-47cf-86ea-bdacc23762bd",
+    "Descriptive": "Bread - Roll, Whole Wheat",
+    "Quantity": 77,
+    "UnitPrice": 8.18,
+    "VATPercentage": 16.87
+  },
+  {
+    "ProductCode": "21f8ffe8-b18d-41c8-af74-64865be00da3",
+    "Descriptive": "Appetizer - Seafood Assortment",
+    "Quantity": 16,
+    "UnitPrice": 7.9,
+    "VATPercentage": 20.05
+  },
+  {
+    "ProductCode": "c5845a22-1b4b-4958-9d58-95429f2e6aad",
+    "Descriptive": "Mace",
+    "Quantity": 22,
+    "UnitPrice": 5.05,
+    "VATPercentage": 18
+  },
+  {
+    "ProductCode": "25b80bb9-9c5e-491f-8fea-70e32461ecd9",
+    "Descriptive": "Cranberry Foccacia",
+    "Quantity": 97,
+    "UnitPrice": 2,
+    "VATPercentage": 14.72
+  },
+  {
+    "ProductCode": "76a9a0ba-4f88-41b5-9f1d-cadf6cd9a729",
+    "Descriptive": "Island Oasis - Lemonade",
+    "Quantity": 77,
+    "UnitPrice": 8.21,
+    "VATPercentage": 10.41
+  },
+  {
+    "ProductCode": "47ea1057-096f-4c16-8196-81b9c763c60a",
+    "Descriptive": "Sea Urchin",
+    "Quantity": 32,
+    "UnitPrice": 9.62,
+    "VATPercentage": 7.63
+  },
+  {
+    "ProductCode": "2e589c48-49d7-4664-8425-a95ba0fc5401",
+    "Descriptive": "Flavouring - Raspberry",
+    "Quantity": 39,
+    "UnitPrice": 6.44,
+    "VATPercentage": 12.48
+  },
+  {
+    "ProductCode": "a846d875-1c20-4297-9089-44db78b4096f",
+    "Descriptive": "Cattail Hearts",
+    "Quantity": 22,
+    "UnitPrice": 3.67,
+    "VATPercentage": 1.34
+  },
+  {
+    "ProductCode": "4d9279fa-7bb2-41c5-8e35-681fdfb0a400",
+    "Descriptive": "Bag Stand",
+    "Quantity": 36,
+    "UnitPrice": 9.24,
+    "VATPercentage": 16.16
+  },
+  {
+    "ProductCode": "9023b8c2-7b3c-48b7-88e2-0a86fadbf14e",
+    "Descriptive": "Coconut - Shredded, Sweet",
+    "Quantity": 11,
+    "UnitPrice": 6.68,
+    "VATPercentage": 12.32
+  },
+  {
+    "ProductCode": "99eabf80-b037-4b65-b477-2dc7b01e9d5a",
+    "Descriptive": "Cabbage - Red",
+    "Quantity": 1,
+    "UnitPrice": 6.26,
+    "VATPercentage": 2.71
+  },
+  {
+    "ProductCode": "2b9574d0-382e-44e1-871d-0634c0ac6047",
+    "Descriptive": "Pastry - Apple Large",
+    "Quantity": 31,
+    "UnitPrice": 7.61,
+    "VATPercentage": 10.49
+  },
+  {
+    "ProductCode": "20eb523f-ab9a-4322-a8f0-99c21bce41fd",
+    "Descriptive": "Tea - Black Currant",
+    "Quantity": 92,
+    "UnitPrice": 6.52,
+    "VATPercentage": 5.72
+  },
+  {
+    "ProductCode": "4ab7a543-31ed-4071-91ce-6be8362aacf3",
+    "Descriptive": "Pork - Loin, Boneless",
+    "Quantity": 44,
+    "UnitPrice": 8.16,
+    "VATPercentage": 1.81
+  },
+  {
+    "ProductCode": "a7ddf9e4-f6e9-4cb5-908b-dd6dd23a4feb",
+    "Descriptive": "Rosemary - Primerba, Paste",
+    "Quantity": 50,
+    "UnitPrice": 9.59,
+    "VATPercentage": 20.13
+  },
+  {
+    "ProductCode": "175ef309-f937-42c3-9f95-8b1937a1c3f4",
+    "Descriptive": "Onions Granulated",
+    "Quantity": 31,
+    "UnitPrice": 8.05,
+    "VATPercentage": 20.54
+  },
+  {
+    "ProductCode": "7fb7aba4-6f01-41ce-93e5-1aa26d451c47",
+    "Descriptive": "Nantucket Pine Orangebanana",
+    "Quantity": 32,
+    "UnitPrice": 9.46,
+    "VATPercentage": 5.8
+  },
+  {
+    "ProductCode": "a8ff000a-946a-4297-ad05-988c512e2958",
+    "Descriptive": "Chocolate - Pistoles, White",
+    "Quantity": 61,
+    "UnitPrice": 6.75,
+    "VATPercentage": 13.39
+  },
+  {
+    "ProductCode": "21a53d8a-a61a-4430-83b7-42351951ee67",
+    "Descriptive": "Island Oasis - Strawberry",
+    "Quantity": 7,
+    "UnitPrice": 3.5,
+    "VATPercentage": 22.3
+  },
+  {
+    "ProductCode": "d40bd6c4-3fbc-46cc-ba50-914e4dd7fdea",
+    "Descriptive": "Wine - Cabernet Sauvignon",
+    "Quantity": 30,
+    "UnitPrice": 9.39,
+    "VATPercentage": 5.47
+  },
+  {
+    "ProductCode": "8e6f94b2-4c4a-4263-9191-1d60a4bfad17",
+    "Descriptive": "Cookies Cereal Nut",
+    "Quantity": 77,
+    "UnitPrice": 1.11,
+    "VATPercentage": 2.19
+  },
+  {
+    "ProductCode": "6fd76cd6-1758-4816-b8a8-be2fb05f4139",
+    "Descriptive": "Lidsoupcont Rp12dn",
+    "Quantity": 77,
+    "UnitPrice": 7.7,
+    "VATPercentage": 5.52
+  },
+  {
+    "ProductCode": "cb70e312-120f-4306-8110-c9669163edcd",
+    "Descriptive": "Chicken - Leg, Boneless",
+    "Quantity": 99,
+    "UnitPrice": 8.95,
+    "VATPercentage": 11.04
+  },
+  {
+    "ProductCode": "7614be0e-5e5d-423b-9265-b2369cdad3fe",
+    "Descriptive": "Beef - Tongue, Fresh",
+    "Quantity": 18,
+    "UnitPrice": 5.67,
+    "VATPercentage": 15.47
+  },
+  {
+    "ProductCode": "b0df6f42-a7a1-4da8-a7dc-47509ab93417",
+    "Descriptive": "Pork - Smoked Back Bacon",
+    "Quantity": 43,
+    "UnitPrice": 4.43,
+    "VATPercentage": 3.1
+  },
+  {
+    "ProductCode": "5b6416d4-f3aa-49cf-a1b1-c067a5d53f4b",
+    "Descriptive": "Bread Base - Toscano",
+    "Quantity": 67,
+    "UnitPrice": 2.66,
+    "VATPercentage": 21.05
+  },
+  {
+    "ProductCode": "dd3d8c23-ab5d-4db7-86ea-c507fb11906f",
+    "Descriptive": "Dawn Professionl Pot And Pan",
+    "Quantity": 46,
+    "UnitPrice": 1.78,
+    "VATPercentage": 17.98
+  },
+  {
+    "ProductCode": "cd3e95b9-adfb-48cd-855e-2df4b6776358",
+    "Descriptive": "Banana - Leaves",
+    "Quantity": 60,
+    "UnitPrice": 9.19,
+    "VATPercentage": 15.43
+  },
+  {
+    "ProductCode": "52fd5d12-e89c-4088-b4f7-7fd497c40f26",
+    "Descriptive": "Lamb - Ground",
+    "Quantity": 14,
+    "UnitPrice": 5,
+    "VATPercentage": 11.66
+  },
+  {
+    "ProductCode": "57a948db-4ba0-4e98-ad76-8406f22ed2f3",
+    "Descriptive": "Curry Paste - Madras",
+    "Quantity": 96,
+    "UnitPrice": 1.78,
+    "VATPercentage": 15.7
+  },
+  {
+    "ProductCode": "de30dc2a-83d4-41f2-ba4e-bdeb6e3ae651",
+    "Descriptive": "Gherkin",
+    "Quantity": 30,
+    "UnitPrice": 2.66,
+    "VATPercentage": 21.88
+  },
+  {
+    "ProductCode": "d1e9339a-8297-4395-9612-cf7e0b9735b7",
+    "Descriptive": "Truffle - Whole Black Peeled",
+    "Quantity": 29,
+    "UnitPrice": 0.94,
+    "VATPercentage": 18.51
+  },
+  {
+    "ProductCode": "3e2b98fb-9afc-427f-9d00-2f6b969f5671",
+    "Descriptive": "Napkin - Beverage 1 Ply",
+    "Quantity": 97,
+    "UnitPrice": 3.25,
+    "VATPercentage": 19.08
+  },
+  {
+    "ProductCode": "97788653-0a9a-4fff-a781-c4c0a04cfae6",
+    "Descriptive": "Juice - Clamato, 341 Ml",
+    "Quantity": 93,
+    "UnitPrice": 5.57,
+    "VATPercentage": 7.41
+  },
+  {
+    "ProductCode": "47c02ff1-ea6d-4e6b-baaa-2bc24d532dc3",
+    "Descriptive": "Jolt Cola",
+    "Quantity": 12,
+    "UnitPrice": 0.61,
+    "VATPercentage": 14.43
+  },
+  {
+    "ProductCode": "efff2617-ada7-468e-ab69-8b791ceacc46",
+    "Descriptive": "Pasta - Lasagne, Fresh",
+    "Quantity": 36,
+    "UnitPrice": 8.79,
+    "VATPercentage": 16.97
+  },
+  {
+    "ProductCode": "37883cfa-f2f6-4f6d-a056-12db7dc689ac",
+    "Descriptive": "Spinach - Packaged",
+    "Quantity": 24,
+    "UnitPrice": 9.67,
+    "VATPercentage": 16.82
+  },
+  {
+    "ProductCode": "2a4c7d37-ac4e-4ecd-a5fe-68064ff5fe36",
+    "Descriptive": "Roe - Lump Fish, Red",
+    "Quantity": 92,
+    "UnitPrice": 1.82,
+    "VATPercentage": 1.72
+  },
+  {
+    "ProductCode": "07b95ead-660c-4994-8c04-35155cbba84e",
+    "Descriptive": "Pheasants - Whole",
+    "Quantity": 68,
+    "UnitPrice": 7.94,
+    "VATPercentage": 13.94
+  },
+  {
+    "ProductCode": "36f96bd0-9ecd-49ba-ab67-1e9add88aae1",
+    "Descriptive": "Grouper - Fresh",
+    "Quantity": 28,
+    "UnitPrice": 8.05,
+    "VATPercentage": 9.38
+  },
+  {
+    "ProductCode": "0284dc19-4978-4653-8818-8b2ce055f85d",
+    "Descriptive": "Shrimp - Baby, Cold Water",
+    "Quantity": 15,
+    "UnitPrice": 9.35,
+    "VATPercentage": 12.09
+  },
+  {
+    "ProductCode": "a7ceda7f-448d-4ec8-8b40-2f50dbd9ba5d",
+    "Descriptive": "Shopper Bag - S - 4",
+    "Quantity": 98,
+    "UnitPrice": 8.04,
+    "VATPercentage": 19.85
+  },
+  {
+    "ProductCode": "0ea609b3-4c2a-4117-9097-581a01fb4fe2",
+    "Descriptive": "Lid - 10,12,16 Oz",
+    "Quantity": 54,
+    "UnitPrice": 5.47,
+    "VATPercentage": 18.7
+  },
+  {
+    "ProductCode": "e2c7245d-7719-451b-9440-fd26677cea0e",
+    "Descriptive": "Alize Gold Passion",
+    "Quantity": 89,
+    "UnitPrice": 5.23,
+    "VATPercentage": 7.47
+  },
+  {
+    "ProductCode": "d2ecefc0-5fce-4068-9e7c-3b21c5db4536",
+    "Descriptive": "Cheese - Cheddar, Medium",
+    "Quantity": 22,
+    "UnitPrice": 2.62,
+    "VATPercentage": 14.24
+  },
+  {
+    "ProductCode": "541c4bd7-d4a4-4fe0-b568-ca2e04eb19ed",
+    "Descriptive": "Muffin Mix - Corn Harvest",
+    "Quantity": 82,
+    "UnitPrice": 5,
+    "VATPercentage": 1.52
+  },
+  {
+    "ProductCode": "b32da484-5665-447b-b181-85df94c3a12d",
+    "Descriptive": "Soup - Campbells - Chicken Noodle",
+    "Quantity": 52,
+    "UnitPrice": 6.01,
+    "VATPercentage": 8.53
+  },
+  {
+    "ProductCode": "577ddb47-c001-4b1d-a1eb-f01330c5ddac",
+    "Descriptive": "Oil - Hazelnut",
+    "Quantity": 50,
+    "UnitPrice": 8.95,
+    "VATPercentage": 13.18
+  },
+  {
+    "ProductCode": "fc8f1c7b-4eb3-447b-9ad0-52c116241e1d",
+    "Descriptive": "Pastry - Chocolate Chip Muffin",
+    "Quantity": 77,
+    "UnitPrice": 8.96,
+    "VATPercentage": 6.59
+  },
+  {
+    "ProductCode": "6537fdaa-3729-474f-b3d9-2574f9e9d932",
+    "Descriptive": "Toamtoes 6x7 Select",
+    "Quantity": 12,
+    "UnitPrice": 7.72,
+    "VATPercentage": 2.64
+  },
+  {
+    "ProductCode": "ac46856c-5ab0-421e-89d8-25f7a95d94c2",
+    "Descriptive": "Passion Fruit",
+    "Quantity": 85,
+    "UnitPrice": 3.84,
+    "VATPercentage": 17.31
+  },
+  {
+    "ProductCode": "d1f69c45-f450-4cee-a000-019193fa633c",
+    "Descriptive": "Beef - Tongue, Fresh",
+    "Quantity": 55,
+    "UnitPrice": 7.68,
+    "VATPercentage": 5.22
+  },
+  {
+    "ProductCode": "b7a2ed80-7542-420d-ac15-f66055a086ea",
+    "Descriptive": "Dc - Frozen Momji",
+    "Quantity": 32,
+    "UnitPrice": 7.07,
+    "VATPercentage": 14.02
+  },
+  {
+    "ProductCode": "4f7778e1-a835-43aa-9ff7-c4e26cfaeaee",
+    "Descriptive": "Mustard - Dijon",
+    "Quantity": 8,
+    "UnitPrice": 6.47,
+    "VATPercentage": 10.94
+  },
+  {
+    "ProductCode": "1e199bcc-f98e-48f5-a90b-2778a96bb41a",
+    "Descriptive": "Grouper - Fresh",
+    "Quantity": 97,
+    "UnitPrice": 0.35,
+    "VATPercentage": 1.31
+  },
+  {
+    "ProductCode": "99b755ea-2cf9-4a6a-8e2e-95b204f8fedd",
+    "Descriptive": "Lambcasing",
+    "Quantity": 18,
+    "UnitPrice": 0.62,
+    "VATPercentage": 10.62
+  },
+  {
+    "ProductCode": "70e0a9e6-3a89-4b74-93ab-0a146f654bfd",
+    "Descriptive": "Cheese Cloth No 100",
+    "Quantity": 40,
+    "UnitPrice": 6.66,
+    "VATPercentage": 2.1
+  },
+  {
+    "ProductCode": "de68fecc-fc37-45f7-a3bc-6c64b67b2e5c",
+    "Descriptive": "Rice - 7 Grain Blend",
+    "Quantity": 55,
+    "UnitPrice": 1.15,
+    "VATPercentage": 16.12
+  },
+  {
+    "ProductCode": "b0e84643-74a2-4036-bf45-3c17dbfdbb0d",
+    "Descriptive": "Bay Leaf",
+    "Quantity": 81,
+    "UnitPrice": 3.84,
+    "VATPercentage": 15.96
+  },
+  {
+    "ProductCode": "6bb321c4-7644-4326-9e7f-68e00dca92e8",
+    "Descriptive": "Turkey - Breast, Double",
+    "Quantity": 84,
+    "UnitPrice": 3.62,
+    "VATPercentage": 7.03
+  },
+  {
+    "ProductCode": "1ffb4e42-b958-4703-8d1a-ec8eb51716f2",
+    "Descriptive": "Wine - Chenin Blanc K.w.v.",
+    "Quantity": 17,
+    "UnitPrice": 10,
+    "VATPercentage": 8.54
+  },
+  {
+    "ProductCode": "38ff3664-7088-470b-b93a-dd65b5fd8c01",
+    "Descriptive": "Sprouts - Baby Pea Tendrils",
+    "Quantity": 7,
+    "UnitPrice": 5.47,
+    "VATPercentage": 11.82
+  },
+  {
+    "ProductCode": "e945ece9-a459-429d-a747-ebb3b702a9c2",
+    "Descriptive": "Steampan - Foil",
+    "Quantity": 65,
+    "UnitPrice": 8.86,
+    "VATPercentage": 16.27
+  },
+  {
+    "ProductCode": "86c7720e-5de8-4f89-959b-9b11b36973a6",
+    "Descriptive": "Cafe Royale",
+    "Quantity": 60,
+    "UnitPrice": 1.48,
+    "VATPercentage": 22.42
+  },
+  {
+    "ProductCode": "9cc6e9ea-afec-4a32-bf5b-1eda0e89055d",
+    "Descriptive": "Avocado",
+    "Quantity": 100,
+    "UnitPrice": 1.82,
+    "VATPercentage": 9.25
+  },
+  {
+    "ProductCode": "03409e1d-4771-4803-af6d-eb4f5a391c2f",
+    "Descriptive": "Vinegar - Rice",
+    "Quantity": 65,
+    "UnitPrice": 7.9,
+    "VATPercentage": 16.85
+  },
+  {
+    "ProductCode": "27e1f94c-05e2-4f87-86fb-5a0bcea045b1",
+    "Descriptive": "Wine - Barolo Fontanafredda",
+    "Quantity": 38,
+    "UnitPrice": 2.73,
+    "VATPercentage": 1.21
+  },
+  {
+    "ProductCode": "830b4a68-3603-4753-9e8e-858b2eae46de",
+    "Descriptive": "Champagne - Brights, Dry",
+    "Quantity": 98,
+    "UnitPrice": 2.88,
+    "VATPercentage": 14.89
+  },
+  {
+    "ProductCode": "440f7616-83a1-4895-863d-c276ce4056e9",
+    "Descriptive": "Beer - Labatt Blue",
+    "Quantity": 74,
+    "UnitPrice": 0.14,
+    "VATPercentage": 12.01
+  },
+  {
+    "ProductCode": "5e323a0d-f6f0-4dc8-9e70-9326176be5c6",
+    "Descriptive": "Tilapia - Fillets",
+    "Quantity": 8,
+    "UnitPrice": 6.8,
+    "VATPercentage": 16.63
+  },
+  {
+    "ProductCode": "4a11d874-46fa-4e76-97e7-53019cb8b698",
+    "Descriptive": "Squid - Breaded",
+    "Quantity": 67,
+    "UnitPrice": 1.97,
+    "VATPercentage": 21.51
+  },
+  {
+    "ProductCode": "ed4d5274-a206-43d4-aaea-a9748793a27e",
+    "Descriptive": "Pasta - Gnocchi, Potato",
+    "Quantity": 68,
+    "UnitPrice": 4.56,
+    "VATPercentage": 21.39
+  },
+  {
+    "ProductCode": "c03f64e4-440f-4d33-9704-653a49bbfc6c",
+    "Descriptive": "Bread - Roll, Calabrese",
+    "Quantity": 74,
+    "UnitPrice": 0.54,
+    "VATPercentage": 16.28
+  },
+  {
+    "ProductCode": "b9bd35a9-5911-4f71-a4e2-3700fa9a032c",
+    "Descriptive": "Pasta - Angel Hair",
+    "Quantity": 16,
+    "UnitPrice": 7.97,
+    "VATPercentage": 17.52
+  },
+  {
+    "ProductCode": "f34e45ff-11e8-4edc-ae0b-99fc3a7923bc",
+    "Descriptive": "Lime Cordial - Roses",
+    "Quantity": 73,
+    "UnitPrice": 7.64,
+    "VATPercentage": 21.44
+  },
+  {
+    "ProductCode": "c14eed68-d9a6-41ef-b7e1-a9aa117be8ce",
+    "Descriptive": "Barramundi",
+    "Quantity": 55,
+    "UnitPrice": 8.89,
+    "VATPercentage": 3.42
+  },
+  {
+    "ProductCode": "810accaa-25eb-487e-97af-c0666c502bcd",
+    "Descriptive": "Juice - Apple 284ml",
+    "Quantity": 41,
+    "UnitPrice": 8.78,
+    "VATPercentage": 1.84
+  },
+  {
+    "ProductCode": "1815267d-e0e9-4902-a681-498ef6e6af21",
+    "Descriptive": "Mushroom - Morel Frozen",
+    "Quantity": 57,
+    "UnitPrice": 3.66,
+    "VATPercentage": 19.85
+  },
+  {
+    "ProductCode": "66d9cc74-b44e-4580-afe5-d002eb2d13ac",
+    "Descriptive": "Appetizer - Escargot Puff",
+    "Quantity": 26,
+    "UnitPrice": 7.72,
+    "VATPercentage": 9.12
+  },
+  {
+    "ProductCode": "7c7e0811-9c87-4b5d-86fd-81973b9a4345",
+    "Descriptive": "Honey - Lavender",
+    "Quantity": 19,
+    "UnitPrice": 0.02,
+    "VATPercentage": 18.52
+  },
+  {
+    "ProductCode": "e56cf81a-713d-4929-9147-4f6ba9dc120d",
+    "Descriptive": "Scallops 60/80 Iqf",
+    "Quantity": 76,
+    "UnitPrice": 1.87,
+    "VATPercentage": 10.64
+  },
+  {
+    "ProductCode": "bb0a3eef-05e1-4e47-a0c4-d75ee9dd9560",
+    "Descriptive": "Bread - Flat Bread",
+    "Quantity": 6,
+    "UnitPrice": 9.05,
+    "VATPercentage": 10.22
+  },
+  {
+    "ProductCode": "64c8125e-3579-4e13-8a47-1c3bc5e39567",
+    "Descriptive": "Beef - Ground Lean Fresh",
+    "Quantity": 56,
+    "UnitPrice": 8.13,
+    "VATPercentage": 6.04
+  },
+  {
+    "ProductCode": "cd14765c-86dc-4b19-81b7-3c30d0c430ea",
+    "Descriptive": "Tea - English Breakfast",
+    "Quantity": 26,
+    "UnitPrice": 4.05,
+    "VATPercentage": 4.69
+  },
+  {
+    "ProductCode": "fb3c02f5-e1e9-4cce-a2c8-f1545a4af9bf",
+    "Descriptive": "Flower - Daisies",
+    "Quantity": 80,
+    "UnitPrice": 7.69,
+    "VATPercentage": 15.44
+  },
+  {
+    "ProductCode": "a5be6e34-a1b2-4218-9694-5ac67ea5cf15",
+    "Descriptive": "Artichokes - Jerusalem",
+    "Quantity": 56,
+    "UnitPrice": 4.03,
+    "VATPercentage": 10.12
+  },
+  {
+    "ProductCode": "b4ac3fdb-0662-44a1-bbac-85103f62a095",
+    "Descriptive": "Gatorade - Lemon Lime",
+    "Quantity": 97,
+    "UnitPrice": 7.4,
+    "VATPercentage": 5.86
+  },
+  {
+    "ProductCode": "41a03393-0d25-4621-8184-99ee96fa1af1",
+    "Descriptive": "Bacardi Limon",
+    "Quantity": 17,
+    "UnitPrice": 4.23,
+    "VATPercentage": 12.47
+  },
+  {
+    "ProductCode": "7797a13d-b832-40b0-a697-43d6b6fad1e6",
+    "Descriptive": "Creme De Menth - White",
+    "Quantity": 8,
+    "UnitPrice": 3.12,
+    "VATPercentage": 17.6
+  },
+  {
+    "ProductCode": "791d4611-ece3-4bb6-a0b4-6f9d913db271",
+    "Descriptive": "Juice - Clamato, 341 Ml",
+    "Quantity": 42,
+    "UnitPrice": 3.29,
+    "VATPercentage": 15.33
+  },
+  {
+    "ProductCode": "2a30dcb1-37b4-4cd4-b9e0-91ff957250de",
+    "Descriptive": "Sour Puss Raspberry",
+    "Quantity": 69,
+    "UnitPrice": 7.16,
+    "VATPercentage": 8.5
+  },
+  {
+    "ProductCode": "1807a64c-5e4d-4179-a5d1-77c304d7d400",
+    "Descriptive": "Quail - Whole, Bone - In",
+    "Quantity": 8,
+    "UnitPrice": 5.38,
+    "VATPercentage": 22.42
+  },
+  {
+    "ProductCode": "301ded8e-356a-4f74-85e5-f540ed574dc4",
+    "Descriptive": "Pan Grease",
+    "Quantity": 20,
+    "UnitPrice": 5.82,
+    "VATPercentage": 15.18
+  },
+  {
+    "ProductCode": "504eb9c4-d092-4303-b411-977d324457ac",
+    "Descriptive": "Puff Pastry - Slab",
+    "Quantity": 95,
+    "UnitPrice": 5.64,
+    "VATPercentage": 2.13
+  },
+  {
+    "ProductCode": "06424941-95d2-4d51-9a30-1ed6856b301b",
+    "Descriptive": "Tea - English Breakfast",
+    "Quantity": 55,
+    "UnitPrice": 3.3,
+    "VATPercentage": 13.51
+  },
+  {
+    "ProductCode": "65e6099b-dea5-4f06-9047-4f3f27d4ed3f",
+    "Descriptive": "Beef - Striploin",
+    "Quantity": 17,
+    "UnitPrice": 7.94,
+    "VATPercentage": 1.66
+  },
+  {
+    "ProductCode": "27225348-2f0d-4f72-a5f9-3bb7b9b13f43",
+    "Descriptive": "Cheese - Cheddarsliced",
+    "Quantity": 49,
+    "UnitPrice": 1.28,
+    "VATPercentage": 1.8
+  },
+  {
+    "ProductCode": "f38751b0-dd94-4772-b56f-2a41e703f537",
+    "Descriptive": "Oil - Shortening,liqud, Fry",
+    "Quantity": 20,
+    "UnitPrice": 2.98,
+    "VATPercentage": 22.7
+  },
+  {
+    "ProductCode": "5ae16777-575b-419c-b2b6-ac371fb4dc8b",
+    "Descriptive": "Longos - Lasagna Beef",
+    "Quantity": 18,
+    "UnitPrice": 6.57,
+    "VATPercentage": 6.41
+  },
+  {
+    "ProductCode": "0ac78a2d-a3da-4504-b3cb-282084a45738",
+    "Descriptive": "Veal - Round, Eye Of",
+    "Quantity": 33,
+    "UnitPrice": 7.11,
+    "VATPercentage": 2.84
+  },
+  {
+    "ProductCode": "b8495c73-4ac3-4d45-a66a-0e5aa7605871",
+    "Descriptive": "Jam - Marmalade, Orange",
+    "Quantity": 51,
+    "UnitPrice": 9.99,
+    "VATPercentage": 12.77
+  },
+  {
+    "ProductCode": "ad51baa3-536a-4926-aaa9-1551bb875730",
+    "Descriptive": "Mix - Cocktail Ice Cream",
+    "Quantity": 88,
+    "UnitPrice": 3.03,
+    "VATPercentage": 16.43
+  },
+  {
+    "ProductCode": "eedbd70a-1dae-4d6f-9c90-48d69b579bf1",
+    "Descriptive": "Glaze - Clear",
+    "Quantity": 73,
+    "UnitPrice": 4.37,
+    "VATPercentage": 9.76
+  },
+  {
+    "ProductCode": "766b8d34-46b2-4356-8d6d-4daf4efd8b79",
+    "Descriptive": "Lemon Pepper",
+    "Quantity": 25,
+    "UnitPrice": 8.42,
+    "VATPercentage": 11.86
+  },
+  {
+    "ProductCode": "998a6da4-2170-4b7d-9b03-f2ad2e42fe79",
+    "Descriptive": "Yogurt - Plain",
+    "Quantity": 85,
+    "UnitPrice": 4.8,
+    "VATPercentage": 17.67
+  },
+  {
+    "ProductCode": "f146bedb-9f33-4b25-894c-686ec51d9c0c",
+    "Descriptive": "Beef - Bones, Marrow",
+    "Quantity": 48,
+    "UnitPrice": 6.52,
+    "VATPercentage": 4.69
+  },
+  {
+    "ProductCode": "c7f66253-8e26-4141-acff-9689f195240e",
+    "Descriptive": "Table Cloth 72x144 White",
+    "Quantity": 8,
+    "UnitPrice": 4.86,
+    "VATPercentage": 6.8
+  },
+  {
+    "ProductCode": "c792ebb0-0273-4dac-bff0-cbca533661e0",
+    "Descriptive": "Foam Dinner Plate",
+    "Quantity": 36,
+    "UnitPrice": 5.56,
+    "VATPercentage": 6.58
+  },
+  {
+    "ProductCode": "8cd07203-6db6-4d72-b4e4-71d21370101f",
+    "Descriptive": "Saskatoon Berries - Frozen",
+    "Quantity": 22,
+    "UnitPrice": 7.02,
+    "VATPercentage": 9.89
+  },
+  {
+    "ProductCode": "36037c1a-ad23-48e0-8a5c-ae4dcdc19805",
+    "Descriptive": "Lid - Translucent, 3.5 And 6 Oz",
+    "Quantity": 17,
+    "UnitPrice": 7.81,
+    "VATPercentage": 20.72
+  },
+  {
+    "ProductCode": "db907aee-0ad3-4b42-8794-2a4a03f6b672",
+    "Descriptive": "Soup - Campbells Bean Medley",
+    "Quantity": 29,
+    "UnitPrice": 7.67,
+    "VATPercentage": 2.27
+  },
+  {
+    "ProductCode": "d0262495-16f9-4243-b08a-b198f60d1b33",
+    "Descriptive": "Nut - Hazelnut, Ground, Natural",
+    "Quantity": 98,
+    "UnitPrice": 3.61,
+    "VATPercentage": 5.56
+  },
+  {
+    "ProductCode": "c7b430ff-f397-41dc-af14-9d99a524a772",
+    "Descriptive": "Wine - Red, Wolf Blass, Yellow",
+    "Quantity": 30,
+    "UnitPrice": 0.74,
+    "VATPercentage": 17.9
+  },
+  {
+    "ProductCode": "31d5c864-c8be-456d-a9a7-12556cc26992",
+    "Descriptive": "Wiberg Super Cure",
+    "Quantity": 87,
+    "UnitPrice": 5.59,
+    "VATPercentage": 10.52
+  },
+  {
+    "ProductCode": "770a7ed6-009b-4fe3-8df2-85f148c3f176",
+    "Descriptive": "Nori Sea Weed",
+    "Quantity": 70,
+    "UnitPrice": 4.68,
+    "VATPercentage": 16.31
+  },
+  {
+    "ProductCode": "4d00edfc-ea11-415b-bfad-92afcce72669",
+    "Descriptive": "Beans - Wax",
+    "Quantity": 50,
+    "UnitPrice": 6.17,
+    "VATPercentage": 5.49
+  },
+  {
+    "ProductCode": "4d957b47-eff9-442d-9172-ed2599bf0c94",
+    "Descriptive": "The Pop Shoppe - Lime Rickey",
+    "Quantity": 19,
+    "UnitPrice": 0.91,
+    "VATPercentage": 5.8
+  },
+  {
+    "ProductCode": "9f3bab2f-7c0d-4629-a113-4816ac6a88f6",
+    "Descriptive": "Wine - Barolo Fontanafredda",
+    "Quantity": 58,
+    "UnitPrice": 4.35,
+    "VATPercentage": 1.89
+  },
+  {
+    "ProductCode": "f5ee3e07-8795-4ff0-a155-a4e560be385d",
+    "Descriptive": "Cranberries - Dry",
+    "Quantity": 48,
+    "UnitPrice": 3.25,
+    "VATPercentage": 22.06
+  },
+  {
+    "ProductCode": "3ce51154-defe-4448-912b-869f7f4c9dd2",
+    "Descriptive": "Mushroom - Enoki, Dry",
+    "Quantity": 7,
+    "UnitPrice": 7.7,
+    "VATPercentage": 7.26
+  },
+  {
+    "ProductCode": "b4472248-f475-470e-b915-60d9fd21bba3",
+    "Descriptive": "Arctic Char - Fresh, Whole",
+    "Quantity": 6,
+    "UnitPrice": 9.94,
+    "VATPercentage": 7.69
+  },
+  {
+    "ProductCode": "9a0f893c-e94c-47f2-9d6b-8252184aa084",
+    "Descriptive": "Lettuce - Romaine",
+    "Quantity": 4,
+    "UnitPrice": 7.91,
+    "VATPercentage": 16.42
+  },
+  {
+    "ProductCode": "798f4f6a-ce43-4133-a37d-b9614bbce70f",
+    "Descriptive": "Venison - Striploin",
+    "Quantity": 60,
+    "UnitPrice": 5.66,
+    "VATPercentage": 6.74
+  },
+  {
+    "ProductCode": "8a264066-6d79-4688-9ada-ed15cbfb73a2",
+    "Descriptive": "Turkey Tenderloin Frozen",
+    "Quantity": 32,
+    "UnitPrice": 4.11,
+    "VATPercentage": 19.12
+  },
+  {
+    "ProductCode": "f34a0189-768b-4d68-a488-16d981a14005",
+    "Descriptive": "Wine - Guy Sage Touraine",
+    "Quantity": 20,
+    "UnitPrice": 5.21,
+    "VATPercentage": 12.48
+  },
+  {
+    "ProductCode": "9c0324c5-6101-4560-9b68-cc7208889b44",
+    "Descriptive": "Chef Hat 20cm",
+    "Quantity": 49,
+    "UnitPrice": 3.33,
+    "VATPercentage": 9.4
+  },
+  {
+    "ProductCode": "ef1ccc3d-351d-4765-b327-6147c2c582ca",
+    "Descriptive": "Wine - White, Antinore Orvieto",
+    "Quantity": 65,
+    "UnitPrice": 2.23,
+    "VATPercentage": 21.61
+  },
+  {
+    "ProductCode": "5e6fca44-a85b-4541-8318-d2cbc054a271",
+    "Descriptive": "Vacuum Bags 12x16",
+    "Quantity": 75,
+    "UnitPrice": 7.97,
+    "VATPercentage": 17.21
+  },
+  {
+    "ProductCode": "df032049-d1ea-4959-9fd5-eb7c3d20c838",
+    "Descriptive": "Aspic - Light",
+    "Quantity": 99,
+    "UnitPrice": 7.61,
+    "VATPercentage": 6.13
+  },
+  {
+    "ProductCode": "b91ad3a4-46d3-453f-90de-adf28c5a5c42",
+    "Descriptive": "Crush - Grape, 355 Ml",
+    "Quantity": 66,
+    "UnitPrice": 4.91,
+    "VATPercentage": 10.32
+  },
+  {
+    "ProductCode": "605293eb-6d94-48a6-a507-03e714b21eec",
+    "Descriptive": "Kale - Red",
+    "Quantity": 4,
+    "UnitPrice": 8.38,
+    "VATPercentage": 10.47
+  },
+  {
+    "ProductCode": "abd6295a-18d1-4c96-af6a-d578ed01344d",
+    "Descriptive": "Beer - Molson Excel",
+    "Quantity": 43,
+    "UnitPrice": 3.72,
+    "VATPercentage": 10.82
+  },
+  {
+    "ProductCode": "cbf52f79-686b-4019-beaf-0d417abe7450",
+    "Descriptive": "Tequila - Sauza Silver",
+    "Quantity": 90,
+    "UnitPrice": 9,
+    "VATPercentage": 6.49
+  },
+  {
+    "ProductCode": "35faa7fb-c737-4230-b684-03b08a51c793",
+    "Descriptive": "Asparagus - Green, Fresh",
+    "Quantity": 89,
+    "UnitPrice": 7.36,
+    "VATPercentage": 16.62
+  },
+  {
+    "ProductCode": "4161a209-3741-4964-88b6-b021fa862ee9",
+    "Descriptive": "Ketchup - Tomato",
+    "Quantity": 2,
+    "UnitPrice": 5.31,
+    "VATPercentage": 5.94
+  },
+  {
+    "ProductCode": "a35da5e3-60a0-4ec5-9f69-2a6c41ef1163",
+    "Descriptive": "Steampan Lid",
+    "Quantity": 21,
+    "UnitPrice": 6.69,
+    "VATPercentage": 7.43
+  },
+  {
+    "ProductCode": "e83b4181-740b-4b86-bed3-a1066ba843b7",
+    "Descriptive": "Browning Caramel Glace",
+    "Quantity": 37,
+    "UnitPrice": 7.55,
+    "VATPercentage": 16.19
+  },
+  {
+    "ProductCode": "6beae90f-fc63-45a9-a6a1-394811396ec2",
+    "Descriptive": "Langers - Mango Nectar",
+    "Quantity": 33,
+    "UnitPrice": 5.36,
+    "VATPercentage": 9.72
+  },
+  {
+    "ProductCode": "b98afd09-7833-45af-a154-3c6c32c9275a",
+    "Descriptive": "Juice - Apple 284ml",
+    "Quantity": 25,
+    "UnitPrice": 0.82,
+    "VATPercentage": 6.52
+  },
+  {
+    "ProductCode": "83a0b7a5-db59-4d9a-9244-4c572a66ecc7",
+    "Descriptive": "Mushroom - Oyster, Fresh",
+    "Quantity": 78,
+    "UnitPrice": 6.53,
+    "VATPercentage": 8.93
+  },
+  {
+    "ProductCode": "0dc64175-2190-48eb-bc1e-4fd0b19e56cd",
+    "Descriptive": "Milk - 2%",
+    "Quantity": 88,
+    "UnitPrice": 9.17,
+    "VATPercentage": 19.39
+  },
+  {
+    "ProductCode": "1df440a0-9c09-47f2-ab70-62881ad7b57b",
+    "Descriptive": "Muffin Orange Individual",
+    "Quantity": 97,
+    "UnitPrice": 2.11,
+    "VATPercentage": 2.48
+  },
+  {
+    "ProductCode": "579d65a8-5fa7-4ec6-8999-98c0970d329c",
+    "Descriptive": "Toothpick Frilled",
+    "Quantity": 13,
+    "UnitPrice": 1.36,
+    "VATPercentage": 2.02
+  },
+  {
+    "ProductCode": "2a2b6f5f-4efa-498d-bedb-32f9bf8ddf6c",
+    "Descriptive": "Ecolab Digiclean Mild Fm",
+    "Quantity": 63,
+    "UnitPrice": 0.96,
+    "VATPercentage": 16.16
+  },
+  {
+    "ProductCode": "3933d4ac-a96c-47c5-bfa0-082da1e71899",
+    "Descriptive": "Turnip - White",
+    "Quantity": 8,
+    "UnitPrice": 6.02,
+    "VATPercentage": 4.84
+  },
+  {
+    "ProductCode": "ff99922d-689d-4b41-9c2b-a412c43f29ff",
+    "Descriptive": "Beef - Flank Steak",
+    "Quantity": 80,
+    "UnitPrice": 3.47,
+    "VATPercentage": 9.24
+  },
+  {
+    "ProductCode": "d927f755-3de1-4944-8b45-ab54de7711c9",
+    "Descriptive": "Mushroom - Morels, Dry",
+    "Quantity": 14,
+    "UnitPrice": 1.13,
+    "VATPercentage": 9.25
+  },
+  {
+    "ProductCode": "abe3d3a7-f90a-4d62-ab62-2383c09a7883",
+    "Descriptive": "Bread - Pita",
+    "Quantity": 69,
+    "UnitPrice": 3.87,
+    "VATPercentage": 1.31
+  },
+  {
+    "ProductCode": "4fb9f078-c7b9-453b-ad48-52ff3d14a7d8",
+    "Descriptive": "Cod - Salted, Boneless",
+    "Quantity": 19,
+    "UnitPrice": 6.03,
+    "VATPercentage": 20.17
+  },
+  {
+    "ProductCode": "0d3a8de7-2530-4480-ab52-2ad1ce81770b",
+    "Descriptive": "Syrup - Monin, Amaretta",
+    "Quantity": 46,
+    "UnitPrice": 6.17,
+    "VATPercentage": 17.1
+  },
+  {
+    "ProductCode": "77506604-3b46-4127-96ce-3fbeff891170",
+    "Descriptive": "Broom Handle",
+    "Quantity": 32,
+    "UnitPrice": 9.64,
+    "VATPercentage": 8.64
+  },
+  {
+    "ProductCode": "7a5f5a8e-684b-48f9-96e3-a662d50e810a",
+    "Descriptive": "Pineapple - Regular",
+    "Quantity": 83,
+    "UnitPrice": 4.86,
+    "VATPercentage": 6.39
+  },
+  {
+    "ProductCode": "2a4d6ec3-e440-4f0a-bd69-e1b686523d15",
+    "Descriptive": "Carbonated Water - Wildberry",
+    "Quantity": 29,
+    "UnitPrice": 9.71,
+    "VATPercentage": 4.68
+  },
+  {
+    "ProductCode": "9d00b7ad-7f70-4b7a-a87d-579e08bb228f",
+    "Descriptive": "Monkfish - Fresh",
+    "Quantity": 39,
+    "UnitPrice": 0.99,
+    "VATPercentage": 6.72
+  },
+  {
+    "ProductCode": "b4a88884-600a-45dd-bdd6-2d27fdc0a671",
+    "Descriptive": "Cake - Pancake",
+    "Quantity": 56,
+    "UnitPrice": 7.34,
+    "VATPercentage": 22.87
+  },
+  {
+    "ProductCode": "d08ab331-af81-46f0-893f-7b719983e2b6",
+    "Descriptive": "Veal - Nuckle",
+    "Quantity": 37,
+    "UnitPrice": 6.72,
+    "VATPercentage": 2.93
+  },
+  {
+    "ProductCode": "3820403c-9cbd-43f7-a2fa-addb61377870",
+    "Descriptive": "Parsnip",
+    "Quantity": 58,
+    "UnitPrice": 9.91,
+    "VATPercentage": 9.46
+  },
+  {
+    "ProductCode": "b3cb4e06-6a32-4577-873a-17732a392463",
+    "Descriptive": "Peas Snow",
+    "Quantity": 15,
+    "UnitPrice": 1.3,
+    "VATPercentage": 7.56
+  },
+  {
+    "ProductCode": "5ca1c0ea-3dc3-40db-9fff-1599a150b388",
+    "Descriptive": "Rice - Sushi",
+    "Quantity": 82,
+    "UnitPrice": 8.98,
+    "VATPercentage": 3.27
+  },
+  {
+    "ProductCode": "6f3431c7-082e-4203-8b48-e889511ba52e",
+    "Descriptive": "Oil - Avocado",
+    "Quantity": 21,
+    "UnitPrice": 2.98,
+    "VATPercentage": 5.78
+  },
+  {
+    "ProductCode": "de9bfffb-1581-4349-8393-b178a2cf42d9",
+    "Descriptive": "Pork - Ham, Virginia",
+    "Quantity": 49,
+    "UnitPrice": 0.22,
+    "VATPercentage": 12.35
+  },
+  {
+    "ProductCode": "18fac0db-2e61-4b8e-ad9b-941ccdc59581",
+    "Descriptive": "Appetizer - Lobster Phyllo Roll",
+    "Quantity": 89,
+    "UnitPrice": 0.42,
+    "VATPercentage": 7.27
+  },
+  {
+    "ProductCode": "e9d79dc6-6401-4fc1-bb07-8ce9055adb16",
+    "Descriptive": "Cheese - Ermite Bleu",
+    "Quantity": 78,
+    "UnitPrice": 5.06,
+    "VATPercentage": 15.17
+  },
+  {
+    "ProductCode": "18a61e2f-74b5-4d32-a70a-17ed0dee0067",
+    "Descriptive": "Bread - Sticks, Thin, Plain",
+    "Quantity": 100,
+    "UnitPrice": 2.5,
+    "VATPercentage": 18.51
+  },
+  {
+    "ProductCode": "df94855a-459d-4d61-b8a9-186cf39b4ad1",
+    "Descriptive": "Wine - Red, Pelee Island Merlot",
+    "Quantity": 3,
+    "UnitPrice": 2.19,
+    "VATPercentage": 21.55
+  },
+  {
+    "ProductCode": "df0f6bc2-788a-458d-b853-8da75ccc03e9",
+    "Descriptive": "Beets - Golden",
+    "Quantity": 31,
+    "UnitPrice": 6.46,
+    "VATPercentage": 1.76
+  },
+  {
+    "ProductCode": "3866ade0-e7cd-4b65-ad41-6e173089f130",
+    "Descriptive": "Beer - Sleemans Cream Ale",
+    "Quantity": 4,
+    "UnitPrice": 4.67,
+    "VATPercentage": 11.35
+  },
+  {
+    "ProductCode": "a768dcd0-f92d-487b-94e8-517efc6216ea",
+    "Descriptive": "Sole - Iqf",
+    "Quantity": 98,
+    "UnitPrice": 1.22,
+    "VATPercentage": 18.95
+  },
+  {
+    "ProductCode": "ad4492d9-8f38-4d3d-9362-2fad3a1db9e5",
+    "Descriptive": "Lamb - Rack",
+    "Quantity": 33,
+    "UnitPrice": 8.05,
+    "VATPercentage": 2.81
+  },
+  {
+    "ProductCode": "c8c9a7cf-98f5-4313-b2ee-fc7d8798fe62",
+    "Descriptive": "Arctic Char - Fresh, Whole",
+    "Quantity": 72,
+    "UnitPrice": 1.97,
+    "VATPercentage": 18.09
+  },
+  {
+    "ProductCode": "6bd682d6-b914-41ba-9b5e-7b4a3e5edc88",
+    "Descriptive": "Lamb - Loin Chops",
+    "Quantity": 6,
+    "UnitPrice": 4.12,
+    "VATPercentage": 10
+  },
+  {
+    "ProductCode": "e90021df-320d-4aa5-87ee-60c4e6f4d132",
+    "Descriptive": "Pastry - Key Limepoppy Seed Tea",
+    "Quantity": 70,
+    "UnitPrice": 0.08,
+    "VATPercentage": 7.19
+  },
+  {
+    "ProductCode": "85164649-9fec-46a0-b280-61e0a0ae657d",
+    "Descriptive": "Juice - Prune",
+    "Quantity": 8,
+    "UnitPrice": 0.64,
+    "VATPercentage": 1.61
+  },
+  {
+    "ProductCode": "661dfa2e-0604-49fc-8374-05b4d8a56dbf",
+    "Descriptive": "Tomatoes - Yellow Hot House",
+    "Quantity": 84,
+    "UnitPrice": 3.98,
+    "VATPercentage": 7.95
+  },
+  {
+    "ProductCode": "7dc5d69e-966c-4f81-8573-1633812d515f",
+    "Descriptive": "Wine - Pinot Noir Mondavi Coastal",
+    "Quantity": 74,
+    "UnitPrice": 3.99,
+    "VATPercentage": 3.38
+  },
+  {
+    "ProductCode": "6fcd3429-d9a7-42e9-98fc-608a7ad28d80",
+    "Descriptive": "Wine - Pinot Noir Mondavi Coastal",
+    "Quantity": 97,
+    "UnitPrice": 7.56,
+    "VATPercentage": 4.17
+  },
+  {
+    "ProductCode": "914d7ee7-9d4b-4c3d-b358-db9d053e6b54",
+    "Descriptive": "Marjoram - Fresh",
+    "Quantity": 20,
+    "UnitPrice": 8.13,
+    "VATPercentage": 20.67
+  },
+  {
+    "ProductCode": "4c6e69d5-0cd2-4ebe-b627-bddf5e0ea7a7",
+    "Descriptive": "Rolled Oats",
+    "Quantity": 2,
+    "UnitPrice": 2.38,
+    "VATPercentage": 12.77
+  },
+  {
+    "ProductCode": "fee7bb74-49f7-4140-8b98-94a5a4056138",
+    "Descriptive": "Apricots - Halves",
+    "Quantity": 63,
+    "UnitPrice": 0.91,
+    "VATPercentage": 18.58
+  },
+  {
+    "ProductCode": "9208ae11-9cac-43cb-8a9d-20a53666806e",
+    "Descriptive": "Tea - Black Currant",
+    "Quantity": 50,
+    "UnitPrice": 9.88,
+    "VATPercentage": 10.71
+  },
+  {
+    "ProductCode": "fc0da15e-7869-4bbe-86bb-ee2744e8806a",
+    "Descriptive": "Tomatoes - Hot House",
+    "Quantity": 65,
+    "UnitPrice": 3.67,
+    "VATPercentage": 11.17
+  },
+  {
+    "ProductCode": "22243e8e-6f2c-434e-a926-1be684a8f25a",
+    "Descriptive": "Cake Circle, Paprus",
+    "Quantity": 40,
+    "UnitPrice": 5.33,
+    "VATPercentage": 2.83
+  },
+  {
+    "ProductCode": "56baa872-9bcf-4b74-b559-3ec5737b4be5",
+    "Descriptive": "Wine - Pinot Noir Mondavi Coastal",
+    "Quantity": 32,
+    "UnitPrice": 8.1,
+    "VATPercentage": 22.1
+  },
+  {
+    "ProductCode": "1113d358-cab7-4a86-81eb-3baa4b6096da",
+    "Descriptive": "Iced Tea - Lemon, 340ml",
+    "Quantity": 79,
+    "UnitPrice": 5.02,
+    "VATPercentage": 13.06
+  },
+  {
+    "ProductCode": "0a16b63d-e82c-4d3f-8ce2-1f44219dbe9c",
+    "Descriptive": "Pepper Squash",
+    "Quantity": 12,
+    "UnitPrice": 0.51,
+    "VATPercentage": 20.17
+  },
+  {
+    "ProductCode": "ae7b4d9b-19f0-4e4c-aa60-510e25bb37e7",
+    "Descriptive": "Crab - Imitation Flakes",
+    "Quantity": 96,
+    "UnitPrice": 8.04,
+    "VATPercentage": 19.67
+  },
+  {
+    "ProductCode": "804af2ed-77e5-473f-b2d1-6271b085eaac",
+    "Descriptive": "Anchovy Paste - 56 G Tube",
+    "Quantity": 28,
+    "UnitPrice": 2.33,
+    "VATPercentage": 16.58
+  },
+  {
+    "ProductCode": "55994968-7937-4e81-8197-aaf14beb6e35",
+    "Descriptive": "Wine - Red, Gallo, Merlot",
+    "Quantity": 21,
+    "UnitPrice": 2.95,
+    "VATPercentage": 4.69
+  },
+  {
+    "ProductCode": "a4923f78-08e3-435a-b8ac-5980e5147695",
+    "Descriptive": "Sobe - Berry Energy",
+    "Quantity": 52,
+    "UnitPrice": 4.96,
+    "VATPercentage": 3.07
+  },
+  {
+    "ProductCode": "1ffffa19-34af-42ff-82f5-66a98f3d3d77",
+    "Descriptive": "Wild Boar - Tenderloin",
+    "Quantity": 1,
+    "UnitPrice": 5.94,
+    "VATPercentage": 12.72
+  },
+  {
+    "ProductCode": "07269821-1bd6-4bd8-b7ae-da71399c320e",
+    "Descriptive": "Buffalo - Tenderloin",
+    "Quantity": 28,
+    "UnitPrice": 3.52,
+    "VATPercentage": 16.94
+  },
+  {
+    "ProductCode": "79749b86-5d3a-4dcd-9862-e8fdb84b7214",
+    "Descriptive": "Cocktail Napkin Blue",
+    "Quantity": 11,
+    "UnitPrice": 2.13,
+    "VATPercentage": 13.29
+  },
+  {
+    "ProductCode": "f3aadb1a-33fa-4acf-ae0f-0a3fb3bf141a",
+    "Descriptive": "Chicken - Whole",
+    "Quantity": 85,
+    "UnitPrice": 2.39,
+    "VATPercentage": 5.22
+  },
+  {
+    "ProductCode": "81f3cf76-8cfa-4300-abad-f6ebf49f867f",
+    "Descriptive": "Radish - Black, Winter, Organic",
+    "Quantity": 76,
+    "UnitPrice": 7.27,
+    "VATPercentage": 2.39
+  },
+  {
+    "ProductCode": "6366a6d8-0da5-4484-88a5-3b98891c76a1",
+    "Descriptive": "Nacho Chips",
+    "Quantity": 99,
+    "UnitPrice": 3.25,
+    "VATPercentage": 1.48
+  },
+  {
+    "ProductCode": "e0253e68-e09d-40ca-bad1-9b1afaf0737a",
+    "Descriptive": "Wine - Riesling Dr. Pauly",
+    "Quantity": 19,
+    "UnitPrice": 2.87,
+    "VATPercentage": 3.91
+  },
+  {
+    "ProductCode": "893bf3f7-e7a5-430a-afc9-98d73c2ee735",
+    "Descriptive": "Pork - Caul Fat",
+    "Quantity": 16,
+    "UnitPrice": 4.27,
+    "VATPercentage": 6.88
+  },
+  {
+    "ProductCode": "e53d2423-55f0-4f7f-8d2c-2c33b731022c",
+    "Descriptive": "Spice - Paprika",
+    "Quantity": 30,
+    "UnitPrice": 7.2,
+    "VATPercentage": 14.03
+  },
+  {
+    "ProductCode": "bce4deff-58e0-4237-9d2a-f1152b5346d1",
+    "Descriptive": "Tea - Decaf 1 Cup",
+    "Quantity": 36,
+    "UnitPrice": 3.56,
+    "VATPercentage": 8.02
+  },
+  {
+    "ProductCode": "2985e056-7854-4bab-a9ef-e8f6a185954b",
+    "Descriptive": "Ham - Procutinni",
+    "Quantity": 7,
+    "UnitPrice": 7.7,
+    "VATPercentage": 4.16
+  },
+  {
+    "ProductCode": "5bcf493e-c44a-4a52-ae55-11deb078fa9a",
+    "Descriptive": "Potatoes - Instant, Mashed",
+    "Quantity": 62,
+    "UnitPrice": 7.61,
+    "VATPercentage": 1.73
+  },
+  {
+    "ProductCode": "01b79815-5cbd-4a2f-9f8e-ab190ddea157",
+    "Descriptive": "Crab Meat Claw Pasteurise",
+    "Quantity": 38,
+    "UnitPrice": 6.13,
+    "VATPercentage": 12.2
+  },
+  {
+    "ProductCode": "c93396f6-08ad-4bd4-ac62-2f8279b852b5",
+    "Descriptive": "Wine - Chenin Blanc K.w.v.",
+    "Quantity": 45,
+    "UnitPrice": 0.13,
+    "VATPercentage": 4.33
+  },
+  {
+    "ProductCode": "ab0a3d02-8588-464a-abdc-22be27e402b3",
+    "Descriptive": "Tortillas - Flour, 12",
+    "Quantity": 54,
+    "UnitPrice": 7.98,
+    "VATPercentage": 3.01
+  },
+  {
+    "ProductCode": "c8898a25-c239-4432-bc5e-8c0415bd1b40",
+    "Descriptive": "Lentils - Red, Dry",
+    "Quantity": 48,
+    "UnitPrice": 2.01,
+    "VATPercentage": 1.01
+  },
+  {
+    "ProductCode": "fbf76a33-582a-4103-99fd-9bc7d4614339",
+    "Descriptive": "Savory",
+    "Quantity": 47,
+    "UnitPrice": 7.77,
+    "VATPercentage": 14.81
+  },
+  {
+    "ProductCode": "333f7fce-cac3-43e0-b8b3-dfaca760fd77",
+    "Descriptive": "Bread - Rye",
+    "Quantity": 5,
+    "UnitPrice": 6.44,
+    "VATPercentage": 16.59
+  },
+  {
+    "ProductCode": "1cf43e64-7a00-4cb3-84fc-0c78eb39cc12",
+    "Descriptive": "Beef - Tender Tips",
+    "Quantity": 21,
+    "UnitPrice": 4.14,
+    "VATPercentage": 21.19
+  },
+  {
+    "ProductCode": "2a1e4375-fda1-46c6-a410-19a122a6ecb8",
+    "Descriptive": "Soup - French Can Pea",
+    "Quantity": 85,
+    "UnitPrice": 5.78,
+    "VATPercentage": 16.45
+  },
+  {
+    "ProductCode": "f0d679c4-8fb9-40aa-bc94-113bae2ebd0f",
+    "Descriptive": "Muffin Mix - Oatmeal",
+    "Quantity": 67,
+    "UnitPrice": 6.08,
+    "VATPercentage": 6.78
+  },
+  {
+    "ProductCode": "5b2bf493-2207-4f6a-afc3-1ec3c9df4981",
+    "Descriptive": "Pastry - Chocolate Marble Tea",
+    "Quantity": 8,
+    "UnitPrice": 3.5,
+    "VATPercentage": 18.32
+  },
+  {
+    "ProductCode": "cda2e03e-64b8-4444-9efd-bcffa252d72f",
+    "Descriptive": "Flower - Commercial Bronze",
+    "Quantity": 9,
+    "UnitPrice": 4.55,
+    "VATPercentage": 8.81
+  },
+  {
+    "ProductCode": "e5d65aa4-da6c-425e-9b63-d5b31e74b158",
+    "Descriptive": "Wine - White, Mosel Gold",
+    "Quantity": 98,
+    "UnitPrice": 1.87,
+    "VATPercentage": 3.89
+  },
+  {
+    "ProductCode": "0d453da9-bcec-4446-b5c9-26ca91ba2596",
+    "Descriptive": "Appetizer - Chicken Satay",
+    "Quantity": 34,
+    "UnitPrice": 5.75,
+    "VATPercentage": 10.43
+  },
+  {
+    "ProductCode": "369e6bf6-053e-4194-ad0c-f47a387b35fe",
+    "Descriptive": "Pork - Smoked Kassler",
+    "Quantity": 42,
+    "UnitPrice": 4.14,
+    "VATPercentage": 4.12
+  },
+  {
+    "ProductCode": "cd8f9e31-ee14-4ad2-8971-5760448211aa",
+    "Descriptive": "Peppercorns - Pink",
+    "Quantity": 90,
+    "UnitPrice": 6.53,
+    "VATPercentage": 2.45
+  },
+  {
+    "ProductCode": "3bacad14-969e-4fc3-86df-91d4c89506c9",
+    "Descriptive": "Muffins - Assorted",
+    "Quantity": 56,
+    "UnitPrice": 7.94,
+    "VATPercentage": 19.47
+  },
+  {
+    "ProductCode": "3d3ef36f-ff3b-4126-9286-d7f2242f2912",
+    "Descriptive": "Bread - Olive",
+    "Quantity": 32,
+    "UnitPrice": 0.38,
+    "VATPercentage": 14.96
+  },
+  {
+    "ProductCode": "fabee7e2-9cd8-43d2-9680-c0886497c73c",
+    "Descriptive": "Lamb - Whole Head Off,nz",
+    "Quantity": 75,
+    "UnitPrice": 5.6,
+    "VATPercentage": 12.6
+  },
+  {
+    "ProductCode": "d8738052-29e6-448e-8866-0fcc7b356647",
+    "Descriptive": "Tomato - Green",
+    "Quantity": 55,
+    "UnitPrice": 1.5,
+    "VATPercentage": 2.64
+  },
+  {
+    "ProductCode": "3490c70d-c164-481d-a49e-cf1494e568da",
+    "Descriptive": "Lady Fingers",
+    "Quantity": 8,
+    "UnitPrice": 5.64,
+    "VATPercentage": 6.98
+  },
+  {
+    "ProductCode": "641dc495-ce0e-4d0f-9aae-ab8ba51713b4",
+    "Descriptive": "Breadfruit",
+    "Quantity": 96,
+    "UnitPrice": 2.04,
+    "VATPercentage": 9.85
+  },
+  {
+    "ProductCode": "4ea4093e-1cbc-4a1c-a3e3-9fa419f57b82",
+    "Descriptive": "Oil - Shortening - All - Purpose",
+    "Quantity": 27,
+    "UnitPrice": 9.7,
+    "VATPercentage": 12.17
+  },
+  {
+    "ProductCode": "5acba128-6f77-4f89-a914-8d16b8bb27eb",
+    "Descriptive": "Urban Zen Drinks",
+    "Quantity": 25,
+    "UnitPrice": 3.82,
+    "VATPercentage": 18.18
+  },
+  {
+    "ProductCode": "dc62c371-3dcd-499e-a9d8-87d7baa4df25",
+    "Descriptive": "Apples - Spartan",
+    "Quantity": 95,
+    "UnitPrice": 8.19,
+    "VATPercentage": 19.43
+  },
+  {
+    "ProductCode": "70fe0d58-01dd-49b8-8a38-4e5419dd749e",
+    "Descriptive": "Bread - Rolls, Corn",
+    "Quantity": 63,
+    "UnitPrice": 3.61,
+    "VATPercentage": 8.23
+  },
+  {
+    "ProductCode": "6e026dbf-d574-4425-8459-9091942e33ce",
+    "Descriptive": "Shallots",
+    "Quantity": 53,
+    "UnitPrice": 0.16,
+    "VATPercentage": 16.91
+  },
+  {
+    "ProductCode": "119f962d-bcca-462d-82f8-812fa669e5b5",
+    "Descriptive": "Milk - Homo",
+    "Quantity": 33,
+    "UnitPrice": 1,
+    "VATPercentage": 16.68
+  },
+  {
+    "ProductCode": "2eeebcda-2c62-4106-929b-4200223fbbba",
+    "Descriptive": "Tomato - Plum With Basil",
+    "Quantity": 64,
+    "UnitPrice": 4.52,
+    "VATPercentage": 9.78
+  },
+  {
+    "ProductCode": "3e00f4aa-cb25-45e6-93b7-239e72d0fdd3",
+    "Descriptive": "Tea - Lemon Green Tea",
+    "Quantity": 4,
+    "UnitPrice": 9.35,
+    "VATPercentage": 6.72
+  },
+  {
+    "ProductCode": "d9ecc124-6f16-4469-aeae-c2e4c4c29e10",
+    "Descriptive": "Ecolab - Balanced Fusion",
+    "Quantity": 81,
+    "UnitPrice": 7.46,
+    "VATPercentage": 19.66
+  },
+  {
+    "ProductCode": "2417d66d-3f83-474d-92d4-e243de73adcb",
+    "Descriptive": "Salt - Celery",
+    "Quantity": 70,
+    "UnitPrice": 4.13,
+    "VATPercentage": 16.72
+  },
+  {
+    "ProductCode": "279eb2b5-432b-4304-9fc8-164d7450b840",
+    "Descriptive": "Butter - Pod",
+    "Quantity": 90,
+    "UnitPrice": 5.72,
+    "VATPercentage": 17.01
+  },
+  {
+    "ProductCode": "064fb7c4-a8d4-4627-bba9-f476096831b1",
+    "Descriptive": "Beer - Original Organic Lager",
+    "Quantity": 68,
+    "UnitPrice": 1.59,
+    "VATPercentage": 8.76
+  },
+  {
+    "ProductCode": "2929a598-75a1-4303-9615-69da29dcdd40",
+    "Descriptive": "Halibut - Steaks",
+    "Quantity": 1,
+    "UnitPrice": 2.94,
+    "VATPercentage": 6.48
+  },
+  {
+    "ProductCode": "830eadcc-59cf-4cb2-851e-d4c11f971e92",
+    "Descriptive": "Veal - Liver",
+    "Quantity": 33,
+    "UnitPrice": 3.05,
+    "VATPercentage": 5.5
+  },
+  {
+    "ProductCode": "107caf13-2e0f-4980-a0e6-34b58445c4b0",
+    "Descriptive": "Pork Casing",
+    "Quantity": 86,
+    "UnitPrice": 1.68,
+    "VATPercentage": 7.47
+  },
+  {
+    "ProductCode": "9830de25-82c2-442a-acb0-2852cef53ff9",
+    "Descriptive": "Lettuce - Romaine",
+    "Quantity": 39,
+    "UnitPrice": 3.93,
+    "VATPercentage": 15.2
+  },
+  {
+    "ProductCode": "efd1d9b0-30de-41f4-aaca-68fb97caf05b",
+    "Descriptive": "Taro Root",
+    "Quantity": 83,
+    "UnitPrice": 8.48,
+    "VATPercentage": 4.6
+  },
+  {
+    "ProductCode": "edf6c93e-22bc-4c31-beb5-2c88a85868f1",
+    "Descriptive": "Wine - Niagara,vqa Reisling",
+    "Quantity": 96,
+    "UnitPrice": 1.85,
+    "VATPercentage": 16.75
+  },
+  {
+    "ProductCode": "78c0e820-4c2d-4fd9-9897-d1e27accf666",
+    "Descriptive": "Soup - Boston Clam Chowder",
+    "Quantity": 69,
+    "UnitPrice": 9.93,
+    "VATPercentage": 6.46
+  },
+  {
+    "ProductCode": "e8b25435-7235-4e3c-8233-7bab45893fbf",
+    "Descriptive": "Wine - Barbera Alba Doc 2001",
+    "Quantity": 16,
+    "UnitPrice": 0.18,
+    "VATPercentage": 8.15
+  },
+  {
+    "ProductCode": "962ba138-1472-49da-8e54-38bb62a08cb7",
+    "Descriptive": "Beets - Pickled",
+    "Quantity": 14,
+    "UnitPrice": 5.14,
+    "VATPercentage": 13.21
+  },
+  {
+    "ProductCode": "eb8fcbe8-c0e8-42a7-938f-2cc10e1e556c",
+    "Descriptive": "Water - Green Tea Refresher",
+    "Quantity": 38,
+    "UnitPrice": 4.65,
+    "VATPercentage": 16.55
+  },
+  {
+    "ProductCode": "34dbf546-d308-4b5a-be68-b9d8e4cd8173",
+    "Descriptive": "Nantucket Cranberry Juice",
+    "Quantity": 59,
+    "UnitPrice": 9.4,
+    "VATPercentage": 19.53
+  },
+  {
+    "ProductCode": "702b583e-2f44-4d54-a8ef-d91f73f61294",
+    "Descriptive": "Chocolate Bar - Smarties",
+    "Quantity": 85,
+    "UnitPrice": 5.31,
+    "VATPercentage": 9.7
+  },
+  {
+    "ProductCode": "837a84a0-5009-433d-b1c2-45df0bb7335b",
+    "Descriptive": "Broom - Angled",
+    "Quantity": 89,
+    "UnitPrice": 1.93,
+    "VATPercentage": 3.79
+  },
+  {
+    "ProductCode": "35ae755a-a576-415d-94a1-b3a4c8eec092",
+    "Descriptive": "Table Cloth 91x91 Colour",
+    "Quantity": 23,
+    "UnitPrice": 7.7,
+    "VATPercentage": 19.62
+  },
+  {
+    "ProductCode": "4ed3cb11-e1fc-4176-906e-117c62e8a3eb",
+    "Descriptive": "Cookies - Englishbay Oatmeal",
+    "Quantity": 15,
+    "UnitPrice": 6.48,
+    "VATPercentage": 13.38
+  },
+  {
+    "ProductCode": "9970faff-d456-4f04-bc7c-79f600097ff8",
+    "Descriptive": "Celery",
+    "Quantity": 57,
+    "UnitPrice": 2.65,
+    "VATPercentage": 5.53
+  },
+  {
+    "ProductCode": "34ee20e2-ef4b-4223-8168-bcef480f434b",
+    "Descriptive": "Veal - Inside Round / Top, Lean",
+    "Quantity": 40,
+    "UnitPrice": 6.23,
+    "VATPercentage": 9.08
+  },
+  {
+    "ProductCode": "6549d6ca-cb8e-4f9d-9821-e38fb69e9b19",
+    "Descriptive": "Cabbage - Green",
+    "Quantity": 23,
+    "UnitPrice": 0.97,
+    "VATPercentage": 7.44
+  },
+  {
+    "ProductCode": "8df55a85-1ea6-4db1-825c-613dc604b866",
+    "Descriptive": "Coke - Diet, 355 Ml",
+    "Quantity": 10,
+    "UnitPrice": 5.46,
+    "VATPercentage": 8.63
+  },
+  {
+    "ProductCode": "a5ae9b2e-a76a-447b-9f74-7bbdcb4052c2",
+    "Descriptive": "Chicken - Thigh, Bone In",
+    "Quantity": 44,
+    "UnitPrice": 5.51,
+    "VATPercentage": 9.71
+  },
+  {
+    "ProductCode": "0a888293-88f4-4d57-8dab-44fb96cb55d5",
+    "Descriptive": "Pasta - Cappellini, Dry",
+    "Quantity": 67,
+    "UnitPrice": 9.85,
+    "VATPercentage": 15.73
+  },
+  {
+    "ProductCode": "14174706-71d7-465e-9aa9-9f8ce1227d54",
+    "Descriptive": "Nut - Hazelnut, Ground, Natural",
+    "Quantity": 77,
+    "UnitPrice": 2.59,
+    "VATPercentage": 8.94
+  },
+  {
+    "ProductCode": "8950d1ab-075b-44bf-aaca-e8e724fe59d0",
+    "Descriptive": "Ice Cream Bar - Oreo Cone",
+    "Quantity": 14,
+    "UnitPrice": 8.76,
+    "VATPercentage": 7.57
+  },
+  {
+    "ProductCode": "1e4cff5b-be53-4c2c-a3c6-e8fe4ee69293",
+    "Descriptive": "Arctic Char - Fillets",
+    "Quantity": 88,
+    "UnitPrice": 3.23,
+    "VATPercentage": 12.26
+  },
+  {
+    "ProductCode": "86dfaf24-f146-4823-a6e0-ad99d549ca50",
+    "Descriptive": "Roe - Flying Fish",
+    "Quantity": 61,
+    "UnitPrice": 3.83,
+    "VATPercentage": 14.61
+  },
+  {
+    "ProductCode": "36758c68-0446-47a2-a005-05654ed25abf",
+    "Descriptive": "Wine - Niagara Peninsula Vqa",
+    "Quantity": 3,
+    "UnitPrice": 6.24,
+    "VATPercentage": 7.84
+  },
+  {
+    "ProductCode": "a8caac05-a6c2-4998-80df-4e2acf7b4a56",
+    "Descriptive": "Hot Chocolate - Individual",
+    "Quantity": 98,
+    "UnitPrice": 5.19,
+    "VATPercentage": 12.56
+  },
+  {
+    "ProductCode": "086c73a5-dbfd-4081-8579-b23ff7ee11fe",
+    "Descriptive": "Wine - Jaboulet Cotes Du Rhone",
+    "Quantity": 2,
+    "UnitPrice": 5.8,
+    "VATPercentage": 4.08
+  },
+  {
+    "ProductCode": "ed05b8b9-925f-4b45-a858-3ab847b83569",
+    "Descriptive": "Salt - Rock, Course",
+    "Quantity": 94,
+    "UnitPrice": 3.95,
+    "VATPercentage": 21.75
+  },
+  {
+    "ProductCode": "0d7a8447-33e1-474d-9ded-19f0b79f35db",
+    "Descriptive": "Wonton Wrappers",
+    "Quantity": 91,
+    "UnitPrice": 1.44,
+    "VATPercentage": 7.3
+  },
+  {
+    "ProductCode": "d4d87b2f-02ca-4128-8da0-9aa0daf34d4c",
+    "Descriptive": "Rum - Cream, Amarula",
+    "Quantity": 47,
+    "UnitPrice": 5.66,
+    "VATPercentage": 11.47
+  },
+  {
+    "ProductCode": "d80b101f-d49e-47db-aa24-07eadc44a715",
+    "Descriptive": "Cookie - Oreo 100x2",
+    "Quantity": 51,
+    "UnitPrice": 4.07,
+    "VATPercentage": 8.62
+  },
+  {
+    "ProductCode": "75b9e85a-d302-41e2-ab5f-ed2efa12ccf9",
+    "Descriptive": "Tomatoes",
+    "Quantity": 85,
+    "UnitPrice": 0.24,
+    "VATPercentage": 18.74
+  },
+  {
+    "ProductCode": "824a8d51-e448-4849-baaf-83d4e4003549",
+    "Descriptive": "Pasta - Cannelloni, Sheets, Fresh",
+    "Quantity": 92,
+    "UnitPrice": 2.32,
+    "VATPercentage": 14.73
+  },
+  {
+    "ProductCode": "f0492336-d348-490c-ab23-714d41940e49",
+    "Descriptive": "Onion - Dried",
+    "Quantity": 69,
+    "UnitPrice": 0.38,
+    "VATPercentage": 18.36
+  },
+  {
+    "ProductCode": "c357c53a-0cce-41b5-b50a-83a67e3449df",
+    "Descriptive": "Wine - Riesling Dr. Pauly",
+    "Quantity": 68,
+    "UnitPrice": 0.15,
+    "VATPercentage": 4.86
+  },
+  {
+    "ProductCode": "7afb7efe-80ec-414a-b09f-2b05dbb47934",
+    "Descriptive": "Salmon Steak - Cohoe 8 Oz",
+    "Quantity": 21,
+    "UnitPrice": 8.62,
+    "VATPercentage": 17.31
+  },
+  {
+    "ProductCode": "a417fca1-e4d3-4c84-8107-9d356e6ceeeb",
+    "Descriptive": "Snails - Large Canned",
+    "Quantity": 9,
+    "UnitPrice": 1.03,
+    "VATPercentage": 10.7
+  },
+  {
+    "ProductCode": "448065aa-bb07-4b85-bf0f-68bd7fc2215c",
+    "Descriptive": "Wine - Segura Viudas Aria Brut",
+    "Quantity": 47,
+    "UnitPrice": 9.98,
+    "VATPercentage": 18.17
+  },
+  {
+    "ProductCode": "e1e6e0af-ae4d-4824-964b-2d83d267e62a",
+    "Descriptive": "Brocolinni - Gaylan, Chinese",
+    "Quantity": 14,
+    "UnitPrice": 0.98,
+    "VATPercentage": 12.8
+  },
+  {
+    "ProductCode": "52610704-6260-4d14-bc2f-b76ca30076b2",
+    "Descriptive": "Lettuce - Frisee",
+    "Quantity": 85,
+    "UnitPrice": 1.42,
+    "VATPercentage": 19.99
+  },
+  {
+    "ProductCode": "fdfda102-3161-48d4-a2e0-dca972760876",
+    "Descriptive": "Cheese - Havarti, Roasted Garlic",
+    "Quantity": 37,
+    "UnitPrice": 5.22,
+    "VATPercentage": 3.85
+  },
+  {
+    "ProductCode": "b6e8914d-317c-4607-999c-b4e1186f45f7",
+    "Descriptive": "Chivas Regal - 12 Year Old",
+    "Quantity": 86,
+    "UnitPrice": 9.24,
+    "VATPercentage": 10.65
+  },
+  {
+    "ProductCode": "796baca9-1b77-42bb-9175-57a87c44d844",
+    "Descriptive": "Tomatoes - Grape",
+    "Quantity": 96,
+    "UnitPrice": 9.69,
+    "VATPercentage": 13.93
+  },
+  {
+    "ProductCode": "59905fb2-88bb-4a78-b780-59d9d48eb187",
+    "Descriptive": "Basil - Primerba, Paste",
+    "Quantity": 95,
+    "UnitPrice": 9.84,
+    "VATPercentage": 22.46
+  },
+  {
+    "ProductCode": "ccbca00b-d9a7-4602-8351-f5891a2f99c8",
+    "Descriptive": "Soap - Hand Soap",
+    "Quantity": 43,
+    "UnitPrice": 0.65,
+    "VATPercentage": 15.12
+  },
+  {
+    "ProductCode": "cd8c89cf-402b-431c-ab99-85893abd45bc",
+    "Descriptive": "Liquid Aminios Acid - Braggs",
+    "Quantity": 92,
+    "UnitPrice": 0.29,
+    "VATPercentage": 17.65
+  },
+  {
+    "ProductCode": "a6fdcc57-b7a6-4f66-bea9-7bcf131d8b8c",
+    "Descriptive": "Wine La Vielle Ferme Cote Du",
+    "Quantity": 64,
+    "UnitPrice": 6.99,
+    "VATPercentage": 2.44
+  },
+  {
+    "ProductCode": "beb1f091-97ab-4b66-a584-199378d13581",
+    "Descriptive": "Muffin - Carrot Individual Wrap",
+    "Quantity": 70,
+    "UnitPrice": 4.52,
+    "VATPercentage": 13.23
+  },
+  {
+    "ProductCode": "36130f19-ed5e-4713-99de-efc773b3edd5",
+    "Descriptive": "Pepper - Cubanelle",
+    "Quantity": 83,
+    "UnitPrice": 4.44,
+    "VATPercentage": 1.03
+  },
+  {
+    "ProductCode": "f5079e9d-385b-49ee-9d0e-fe1182f8c8f8",
+    "Descriptive": "Pork - Backfat",
+    "Quantity": 19,
+    "UnitPrice": 6.11,
+    "VATPercentage": 14.4
+  },
+  {
+    "ProductCode": "8ae177ab-0e24-4a8b-9108-17de4fdb2800",
+    "Descriptive": "Wine - George Duboeuf Rose",
+    "Quantity": 55,
+    "UnitPrice": 8.85,
+    "VATPercentage": 22.07
+  },
+  {
+    "ProductCode": "1e3463b0-0f32-403b-8aae-a40a41bb03ba",
+    "Descriptive": "Butter Sweet",
+    "Quantity": 28,
+    "UnitPrice": 8.96,
+    "VATPercentage": 12.68
+  },
+  {
+    "ProductCode": "52314828-0898-4c90-b03b-3cea4a626e0a",
+    "Descriptive": "Parsley - Fresh",
+    "Quantity": 47,
+    "UnitPrice": 9.52,
+    "VATPercentage": 20.23
+  },
+  {
+    "ProductCode": "4af660cb-1940-4007-bf8c-0e50f51376f7",
+    "Descriptive": "Soup - Campbells, Beef Barley",
+    "Quantity": 62,
+    "UnitPrice": 8.7,
+    "VATPercentage": 14.69
+  },
+  {
+    "ProductCode": "47494d72-6fa5-4100-b255-e8519b6f7858",
+    "Descriptive": "Arizona - Green Tea",
+    "Quantity": 8,
+    "UnitPrice": 4.05,
+    "VATPercentage": 11.58
+  },
+  {
+    "ProductCode": "0cbf8a74-f76d-4744-a5e5-e36347e3b23f",
+    "Descriptive": "Veal - Knuckle",
+    "Quantity": 97,
+    "UnitPrice": 5.34,
+    "VATPercentage": 12.99
+  },
+  {
+    "ProductCode": "f0eea1b7-9432-4781-87ab-efbd7b33d07e",
+    "Descriptive": "Yeast - Fresh, Fleischman",
+    "Quantity": 65,
+    "UnitPrice": 8.57,
+    "VATPercentage": 12.3
+  },
+  {
+    "ProductCode": "9db13294-9507-409e-b855-609b15a3d553",
+    "Descriptive": "Muffin Mix - Morning Glory",
+    "Quantity": 75,
+    "UnitPrice": 2.55,
+    "VATPercentage": 14.4
+  },
+  {
+    "ProductCode": "50737314-0a98-4878-9a18-152ca41ead5e",
+    "Descriptive": "Water - San Pellegrino",
+    "Quantity": 74,
+    "UnitPrice": 4.89,
+    "VATPercentage": 16.7
+  },
+  {
+    "ProductCode": "98e473cd-b4ea-46c4-88ce-2a4a3b18d46b",
+    "Descriptive": "Squash - Pattypan, Yellow",
+    "Quantity": 1,
+    "UnitPrice": 2.92,
+    "VATPercentage": 17.38
+  },
+  {
+    "ProductCode": "3f47794d-dca9-48d0-890c-06dd41fd3f54",
+    "Descriptive": "Sour Cream",
+    "Quantity": 100,
+    "UnitPrice": 2.56,
+    "VATPercentage": 16.62
+  },
+  {
+    "ProductCode": "ca030851-2efe-4b78-ba20-60c23a5ce61e",
+    "Descriptive": "Pastry - Raisin Muffin - Mini",
+    "Quantity": 7,
+    "UnitPrice": 0.86,
+    "VATPercentage": 6.94
+  },
+  {
+    "ProductCode": "3360146e-8787-447f-9dbf-2137ac368e92",
+    "Descriptive": "Bread - Raisin Walnut Oval",
+    "Quantity": 5,
+    "UnitPrice": 2.72,
+    "VATPercentage": 17.45
+  },
+  {
+    "ProductCode": "f861e8fd-34e6-42f4-8cd9-4037594f2d97",
+    "Descriptive": "The Pop Shoppe - Root Beer",
+    "Quantity": 9,
+    "UnitPrice": 9.28,
+    "VATPercentage": 16.83
+  },
+  {
+    "ProductCode": "9b85d7e6-5b46-4465-a6d4-367e9446ee93",
+    "Descriptive": "Lettuce - Mini Greens, Whole",
+    "Quantity": 55,
+    "UnitPrice": 6.7,
+    "VATPercentage": 16.62
+  },
+  {
+    "ProductCode": "e503645f-eae6-46c6-9fc6-70a3ccaf7bf3",
+    "Descriptive": "Mints - Striped Red",
+    "Quantity": 92,
+    "UnitPrice": 1.36,
+    "VATPercentage": 15.97
+  },
+  {
+    "ProductCode": "da1da1d7-18e0-4371-8e94-255b9361e270",
+    "Descriptive": "Soup - Campbells Mushroom",
+    "Quantity": 81,
+    "UnitPrice": 2.45,
+    "VATPercentage": 2.31
+  },
+  {
+    "ProductCode": "b36cff14-561a-4b04-bc64-2ad83943e06c",
+    "Descriptive": "Cheese - Comte",
+    "Quantity": 47,
+    "UnitPrice": 6.9,
+    "VATPercentage": 4.2
+  },
+  {
+    "ProductCode": "f58911d8-4c9e-4db9-8462-1ebf4a43d1ad",
+    "Descriptive": "Veal - Eye Of Round",
+    "Quantity": 51,
+    "UnitPrice": 6.3,
+    "VATPercentage": 9.45
+  },
+  {
+    "ProductCode": "e5863481-a652-4cb5-8a53-eb3402821725",
+    "Descriptive": "Broom - Corn",
+    "Quantity": 39,
+    "UnitPrice": 4.47,
+    "VATPercentage": 17.6
+  },
+  {
+    "ProductCode": "7b84029d-86f5-44b2-aa03-994fd3ba2409",
+    "Descriptive": "Glaze - Apricot",
+    "Quantity": 65,
+    "UnitPrice": 3.6,
+    "VATPercentage": 12.28
+  },
+  {
+    "ProductCode": "9acaed79-f990-4670-b866-d9d5f41c2665",
+    "Descriptive": "Water - Tonic",
+    "Quantity": 47,
+    "UnitPrice": 7.02,
+    "VATPercentage": 20.27
+  },
+  {
+    "ProductCode": "a684ba4e-d96b-432c-9b91-999d4168058c",
+    "Descriptive": "Garam Marsala",
+    "Quantity": 44,
+    "UnitPrice": 7.5,
+    "VATPercentage": 19.46
+  },
+  {
+    "ProductCode": "9160e013-6303-4d61-9d0c-46722815d1da",
+    "Descriptive": "Shrimp - 16/20, Peeled Deviened",
+    "Quantity": 23,
+    "UnitPrice": 5.77,
+    "VATPercentage": 4.44
+  },
+  {
+    "ProductCode": "ac53e170-4768-45c4-bcc0-0a79781a48a9",
+    "Descriptive": "Lamb - Rack",
+    "Quantity": 60,
+    "UnitPrice": 4.91,
+    "VATPercentage": 3.18
+  },
+  {
+    "ProductCode": "d1e3bbfa-6adb-470d-b20b-33ac1103adbe",
+    "Descriptive": "Soup - Base Broth Chix",
+    "Quantity": 82,
+    "UnitPrice": 7.1,
+    "VATPercentage": 20.84
+  },
+  {
+    "ProductCode": "47897f80-dc30-4241-8541-997461633250",
+    "Descriptive": "Peach - Fresh",
+    "Quantity": 36,
+    "UnitPrice": 9.31,
+    "VATPercentage": 5.84
+  },
+  {
+    "ProductCode": "2a72e2d6-fa43-462e-80b7-02fc34cc648f",
+    "Descriptive": "Bouillion - Fish",
+    "Quantity": 38,
+    "UnitPrice": 0.01,
+    "VATPercentage": 17.89
+  },
+  {
+    "ProductCode": "116ecffc-2f1e-4de8-9fc9-f92490695415",
+    "Descriptive": "Wine - Sicilia Igt Nero Avola",
+    "Quantity": 15,
+    "UnitPrice": 5.37,
+    "VATPercentage": 13.43
+  },
+  {
+    "ProductCode": "f7622155-1c8b-4865-8473-6737d977d7cf",
+    "Descriptive": "Wine - Domaine Boyar Royal",
+    "Quantity": 42,
+    "UnitPrice": 7.81,
+    "VATPercentage": 16.2
+  },
+  {
+    "ProductCode": "a796e74b-958c-4adf-a87e-1cd86b62949b",
+    "Descriptive": "Pasta - Penne, Lisce, Dry",
+    "Quantity": 16,
+    "UnitPrice": 5.5,
+    "VATPercentage": 18.97
+  },
+  {
+    "ProductCode": "b297f6a3-bff1-4641-b83f-dc9c56427ca1",
+    "Descriptive": "Sugar Thermometer",
+    "Quantity": 97,
+    "UnitPrice": 5.6,
+    "VATPercentage": 4.73
+  },
+  {
+    "ProductCode": "31abf5df-f02f-427b-95d4-895d8fdb76e8",
+    "Descriptive": "Sauce - Ranch Dressing",
+    "Quantity": 85,
+    "UnitPrice": 6.14,
+    "VATPercentage": 21.86
+  },
+  {
+    "ProductCode": "20533212-7bd6-440f-b1d7-2f5255958909",
+    "Descriptive": "Fish - Soup Base, Bouillon",
+    "Quantity": 38,
+    "UnitPrice": 9.74,
+    "VATPercentage": 11.35
+  },
+  {
+    "ProductCode": "4c97a2a8-b361-4e17-a412-d4ced956f622",
+    "Descriptive": "Appetizer - Lobster Phyllo Roll",
+    "Quantity": 56,
+    "UnitPrice": 5.68,
+    "VATPercentage": 22.52
+  },
+  {
+    "ProductCode": "55992ccf-501c-4f7e-9473-dc7ae46c1dd1",
+    "Descriptive": "Lobak",
+    "Quantity": 79,
+    "UnitPrice": 4.81,
+    "VATPercentage": 21.62
+  },
+  {
+    "ProductCode": "3b3f3463-520e-4e5f-8441-4b7d22f091d4",
+    "Descriptive": "Bread - Multigrain, Loaf",
+    "Quantity": 76,
+    "UnitPrice": 3.62,
+    "VATPercentage": 18.11
+  },
+  {
+    "ProductCode": "0ab0cee6-2c0f-41ee-93b6-9090c23a9f24",
+    "Descriptive": "Bar - Sweet And Salty Chocolate",
+    "Quantity": 72,
+    "UnitPrice": 0.82,
+    "VATPercentage": 14.45
+  },
+  {
+    "ProductCode": "bf3f2c2f-44ea-4b66-8082-58d9e056f880",
+    "Descriptive": "The Pop Shoppe - Root Beer",
+    "Quantity": 60,
+    "UnitPrice": 1.75,
+    "VATPercentage": 20.78
+  },
+  {
+    "ProductCode": "02ce1ec1-31de-4d10-aa73-dde721422477",
+    "Descriptive": "Ocean Spray - Kiwi Strawberry",
+    "Quantity": 40,
+    "UnitPrice": 8.56,
+    "VATPercentage": 22.29
+  },
+  {
+    "ProductCode": "fa12207d-65e9-458b-a188-f28febb2480f",
+    "Descriptive": "Trout Rainbow Whole",
+    "Quantity": 16,
+    "UnitPrice": 4.47,
+    "VATPercentage": 14.88
+  },
+  {
+    "ProductCode": "77d1b209-e145-4357-b50b-7ed0834a10ec",
+    "Descriptive": "Chestnuts - Whole,canned",
+    "Quantity": 72,
+    "UnitPrice": 7.98,
+    "VATPercentage": 11.43
+  },
+  {
+    "ProductCode": "f8399633-d416-480d-a432-8690cc75a934",
+    "Descriptive": "The Pop Shoppe - Lime Rickey",
+    "Quantity": 59,
+    "UnitPrice": 9.22,
+    "VATPercentage": 14.26
+  },
+  {
+    "ProductCode": "79656e9f-8323-4d69-b8a4-6535cb8247e5",
+    "Descriptive": "Wine - Chateauneuf Du Pape",
+    "Quantity": 72,
+    "UnitPrice": 1.67,
+    "VATPercentage": 21.51
+  },
+  {
+    "ProductCode": "5a112a1a-34f9-49a0-843f-87fb3e0d6ba6",
+    "Descriptive": "Chinese Foods - Plain Fried Rice",
+    "Quantity": 39,
+    "UnitPrice": 3.08,
+    "VATPercentage": 19.09
+  },
+  {
+    "ProductCode": "3d3259df-1192-4b14-ae3c-2d0a1e05631c",
+    "Descriptive": "Aspic - Light",
+    "Quantity": 4,
+    "UnitPrice": 9.1,
+    "VATPercentage": 9.92
+  },
+  {
+    "ProductCode": "6720cd6f-047e-4d17-8e23-ce74ef13015b",
+    "Descriptive": "Juice - Tomato, 10 Oz",
+    "Quantity": 7,
+    "UnitPrice": 1.82,
+    "VATPercentage": 9.22
+  },
+  {
+    "ProductCode": "ae9098b2-9d42-4a56-ae64-ca79d4e087f4",
+    "Descriptive": "Bay Leaf Ground",
+    "Quantity": 81,
+    "UnitPrice": 0.19,
+    "VATPercentage": 18.79
+  },
+  {
+    "ProductCode": "2c39b372-9f48-406a-9adb-8b3a9d3905e8",
+    "Descriptive": "Broom And Broom Rack White",
+    "Quantity": 99,
+    "UnitPrice": 8.97,
+    "VATPercentage": 6.25
+  },
+  {
+    "ProductCode": "420c9dc2-12b9-49bc-96a5-2be4cdde72c8",
+    "Descriptive": "Milk - Skim",
+    "Quantity": 21,
+    "UnitPrice": 0.4,
+    "VATPercentage": 15.45
+  },
+  {
+    "ProductCode": "70f916b3-6b9d-4941-91b5-1cfafb1b8cc3",
+    "Descriptive": "Wine - Champagne Brut Veuve",
+    "Quantity": 50,
+    "UnitPrice": 6.48,
+    "VATPercentage": 7.87
+  },
+  {
+    "ProductCode": "33955ba2-e75d-4fc2-80aa-e8ebd482304b",
+    "Descriptive": "Arizona - Plum Green Tea",
+    "Quantity": 34,
+    "UnitPrice": 2.46,
+    "VATPercentage": 22.31
+  },
+  {
+    "ProductCode": "61135fe3-3afa-4ca2-9eef-ead579156f06",
+    "Descriptive": "Octopus - Baby, Cleaned",
+    "Quantity": 70,
+    "UnitPrice": 8.4,
+    "VATPercentage": 9.1
+  },
+  {
+    "ProductCode": "6a8ffd16-5c32-478f-bb79-f1c8f4307861",
+    "Descriptive": "Leeks - Baby, White",
+    "Quantity": 61,
+    "UnitPrice": 6.25,
+    "VATPercentage": 11.54
+  },
+  {
+    "ProductCode": "0d26106f-de3f-4fed-a58e-ec6417040741",
+    "Descriptive": "Longos - Assorted Sandwich",
+    "Quantity": 68,
+    "UnitPrice": 0.94,
+    "VATPercentage": 8.58
+  },
+  {
+    "ProductCode": "d2c8a01d-0897-45db-a969-4894c22553c5",
+    "Descriptive": "Island Oasis - Mango Daiquiri",
+    "Quantity": 98,
+    "UnitPrice": 5.26,
+    "VATPercentage": 7.89
+  },
+  {
+    "ProductCode": "b513f8e5-f3d5-425b-ac11-46a72037c5fa",
+    "Descriptive": "Apple - Delicious, Red",
+    "Quantity": 100,
+    "UnitPrice": 7.98,
+    "VATPercentage": 6.03
+  },
+  {
+    "ProductCode": "66b6b285-027d-45bb-a739-854b70f75a9e",
+    "Descriptive": "Mints - Striped Red",
+    "Quantity": 10,
+    "UnitPrice": 4.84,
+    "VATPercentage": 16.91
+  },
+  {
+    "ProductCode": "fd411e6b-8542-45a9-a899-89504ec50ac3",
+    "Descriptive": "Cheese - Goat With Herbs",
+    "Quantity": 83,
+    "UnitPrice": 0.22,
+    "VATPercentage": 10.7
+  },
+  {
+    "ProductCode": "d0b0cfbe-3d2f-4fc5-8b46-b25681166155",
+    "Descriptive": "Lemon Grass",
+    "Quantity": 21,
+    "UnitPrice": 3.22,
+    "VATPercentage": 6.65
+  },
+  {
+    "ProductCode": "28947a8f-41d4-4885-affa-642d4829c0b3",
+    "Descriptive": "Pail With Metal Handle 16l White",
+    "Quantity": 49,
+    "UnitPrice": 8.43,
+    "VATPercentage": 21.94
+  },
+  {
+    "ProductCode": "7d500d23-e119-473b-80c8-f425c2dd9f4a",
+    "Descriptive": "Soup Campbells Beef With Veg",
+    "Quantity": 42,
+    "UnitPrice": 3.43,
+    "VATPercentage": 3.42
+  },
+  {
+    "ProductCode": "40c77548-ceb2-4ff4-a655-9f8933bd1525",
+    "Descriptive": "Sugar - Brown, Individual",
+    "Quantity": 24,
+    "UnitPrice": 5.04,
+    "VATPercentage": 6.94
+  },
+  {
+    "ProductCode": "edb48556-333f-46b6-81b4-4effa254831f",
+    "Descriptive": "Alize Gold Passion",
+    "Quantity": 89,
+    "UnitPrice": 9.26,
+    "VATPercentage": 6.77
+  },
+  {
+    "ProductCode": "62031d44-2f00-4463-921f-21c50eecf21b",
+    "Descriptive": "Sesame Seed",
+    "Quantity": 78,
+    "UnitPrice": 4.67,
+    "VATPercentage": 1.78
+  },
+  {
+    "ProductCode": "105503fc-f955-4e84-b28d-b59989abd8a9",
+    "Descriptive": "Cognac - Courvaisier",
+    "Quantity": 7,
+    "UnitPrice": 4.83,
+    "VATPercentage": 8.58
+  },
+  {
+    "ProductCode": "355356e4-bc81-4e5c-9fbf-2bc6bd81a4c6",
+    "Descriptive": "Latex Rubber Gloves Size 9",
+    "Quantity": 93,
+    "UnitPrice": 2.03,
+    "VATPercentage": 13.15
+  },
+  {
+    "ProductCode": "86819d59-0465-471a-a5e3-2d622149148f",
+    "Descriptive": "Cheese Cloth No 60",
+    "Quantity": 49,
+    "UnitPrice": 6.1,
+    "VATPercentage": 4.67
+  },
+  {
+    "ProductCode": "2506f157-74ef-41e0-a848-e37fcbfb216b",
+    "Descriptive": "Fish - Atlantic Salmon, Cold",
+    "Quantity": 81,
+    "UnitPrice": 3.82,
+    "VATPercentage": 10.01
+  },
+  {
+    "ProductCode": "42328ae9-a575-41eb-847e-b394bcd01d72",
+    "Descriptive": "Wine - Remy Pannier Rose",
+    "Quantity": 10,
+    "UnitPrice": 2.29,
+    "VATPercentage": 19.45
+  },
+  {
+    "ProductCode": "b2d5603b-4702-4c3d-9e45-22603d05429d",
+    "Descriptive": "Mint - Fresh",
+    "Quantity": 75,
+    "UnitPrice": 5.68,
+    "VATPercentage": 17.51
+  },
+  {
+    "ProductCode": "8c77f764-b9b8-41f1-a9b3-8c16adaa9f38",
+    "Descriptive": "Broom - Push",
+    "Quantity": 30,
+    "UnitPrice": 9.34,
+    "VATPercentage": 8.11
+  },
+  {
+    "ProductCode": "eba94248-e3bc-4f75-949c-14f92676789d",
+    "Descriptive": "Beer - Blue Light",
+    "Quantity": 93,
+    "UnitPrice": 4.3,
+    "VATPercentage": 21.37
+  },
+  {
+    "ProductCode": "5effc594-5c7b-49da-a37e-54b4b565223a",
+    "Descriptive": "Rappini - Andy Boy",
+    "Quantity": 83,
+    "UnitPrice": 1.17,
+    "VATPercentage": 7.65
+  },
+  {
+    "ProductCode": "8b8bf035-897e-43eb-a300-de3d6d95c16e",
+    "Descriptive": "Curry Paste - Madras",
+    "Quantity": 53,
+    "UnitPrice": 2.35,
+    "VATPercentage": 22.99
+  },
+  {
+    "ProductCode": "cbc14d75-0c47-4752-8759-090d8400f790",
+    "Descriptive": "Sprite, Diet - 355ml",
+    "Quantity": 74,
+    "UnitPrice": 5.33,
+    "VATPercentage": 2.3
+  },
+  {
+    "ProductCode": "e4a6f88c-fcec-4b07-9534-63440a5bea67",
+    "Descriptive": "Coffee - Almond Amaretto",
+    "Quantity": 98,
+    "UnitPrice": 9.61,
+    "VATPercentage": 4.79
+  },
+  {
+    "ProductCode": "b440e8f5-7be9-45c2-bc2e-18c1905b3e84",
+    "Descriptive": "Pheasants - Whole",
+    "Quantity": 78,
+    "UnitPrice": 3.52,
+    "VATPercentage": 15.07
+  },
+  {
+    "ProductCode": "7bd900d5-d52f-409c-8511-6b8111ebf0cc",
+    "Descriptive": "Beans - Butter Lrg Lima",
+    "Quantity": 52,
+    "UnitPrice": 5.66,
+    "VATPercentage": 13.75
+  },
+  {
+    "ProductCode": "a1b83e05-e0a4-4c0e-aa0b-2cca42955a3e",
+    "Descriptive": "Cinnamon - Stick",
+    "Quantity": 72,
+    "UnitPrice": 9.37,
+    "VATPercentage": 7.39
+  },
+  {
+    "ProductCode": "0662f17b-c86a-47dd-8efc-1f0aa3bc7109",
+    "Descriptive": "Cabbage - Red",
+    "Quantity": 46,
+    "UnitPrice": 9.28,
+    "VATPercentage": 9.39
+  },
+  {
+    "ProductCode": "6fdd4577-f045-4efe-a84e-154566dc7d78",
+    "Descriptive": "Nut - Chestnuts, Whole",
+    "Quantity": 34,
+    "UnitPrice": 3.92,
+    "VATPercentage": 6.07
+  },
+  {
+    "ProductCode": "e152443e-cbc6-4901-b6f4-7b3ad90f1d2f",
+    "Descriptive": "Bread - Assorted Rolls",
+    "Quantity": 84,
+    "UnitPrice": 1.13,
+    "VATPercentage": 8.71
+  },
+  {
+    "ProductCode": "eabf1b7a-5e5b-493d-bb35-39ee4f9128b6",
+    "Descriptive": "Wine - White, Schroder And Schyl",
+    "Quantity": 6,
+    "UnitPrice": 5.17,
+    "VATPercentage": 3.96
+  },
+  {
+    "ProductCode": "4f0c6b58-4bfd-4b03-b308-50d5b725e25a",
+    "Descriptive": "Paste - Black Olive",
+    "Quantity": 64,
+    "UnitPrice": 5.18,
+    "VATPercentage": 6.56
+  },
+  {
+    "ProductCode": "6813a8e6-092c-4bf1-bf86-efba50a374bb",
+    "Descriptive": "Pork - Ham Hocks - Smoked",
+    "Quantity": 21,
+    "UnitPrice": 1.66,
+    "VATPercentage": 19.65
+  },
+  {
+    "ProductCode": "e4c2716a-d462-461c-a09f-fc44dd5f30ac",
+    "Descriptive": "Chicken Giblets",
+    "Quantity": 24,
+    "UnitPrice": 6.52,
+    "VATPercentage": 11.35
+  },
+  {
+    "ProductCode": "7a1aeadd-9fbd-47f5-9c58-d15bf6ca2d34",
+    "Descriptive": "Island Oasis - Magarita Mix",
+    "Quantity": 89,
+    "UnitPrice": 0.99,
+    "VATPercentage": 7.05
+  },
+  {
+    "ProductCode": "28897089-a6b7-41b5-9df2-8c906448ac26",
+    "Descriptive": "Pie Shell - 9",
+    "Quantity": 2,
+    "UnitPrice": 5.13,
+    "VATPercentage": 13.37
+  },
+  {
+    "ProductCode": "79e7a9b4-3070-432b-b462-6cf70a4638c9",
+    "Descriptive": "Hold Up Tool Storage Rack",
+    "Quantity": 19,
+    "UnitPrice": 9.13,
+    "VATPercentage": 12.41
+  },
+  {
+    "ProductCode": "676c4771-2aae-4ba2-9a63-bb08057d0c01",
+    "Descriptive": "Pork - Kidney",
+    "Quantity": 69,
+    "UnitPrice": 7.79,
+    "VATPercentage": 20.06
+  },
+  {
+    "ProductCode": "d31adca4-9021-4368-a3fd-463cf79bb80b",
+    "Descriptive": "Icecream - Dibs",
+    "Quantity": 13,
+    "UnitPrice": 6.59,
+    "VATPercentage": 8.03
+  },
+  {
+    "ProductCode": "0db889ba-f9a1-41d6-aba0-c47de66b09b8",
+    "Descriptive": "Lettuce - Radicchio",
+    "Quantity": 59,
+    "UnitPrice": 2.71,
+    "VATPercentage": 15.32
+  },
+  {
+    "ProductCode": "ddaefb63-05a6-4ec4-a3e4-1c1ddff5e92b",
+    "Descriptive": "Lemonade - Natural, 591 Ml",
+    "Quantity": 83,
+    "UnitPrice": 0.64,
+    "VATPercentage": 5.65
+  },
+  {
+    "ProductCode": "ad98fcac-43ea-45b9-a8fe-69346ba98ba0",
+    "Descriptive": "Beans - Long, Chinese",
+    "Quantity": 71,
+    "UnitPrice": 1.62,
+    "VATPercentage": 1.71
+  },
+  {
+    "ProductCode": "f478bd09-0188-4556-9759-b45efc957c70",
+    "Descriptive": "Longos - Cheese Tortellini",
+    "Quantity": 21,
+    "UnitPrice": 6.49,
+    "VATPercentage": 8.74
+  },
+  {
+    "ProductCode": "81aa2dff-52ab-4a6d-ae51-3b717e6a6f2a",
+    "Descriptive": "Wine - Spumante Bambino White",
+    "Quantity": 76,
+    "UnitPrice": 5.88,
+    "VATPercentage": 12.61
+  },
+  {
+    "ProductCode": "a8ab92aa-f1a5-4b8d-95fc-a4fc7fb9f187",
+    "Descriptive": "Ecolab - Hobart Washarm End Cap",
+    "Quantity": 40,
+    "UnitPrice": 6.48,
+    "VATPercentage": 12.45
+  },
+  {
+    "ProductCode": "86f17301-b728-4ddd-93a6-ccf8119faf8a",
+    "Descriptive": "Towel Dispenser",
+    "Quantity": 7,
+    "UnitPrice": 0.53,
+    "VATPercentage": 4.48
+  },
+  {
+    "ProductCode": "ee7a60a1-7757-4498-bffd-4edf1c4df594",
+    "Descriptive": "Orange Roughy 4/6 Oz",
+    "Quantity": 50,
+    "UnitPrice": 2.76,
+    "VATPercentage": 4.38
+  },
+  {
+    "ProductCode": "48f9551e-115b-4a24-ab2b-bfcd9a8b0d22",
+    "Descriptive": "Pepper - Paprika, Spanish",
+    "Quantity": 71,
+    "UnitPrice": 5.26,
+    "VATPercentage": 7.09
+  },
+  {
+    "ProductCode": "52de793f-9f11-40c8-aa16-7ac7e443833d",
+    "Descriptive": "Couscous",
+    "Quantity": 95,
+    "UnitPrice": 2.65,
+    "VATPercentage": 9.94
+  },
+  {
+    "ProductCode": "5504c52b-79cf-421b-be8b-a700fcccbf76",
+    "Descriptive": "Lamb - Leg, Diced",
+    "Quantity": 13,
+    "UnitPrice": 1.34,
+    "VATPercentage": 4.44
+  },
+  {
+    "ProductCode": "025bc4dc-5d42-4d80-b8a2-dd4bcfe5f44c",
+    "Descriptive": "Venison - Denver Leg Boneless",
+    "Quantity": 100,
+    "UnitPrice": 4.34,
+    "VATPercentage": 15.6
+  },
+  {
+    "ProductCode": "f00d9979-2927-46f3-945c-ca9553b5fc57",
+    "Descriptive": "Scallops - Live In Shell",
+    "Quantity": 88,
+    "UnitPrice": 3.35,
+    "VATPercentage": 2.75
+  },
+  {
+    "ProductCode": "cd1268a0-9018-4647-a707-9fc4b901f98c",
+    "Descriptive": "Chicken - Leg, Boneless",
+    "Quantity": 86,
+    "UnitPrice": 1.99,
+    "VATPercentage": 20.72
+  },
+  {
+    "ProductCode": "83855de5-1e97-4c45-984b-422a85b25ae5",
+    "Descriptive": "Bread - Sour Sticks With Onion",
+    "Quantity": 100,
+    "UnitPrice": 8.38,
+    "VATPercentage": 3.8
+  },
+  {
+    "ProductCode": "bcf61de6-6152-49c6-b2cf-240d759c9ab6",
+    "Descriptive": "Coffee Swiss Choc Almond",
+    "Quantity": 46,
+    "UnitPrice": 6.21,
+    "VATPercentage": 22.28
+  },
+  {
+    "ProductCode": "1ccf7162-c9d8-4ffb-ba3b-e9e56f1fc0fe",
+    "Descriptive": "Sea Bass - Whole",
+    "Quantity": 89,
+    "UnitPrice": 2.74,
+    "VATPercentage": 20.87
+  },
+  {
+    "ProductCode": "c0ec91db-9c0f-4170-b1f8-fb768f3b8898",
+    "Descriptive": "Oil - Grapeseed Oil",
+    "Quantity": 27,
+    "UnitPrice": 7.82,
+    "VATPercentage": 14.75
+  },
+  {
+    "ProductCode": "0c8cf9da-a036-4111-85af-1d494ccf2072",
+    "Descriptive": "Chicken - Livers",
+    "Quantity": 47,
+    "UnitPrice": 2.26,
+    "VATPercentage": 5.26
+  },
+  {
+    "ProductCode": "e1a8d1c5-3cae-4380-a0cd-0984dd044d26",
+    "Descriptive": "Beef Cheek Fresh",
+    "Quantity": 85,
+    "UnitPrice": 6.84,
+    "VATPercentage": 7.47
+  },
+  {
+    "ProductCode": "a3c4ac7c-b346-4f9d-abe5-28bf73accb7a",
+    "Descriptive": "Corn - On The Cob",
+    "Quantity": 100,
+    "UnitPrice": 0.43,
+    "VATPercentage": 2.67
+  },
+  {
+    "ProductCode": "941cea2b-4f5c-4fdf-a97b-768fd22d7caa",
+    "Descriptive": "Pastry - Baked Cinnamon Stick",
+    "Quantity": 12,
+    "UnitPrice": 7.8,
+    "VATPercentage": 10.93
+  },
+  {
+    "ProductCode": "b338ecde-8ef7-4054-be4e-53df40a86e6d",
+    "Descriptive": "Water - Spring Water 500ml",
+    "Quantity": 18,
+    "UnitPrice": 8.74,
+    "VATPercentage": 21.49
+  },
+  {
+    "ProductCode": "d09fd37d-6ef4-4d85-bda9-355b279ce292",
+    "Descriptive": "Bread - White Mini Epi",
+    "Quantity": 82,
+    "UnitPrice": 3.58,
+    "VATPercentage": 1.37
+  },
+  {
+    "ProductCode": "acd7f8d6-9ca6-4c6a-8d38-c73a5de64b54",
+    "Descriptive": "Dates",
+    "Quantity": 2,
+    "UnitPrice": 5.2,
+    "VATPercentage": 10.05
+  },
+  {
+    "ProductCode": "60c08549-0ad6-47df-8a9e-f81f7cfc4885",
+    "Descriptive": "Wine - Dubouef Macon - Villages",
+    "Quantity": 5,
+    "UnitPrice": 6.91,
+    "VATPercentage": 21.63
+  },
+  {
+    "ProductCode": "40bbb6a8-c955-4f7c-82af-d61faddab1db",
+    "Descriptive": "Wine - Carmenere Casillero Del",
+    "Quantity": 22,
+    "UnitPrice": 8.17,
+    "VATPercentage": 17.18
+  },
+  {
+    "ProductCode": "b7a4af4c-03b9-4067-9e3c-14d50530109a",
+    "Descriptive": "Syrup - Monin, Amaretta",
+    "Quantity": 7,
+    "UnitPrice": 2.71,
+    "VATPercentage": 3.7
+  },
+  {
+    "ProductCode": "1ffa6c24-35a9-4824-8da6-362f1a68fdf8",
+    "Descriptive": "Soup - Cream Of Potato / Leek",
+    "Quantity": 36,
+    "UnitPrice": 9.83,
+    "VATPercentage": 1.46
+  },
+  {
+    "ProductCode": "e92c7a08-aab4-4982-b6a4-4715c8c57a30",
+    "Descriptive": "Red Pepper Paste",
+    "Quantity": 37,
+    "UnitPrice": 6.91,
+    "VATPercentage": 1.54
+  },
+  {
+    "ProductCode": "ff62d28f-5b01-4c4c-b361-69ed62f4ac5f",
+    "Descriptive": "Poppy Seed",
+    "Quantity": 100,
+    "UnitPrice": 6.2,
+    "VATPercentage": 9.77
+  },
+  {
+    "ProductCode": "b44c5bbe-9040-4004-a4ab-c2b2e7df34d0",
+    "Descriptive": "Wine - Montecillo Rioja Crianza",
+    "Quantity": 31,
+    "UnitPrice": 3.01,
+    "VATPercentage": 20.47
+  },
+  {
+    "ProductCode": "3a8f8ede-0dfb-431e-9a11-efb7a563726c",
+    "Descriptive": "Stock - Fish",
+    "Quantity": 50,
+    "UnitPrice": 0.53,
+    "VATPercentage": 2.67
+  },
+  {
+    "ProductCode": "f5c83594-01ec-4968-95e3-2a2e4ee4c5f4",
+    "Descriptive": "The Pop Shoppe - Lime Rickey",
+    "Quantity": 66,
+    "UnitPrice": 9.73,
+    "VATPercentage": 3.87
+  },
+  {
+    "ProductCode": "e8cb9768-4591-4a75-9edc-8dce4d7b8c25",
+    "Descriptive": "Pasta - Detalini, White, Fresh",
+    "Quantity": 53,
+    "UnitPrice": 8.48,
+    "VATPercentage": 22.49
+  },
+  {
+    "ProductCode": "bbe37acc-cc4c-48ce-9f4a-03d1b617be69",
+    "Descriptive": "Wine - Two Oceans Sauvignon",
+    "Quantity": 7,
+    "UnitPrice": 9.81,
+    "VATPercentage": 13.25
+  },
+  {
+    "ProductCode": "773358ca-18d4-4835-9dc0-2437024d4640",
+    "Descriptive": "Cinnamon - Stick",
+    "Quantity": 4,
+    "UnitPrice": 3.12,
+    "VATPercentage": 13.6
+  },
+  {
+    "ProductCode": "c67d2ed5-08ed-4a7a-b559-fb3737abe2c4",
+    "Descriptive": "Pasta - Fettuccine, Dry",
+    "Quantity": 98,
+    "UnitPrice": 8.27,
+    "VATPercentage": 9.8
+  },
+  {
+    "ProductCode": "babb25e8-f868-426e-9525-240943b44e72",
+    "Descriptive": "Creamers - 10%",
+    "Quantity": 9,
+    "UnitPrice": 6.15,
+    "VATPercentage": 19.09
+  },
+  {
+    "ProductCode": "ef1d9074-653b-4605-8970-f24840230a8f",
+    "Descriptive": "Pepsi - Diet, 355 Ml",
+    "Quantity": 99,
+    "UnitPrice": 1.24,
+    "VATPercentage": 19.4
+  },
+  {
+    "ProductCode": "9dfda2ce-6693-44fc-bcdd-433a4907b1b4",
+    "Descriptive": "Heavy Duty Dust Pan",
+    "Quantity": 92,
+    "UnitPrice": 2.13,
+    "VATPercentage": 21.9
+  },
+  {
+    "ProductCode": "97fe9c16-f9fc-4ef9-a779-208066959d65",
+    "Descriptive": "Basil - Pesto Sauce",
+    "Quantity": 17,
+    "UnitPrice": 3.34,
+    "VATPercentage": 7.17
+  },
+  {
+    "ProductCode": "c1eea1b2-7feb-4cd3-a5a5-86b50e7c0342",
+    "Descriptive": "Veal - Inside, Choice",
+    "Quantity": 85,
+    "UnitPrice": 9.14,
+    "VATPercentage": 10.14
+  },
+  {
+    "ProductCode": "3bf9325a-2cd0-4aff-a8f0-be2b2ebc0aa9",
+    "Descriptive": "Persimmons",
+    "Quantity": 18,
+    "UnitPrice": 3.33,
+    "VATPercentage": 15.18
+  },
+  {
+    "ProductCode": "e21847ab-88ad-4afe-af42-40bf7f7e39cd",
+    "Descriptive": "Numi - Assorted Teas",
+    "Quantity": 71,
+    "UnitPrice": 5.68,
+    "VATPercentage": 19.94
+  },
+  {
+    "ProductCode": "e42558da-8311-4cb2-bfd7-dacbdf7b25de",
+    "Descriptive": "Island Oasis - Ice Cream Mix",
+    "Quantity": 5,
+    "UnitPrice": 9.59,
+    "VATPercentage": 15.88
+  },
+  {
+    "ProductCode": "02372fbc-39d5-4a13-ba18-0a7dcb778d57",
+    "Descriptive": "Breakfast Quesadillas",
+    "Quantity": 83,
+    "UnitPrice": 2.98,
+    "VATPercentage": 17.36
+  },
+  {
+    "ProductCode": "c353a949-263a-4577-91e6-75fe51a43c00",
+    "Descriptive": "Shiro Miso",
+    "Quantity": 93,
+    "UnitPrice": 0.87,
+    "VATPercentage": 7.06
+  },
+  {
+    "ProductCode": "c3bfe220-d6d8-470e-b74a-7bbb7f570df9",
+    "Descriptive": "Pastry - Trippleberry Muffin - Mini",
+    "Quantity": 67,
+    "UnitPrice": 0.79,
+    "VATPercentage": 10.48
+  },
+  {
+    "ProductCode": "b6824985-ec89-46cb-b19f-fdb24c32d412",
+    "Descriptive": "Wine - Cotes Du Rhone",
+    "Quantity": 57,
+    "UnitPrice": 8.77,
+    "VATPercentage": 14.82
+  },
+  {
+    "ProductCode": "9a031168-1e75-4844-bfdd-0a24327d5694",
+    "Descriptive": "Tray - Foam, Square 4 - S",
+    "Quantity": 77,
+    "UnitPrice": 5.14,
+    "VATPercentage": 7.19
+  },
+  {
+    "ProductCode": "68e8b3dd-f594-4275-bddd-27c771a4aabb",
+    "Descriptive": "Sprouts - China Rose",
+    "Quantity": 40,
+    "UnitPrice": 0.81,
+    "VATPercentage": 11.55
+  },
+  {
+    "ProductCode": "c9558bbd-5027-449d-acf3-7eb33c98a358",
+    "Descriptive": "Flour - So Mix Cake White",
+    "Quantity": 20,
+    "UnitPrice": 8.2,
+    "VATPercentage": 13.96
+  },
+  {
+    "ProductCode": "6ca9d7a8-c277-43be-991f-6087d5cfd4af",
+    "Descriptive": "Chips - Miss Vickies",
+    "Quantity": 74,
+    "UnitPrice": 9.44,
+    "VATPercentage": 18.23
+  },
+  {
+    "ProductCode": "9a2a94e7-fb85-40fa-9a6d-753fcb28cf76",
+    "Descriptive": "Containter - 3oz Microwave Rect.",
+    "Quantity": 68,
+    "UnitPrice": 7.16,
+    "VATPercentage": 7.69
+  },
+  {
+    "ProductCode": "1d9076b6-1769-4c92-9d7e-71672cce1005",
+    "Descriptive": "Cheese - Grie Des Champ",
+    "Quantity": 51,
+    "UnitPrice": 1.71,
+    "VATPercentage": 9.82
+  },
+  {
+    "ProductCode": "98febdac-b517-43e1-ab49-6f093453245b",
+    "Descriptive": "Wasabi Paste",
+    "Quantity": 10,
+    "UnitPrice": 5.9,
+    "VATPercentage": 7.54
+  },
+  {
+    "ProductCode": "eb0659e4-690c-4e81-b88e-4403dde631b5",
+    "Descriptive": "Milk - Buttermilk",
+    "Quantity": 9,
+    "UnitPrice": 4.86,
+    "VATPercentage": 12.92
+  },
+  {
+    "ProductCode": "4b2bfd2e-2d78-4d76-b948-4660563b13a7",
+    "Descriptive": "Remy Red Berry Infusion",
+    "Quantity": 51,
+    "UnitPrice": 0.93,
+    "VATPercentage": 21.67
+  },
+  {
+    "ProductCode": "6b02fd92-6b8c-4b3c-8c98-5d0a8798bf5b",
+    "Descriptive": "Lettuce - Lolla Rosa",
+    "Quantity": 92,
+    "UnitPrice": 3.79,
+    "VATPercentage": 2.78
+  },
+  {
+    "ProductCode": "8f25cb02-3512-4a61-a59c-95fba309e7f5",
+    "Descriptive": "Bread - Olive",
+    "Quantity": 19,
+    "UnitPrice": 4.17,
+    "VATPercentage": 3.39
+  },
+  {
+    "ProductCode": "03bcaa8d-2ac0-4d2e-8fca-3f7497ac44ce",
+    "Descriptive": "Sausage - Chorizo",
+    "Quantity": 49,
+    "UnitPrice": 4.12,
+    "VATPercentage": 9.07
+  },
+  {
+    "ProductCode": "5445c940-0d2b-4511-8f66-0be3491c0ea7",
+    "Descriptive": "Onions - Cippolini",
+    "Quantity": 42,
+    "UnitPrice": 2.94,
+    "VATPercentage": 17.21
+  },
+  {
+    "ProductCode": "00afef4f-689d-4ef7-a496-6ab7f32ded93",
+    "Descriptive": "Nut - Chestnuts, Whole",
+    "Quantity": 7,
+    "UnitPrice": 7.72,
+    "VATPercentage": 15.31
+  },
+  {
+    "ProductCode": "bd015563-cee3-4b00-bd91-6496d2c2a163",
+    "Descriptive": "Venison - Ground",
+    "Quantity": 32,
+    "UnitPrice": 4.26,
+    "VATPercentage": 11
+  },
+  {
+    "ProductCode": "ebafd4fc-a2d5-46c6-b831-79c6d6ee4cc5",
+    "Descriptive": "Bread - French Baquette",
+    "Quantity": 49,
+    "UnitPrice": 9.22,
+    "VATPercentage": 9.68
+  },
+  {
+    "ProductCode": "0fc943f7-7beb-44fc-9903-a12388bddb54",
+    "Descriptive": "Eggplant - Asian",
+    "Quantity": 8,
+    "UnitPrice": 9.84,
+    "VATPercentage": 18.74
+  },
+  {
+    "ProductCode": "d7b9ece8-26f2-411b-9688-6984bd3a4ccf",
+    "Descriptive": "Mace Ground",
+    "Quantity": 36,
+    "UnitPrice": 7.04,
+    "VATPercentage": 19.57
+  },
+  {
+    "ProductCode": "7fc55c16-85e1-436b-b943-91f3fef8cfa8",
+    "Descriptive": "Syrup - Pancake",
+    "Quantity": 60,
+    "UnitPrice": 3.8,
+    "VATPercentage": 12.73
+  },
+  {
+    "ProductCode": "b30df214-840e-4c1b-bb54-19d1ac86a684",
+    "Descriptive": "Pasta - Penne, Rigate, Dry",
+    "Quantity": 31,
+    "UnitPrice": 7.35,
+    "VATPercentage": 17.97
+  },
+  {
+    "ProductCode": "a727446a-c7b8-47ed-8f26-2995d0a9712c",
+    "Descriptive": "Steampan - Lid For Half Size",
+    "Quantity": 23,
+    "UnitPrice": 1.94,
+    "VATPercentage": 12.3
+  },
+  {
+    "ProductCode": "34f8675e-ac28-40d3-a6fa-d9138b4b6342",
+    "Descriptive": "Cake - Night And Day Choclate",
+    "Quantity": 94,
+    "UnitPrice": 5.55,
+    "VATPercentage": 6.58
+  },
+  {
+    "ProductCode": "9089e87c-3a36-4ef8-94ef-0c3042c288b1",
+    "Descriptive": "Steel Wool S.o.s",
+    "Quantity": 32,
+    "UnitPrice": 1.64,
+    "VATPercentage": 8.69
+  },
+  {
+    "ProductCode": "c50ce45a-635a-4ddd-9d86-781c56c78f9d",
+    "Descriptive": "Coffee Cup 16oz Foam",
+    "Quantity": 84,
+    "UnitPrice": 4.39,
+    "VATPercentage": 3.16
+  },
+  {
+    "ProductCode": "5c3371ee-e58d-4452-930c-00c40984b125",
+    "Descriptive": "Dc - Sakura Fu",
+    "Quantity": 34,
+    "UnitPrice": 5.53,
+    "VATPercentage": 16.91
+  },
+  {
+    "ProductCode": "6bfd37e1-1e06-425a-ade5-15693f108713",
+    "Descriptive": "Cheese - Mozzarella, Buffalo",
+    "Quantity": 44,
+    "UnitPrice": 1.9,
+    "VATPercentage": 15.65
+  },
+  {
+    "ProductCode": "25bec30e-c6b4-4344-8b49-cd047400e0f7",
+    "Descriptive": "Sugar - Brown, Individual",
+    "Quantity": 15,
+    "UnitPrice": 7.24,
+    "VATPercentage": 19.84
+  },
+  {
+    "ProductCode": "016d5951-f6e3-498b-a0bb-250a885abb12",
+    "Descriptive": "Sprite, Diet - 355ml",
+    "Quantity": 85,
+    "UnitPrice": 8.39,
+    "VATPercentage": 1.33
+  },
+  {
+    "ProductCode": "12267514-219f-4801-9fd3-dcc89ef4344f",
+    "Descriptive": "Oranges",
+    "Quantity": 49,
+    "UnitPrice": 1.83,
+    "VATPercentage": 17.76
+  },
+  {
+    "ProductCode": "79475238-2de9-4c57-84a7-c6d25a139779",
+    "Descriptive": "Glaze - Clear",
+    "Quantity": 78,
+    "UnitPrice": 1.14,
+    "VATPercentage": 4.73
+  },
+  {
+    "ProductCode": "a64f34fa-e934-4f33-bfde-5c357fcea5d2",
+    "Descriptive": "Parsnip",
+    "Quantity": 33,
+    "UnitPrice": 4.31,
+    "VATPercentage": 6.2
+  },
+  {
+    "ProductCode": "a1d1e18c-23fa-4b7f-95e3-590fcc4d733e",
+    "Descriptive": "Sauce - Vodka Blush",
+    "Quantity": 97,
+    "UnitPrice": 2.4,
+    "VATPercentage": 21.05
+  },
+  {
+    "ProductCode": "31a1bf48-d479-4788-92d4-b03922d33111",
+    "Descriptive": "Truffle Shells - White Chocolate",
+    "Quantity": 39,
+    "UnitPrice": 9.13,
+    "VATPercentage": 19.59
+  },
+  {
+    "ProductCode": "42c85858-147c-4f8d-8bd3-5637166d75b0",
+    "Descriptive": "Cheese - Mix",
+    "Quantity": 34,
+    "UnitPrice": 1.85,
+    "VATPercentage": 10.11
+  },
+  {
+    "ProductCode": "6be4e6bc-4dcc-4aa6-b31e-85638a463e8a",
+    "Descriptive": "Silicone Paper 16.5x24",
+    "Quantity": 2,
+    "UnitPrice": 0.6,
+    "VATPercentage": 7.08
+  },
+  {
+    "ProductCode": "0e7c6355-df3a-426d-b041-81b9308b240b",
+    "Descriptive": "Radish - Black, Winter, Organic",
+    "Quantity": 18,
+    "UnitPrice": 5.96,
+    "VATPercentage": 18.83
+  },
+  {
+    "ProductCode": "e0cdf6f7-2dc1-4881-a6ba-ac5102697e93",
+    "Descriptive": "Apple - Delicious, Golden",
+    "Quantity": 10,
+    "UnitPrice": 6.71,
+    "VATPercentage": 10.1
+  },
+  {
+    "ProductCode": "af44bc40-ad71-4ada-8dee-12bd3e9374d9",
+    "Descriptive": "Pork - Bacon, Sliced",
+    "Quantity": 15,
+    "UnitPrice": 0.37,
+    "VATPercentage": 8.93
+  },
+  {
+    "ProductCode": "f1d287f0-eaeb-4a30-8ee5-1a8404dbfb88",
+    "Descriptive": "Hersey Shakes",
+    "Quantity": 75,
+    "UnitPrice": 3.16,
+    "VATPercentage": 14.84
+  },
+  {
+    "ProductCode": "32fc1e6a-f022-4878-bb1d-168fd60228cf",
+    "Descriptive": "Eel Fresh",
+    "Quantity": 94,
+    "UnitPrice": 2.81,
+    "VATPercentage": 8.04
+  },
+  {
+    "ProductCode": "9713d27e-223d-4f3f-9c59-3ead2c2e522d",
+    "Descriptive": "Coffee - Decaffeinato Coffee",
+    "Quantity": 66,
+    "UnitPrice": 1.8,
+    "VATPercentage": 8.91
+  },
+  {
+    "ProductCode": "f42fc920-7ba4-42aa-8336-4a07ff96122a",
+    "Descriptive": "Wine - Bouchard La Vignee Pinot",
+    "Quantity": 87,
+    "UnitPrice": 3.18,
+    "VATPercentage": 5.81
+  },
+  {
+    "ProductCode": "aef994bc-8a25-4e83-8427-a82754e19c7a",
+    "Descriptive": "Soup - Campbells Pasta Fagioli",
+    "Quantity": 79,
+    "UnitPrice": 5.21,
+    "VATPercentage": 15.51
+  },
+  {
+    "ProductCode": "430fa807-4437-420e-9cb5-b20eb7b95370",
+    "Descriptive": "Sardines",
+    "Quantity": 19,
+    "UnitPrice": 3.49,
+    "VATPercentage": 3.03
+  },
+  {
+    "ProductCode": "6b11e82e-4fa1-4620-9315-fc8d206d6938",
+    "Descriptive": "Ostrich - Prime Cut",
+    "Quantity": 40,
+    "UnitPrice": 4.32,
+    "VATPercentage": 12.36
+  },
+  {
+    "ProductCode": "7c6a640e-3ca0-455b-988b-407be7a7f5a7",
+    "Descriptive": "Chips - Assorted",
+    "Quantity": 27,
+    "UnitPrice": 6.91,
+    "VATPercentage": 13.76
+  },
+  {
+    "ProductCode": "2d1f3cd8-02ac-4325-8c78-3aeca59fba1f",
+    "Descriptive": "Bread - Mini Hamburger Bun",
+    "Quantity": 73,
+    "UnitPrice": 1.42,
+    "VATPercentage": 17.8
+  },
+  {
+    "ProductCode": "efcf3b15-0b08-43fa-a0cd-6265cdc1a2b0",
+    "Descriptive": "Cookies - Englishbay Chochip",
+    "Quantity": 30,
+    "UnitPrice": 8.36,
+    "VATPercentage": 1.49
+  },
+  {
+    "ProductCode": "fbf31d10-be0a-483f-9538-ceff9b37c120",
+    "Descriptive": "Apple - Granny Smith",
+    "Quantity": 73,
+    "UnitPrice": 1.88,
+    "VATPercentage": 18.31
+  },
+  {
+    "ProductCode": "0b66c3ea-c46c-47be-8860-3007e8c0dda5",
+    "Descriptive": "Watercress",
+    "Quantity": 7,
+    "UnitPrice": 5.88,
+    "VATPercentage": 17.42
+  },
+  {
+    "ProductCode": "d51735f8-58a5-4e08-8deb-a2902dc54626",
+    "Descriptive": "Pasta - Bauletti, Chicken White",
+    "Quantity": 35,
+    "UnitPrice": 8.18,
+    "VATPercentage": 3.26
+  },
+  {
+    "ProductCode": "0970cd5f-42e0-48d0-8032-6f1640da23f3",
+    "Descriptive": "Beets - Pickled",
+    "Quantity": 32,
+    "UnitPrice": 9.21,
+    "VATPercentage": 13.72
+  },
+  {
+    "ProductCode": "c7f1a3f8-e6c6-4dfd-be06-c731ff603d3e",
+    "Descriptive": "Ginger - Fresh",
+    "Quantity": 30,
+    "UnitPrice": 2.34,
+    "VATPercentage": 4.82
+  },
+  {
+    "ProductCode": "86c37b65-f607-4c72-8d2b-dea435e9e59a",
+    "Descriptive": "Table Cloth 81x81 White",
+    "Quantity": 70,
+    "UnitPrice": 5.77,
+    "VATPercentage": 12.34
+  },
+  {
+    "ProductCode": "becaf536-c277-4eee-b8d4-a942dc8a02e4",
+    "Descriptive": "Bread - French Baquette",
+    "Quantity": 18,
+    "UnitPrice": 3.13,
+    "VATPercentage": 10.84
+  },
+  {
+    "ProductCode": "3c16e011-5b3b-4aa3-86ff-e0f4d5915f3c",
+    "Descriptive": "Goat - Leg",
+    "Quantity": 25,
+    "UnitPrice": 2.77,
+    "VATPercentage": 4.47
+  },
+  {
+    "ProductCode": "b84bcd23-d8d1-4ddb-942f-1c1dc1fd2b78",
+    "Descriptive": "Muffin - Zero Transfat",
+    "Quantity": 63,
+    "UnitPrice": 2.6,
+    "VATPercentage": 7.55
+  },
+  {
+    "ProductCode": "53f675f6-23b9-429c-8056-fe1fd58cfaf1",
+    "Descriptive": "Macaroons - Two Bite Choc",
+    "Quantity": 29,
+    "UnitPrice": 7.35,
+    "VATPercentage": 8.84
+  },
+  {
+    "ProductCode": "e3e05138-a2eb-4b23-80eb-8d2daa75e6fb",
+    "Descriptive": "Beer - Rickards Red",
+    "Quantity": 21,
+    "UnitPrice": 2.65,
+    "VATPercentage": 20.53
+  },
+  {
+    "ProductCode": "3e98240c-a074-4c43-a997-677698f59fc0",
+    "Descriptive": "Cheese - La Sauvagine",
+    "Quantity": 12,
+    "UnitPrice": 0.8,
+    "VATPercentage": 18.92
+  },
+  {
+    "ProductCode": "183491b0-02d1-4579-b6f8-bc7c9a1edc2e",
+    "Descriptive": "Beef - Rib Eye Aaa",
+    "Quantity": 25,
+    "UnitPrice": 2.67,
+    "VATPercentage": 6.91
+  },
+  {
+    "ProductCode": "133a1750-5f98-4806-90cb-2ea20e740893",
+    "Descriptive": "Wine - Red, Cooking",
+    "Quantity": 80,
+    "UnitPrice": 2.56,
+    "VATPercentage": 10.99
+  },
+  {
+    "ProductCode": "028db99d-fe7b-455d-beee-1128581b6beb",
+    "Descriptive": "Star Anise, Whole",
+    "Quantity": 83,
+    "UnitPrice": 0.69,
+    "VATPercentage": 15.01
+  },
+  {
+    "ProductCode": "cf8702f2-9166-4ee5-9286-2fae1d4a570e",
+    "Descriptive": "Cocoa Feuilletine",
+    "Quantity": 94,
+    "UnitPrice": 7.26,
+    "VATPercentage": 14.27
+  },
+  {
+    "ProductCode": "f962d3af-5585-4d0e-b0c6-ff22792ff9f6",
+    "Descriptive": "Alize Red Passion",
+    "Quantity": 14,
+    "UnitPrice": 4.19,
+    "VATPercentage": 12.99
+  },
+  {
+    "ProductCode": "b7621a40-9b50-488f-8d74-142b7a856163",
+    "Descriptive": "Carbonated Water - Lemon Lime",
+    "Quantity": 65,
+    "UnitPrice": 5.61,
+    "VATPercentage": 8.2
+  },
+  {
+    "ProductCode": "c7ee5584-677b-4291-a593-0516732d3798",
+    "Descriptive": "Tahini Paste",
+    "Quantity": 55,
+    "UnitPrice": 3.03,
+    "VATPercentage": 12.91
+  },
+  {
+    "ProductCode": "42288ac9-11c3-4bc0-b293-cfe068cdee8a",
+    "Descriptive": "Meldea Green Tea Liquor",
+    "Quantity": 95,
+    "UnitPrice": 5.92,
+    "VATPercentage": 21.13
+  },
+  {
+    "ProductCode": "55ec2d59-b983-41cf-a6ca-b34cec2cb6d4",
+    "Descriptive": "Ecolab Crystal Fusion",
+    "Quantity": 4,
+    "UnitPrice": 9.22,
+    "VATPercentage": 8.45
+  },
+  {
+    "ProductCode": "7f90ad49-2e7d-48ce-8a19-d18b63ad22b9",
+    "Descriptive": "Wine - Jafflin Bourgongone",
+    "Quantity": 24,
+    "UnitPrice": 3.76,
+    "VATPercentage": 13.92
+  },
+  {
+    "ProductCode": "dcb993d1-bbb2-4445-8067-e6c0227609d3",
+    "Descriptive": "Containter - 3oz Microwave Rect.",
+    "Quantity": 84,
+    "UnitPrice": 5.62,
+    "VATPercentage": 13.85
+  },
+  {
+    "ProductCode": "75d9026d-f6c5-4089-96a1-e4acb78f4c1f",
+    "Descriptive": "Salmon Steak - Cohoe 6 Oz",
+    "Quantity": 76,
+    "UnitPrice": 8.8,
+    "VATPercentage": 21.59
+  },
+  {
+    "ProductCode": "5d1a2024-4bfa-452e-95b1-e52902034851",
+    "Descriptive": "Oranges - Navel, 72",
+    "Quantity": 78,
+    "UnitPrice": 0.23,
+    "VATPercentage": 2.73
+  },
+  {
+    "ProductCode": "548405a4-6203-44ad-ad80-0d103cb973b1",
+    "Descriptive": "Lamb Rack Frenched Australian",
+    "Quantity": 24,
+    "UnitPrice": 9.88,
+    "VATPercentage": 16.43
+  },
+  {
+    "ProductCode": "193a4a9e-42cf-4dd2-a6bc-163bf833348d",
+    "Descriptive": "Cake - Bande Of Fruit",
+    "Quantity": 91,
+    "UnitPrice": 9.5,
+    "VATPercentage": 18.78
+  },
+  {
+    "ProductCode": "9ff8a178-519f-41bf-8058-46b34a815e98",
+    "Descriptive": "Table Cloth - 53x69 Colour",
+    "Quantity": 57,
+    "UnitPrice": 7.25,
+    "VATPercentage": 19.63
+  },
+  {
+    "ProductCode": "0ce78041-33f3-41eb-b0a4-384dccfcd57c",
+    "Descriptive": "Scampi Tail",
+    "Quantity": 77,
+    "UnitPrice": 4.66,
+    "VATPercentage": 10.74
+  },
+  {
+    "ProductCode": "abb11bb0-682e-419c-a5c0-9a3baf79f477",
+    "Descriptive": "Wine - Magnotta, Merlot Sr Vqa",
+    "Quantity": 35,
+    "UnitPrice": 5.38,
+    "VATPercentage": 19.5
+  },
+  {
+    "ProductCode": "97ace49d-132c-422f-84c4-eaf2a8245a1d",
+    "Descriptive": "Broom And Brush Rack Black",
+    "Quantity": 15,
+    "UnitPrice": 6.69,
+    "VATPercentage": 10.66
+  },
+  {
+    "ProductCode": "d05db506-d80f-484f-80a7-f3e5695bbf32",
+    "Descriptive": "Compound - Passion Fruit",
+    "Quantity": 67,
+    "UnitPrice": 5.65,
+    "VATPercentage": 11.06
+  },
+  {
+    "ProductCode": "105c99b1-47f5-4a97-a532-e216d9952f1c",
+    "Descriptive": "Flounder - Fresh",
+    "Quantity": 51,
+    "UnitPrice": 4.08,
+    "VATPercentage": 14.39
+  },
+  {
+    "ProductCode": "559b7093-cc12-4048-bae7-1f1ad8b2019a",
+    "Descriptive": "Langers - Ruby Red Grapfruit",
+    "Quantity": 77,
+    "UnitPrice": 2.79,
+    "VATPercentage": 6.68
+  },
+  {
+    "ProductCode": "36031fe9-d264-4b6c-8630-24427285a18c",
+    "Descriptive": "Icecream - Dstk Strw Chseck",
+    "Quantity": 97,
+    "UnitPrice": 8.3,
+    "VATPercentage": 16.93
+  },
+  {
+    "ProductCode": "e40b471c-15e9-4b8c-9615-e5424a35b44c",
+    "Descriptive": "Bulgar",
+    "Quantity": 26,
+    "UnitPrice": 7.41,
+    "VATPercentage": 9.84
+  },
+  {
+    "ProductCode": "f96fa211-5aa1-4229-823d-31d6ec6de851",
+    "Descriptive": "Lettuce - Escarole",
+    "Quantity": 15,
+    "UnitPrice": 0.98,
+    "VATPercentage": 21.98
+  },
+  {
+    "ProductCode": "3c59eece-2235-4093-b213-223714d917ca",
+    "Descriptive": "Wine - White, Cooking",
+    "Quantity": 9,
+    "UnitPrice": 9.8,
+    "VATPercentage": 6.81
+  },
+  {
+    "ProductCode": "7f780ff6-4967-4ba1-8b09-3860d09c012c",
+    "Descriptive": "Clams - Canned",
+    "Quantity": 5,
+    "UnitPrice": 7.5,
+    "VATPercentage": 22.56
+  },
+  {
+    "ProductCode": "0b5871fa-b12f-4cf1-8199-a539a1faf8ab",
+    "Descriptive": "Transfer Sheets",
+    "Quantity": 80,
+    "UnitPrice": 5.1,
+    "VATPercentage": 3.94
+  },
+  {
+    "ProductCode": "98c1f9ba-bc9e-4693-8c11-f6e4fe9ff571",
+    "Descriptive": "Cardamon Ground",
+    "Quantity": 3,
+    "UnitPrice": 5.95,
+    "VATPercentage": 3.79
+  },
+  {
+    "ProductCode": "2bd67666-c7be-4835-9e39-f80937de4fa2",
+    "Descriptive": "Gatorade - Lemon Lime",
+    "Quantity": 32,
+    "UnitPrice": 7.73,
+    "VATPercentage": 3.55
+  },
+  {
+    "ProductCode": "a0c0bc07-a2df-4aad-afb5-3632d6db1808",
+    "Descriptive": "Cape Capensis - Fillet",
+    "Quantity": 79,
+    "UnitPrice": 2.85,
+    "VATPercentage": 1.39
+  },
+  {
+    "ProductCode": "3b713dc7-25ea-437f-8f06-a7e28da9d867",
+    "Descriptive": "Veal - Kidney",
+    "Quantity": 54,
+    "UnitPrice": 8.18,
+    "VATPercentage": 11.81
+  },
+  {
+    "ProductCode": "5b48c523-acdb-4efd-9f6a-c8b70d409a81",
+    "Descriptive": "Pepper - Sorrano",
+    "Quantity": 42,
+    "UnitPrice": 8.29,
+    "VATPercentage": 12.82
+  },
+  {
+    "ProductCode": "46dd3f87-c323-4077-aeb5-a272d7cc7acc",
+    "Descriptive": "Pork - Sausage Casing",
+    "Quantity": 6,
+    "UnitPrice": 9.93,
+    "VATPercentage": 3.23
+  },
+  {
+    "ProductCode": "de78a9f6-4da0-4c91-8a4e-6daef928953c",
+    "Descriptive": "Liqueur Banana, Ramazzotti",
+    "Quantity": 97,
+    "UnitPrice": 6.14,
+    "VATPercentage": 13.76
+  },
+  {
+    "ProductCode": "77578fc8-70e1-4104-9520-be1190cebe79",
+    "Descriptive": "Wine - Magnotta - Belpaese",
+    "Quantity": 89,
+    "UnitPrice": 7.18,
+    "VATPercentage": 20.39
+  },
+  {
+    "ProductCode": "9384ad28-031d-4d94-9042-8a96dc2a190c",
+    "Descriptive": "Shrimp - Tiger 21/25",
+    "Quantity": 85,
+    "UnitPrice": 1.13,
+    "VATPercentage": 11.82
+  },
+  {
+    "ProductCode": "10ce056c-bcbc-4e0f-b750-e20ee8a35e95",
+    "Descriptive": "Sea Bass - Fillets",
+    "Quantity": 36,
+    "UnitPrice": 8.62,
+    "VATPercentage": 5.51
+  },
+  {
+    "ProductCode": "32d8e90a-61b2-4ddc-a5be-43f4560e2ee3",
+    "Descriptive": "Champagne - Brights, Dry",
+    "Quantity": 34,
+    "UnitPrice": 7.14,
+    "VATPercentage": 14.27
+  },
+  {
+    "ProductCode": "07e98be1-4236-4408-8937-e5e4b7d3b8f5",
+    "Descriptive": "Horseradish Root",
+    "Quantity": 46,
+    "UnitPrice": 4.57,
+    "VATPercentage": 16.72
+  },
+  {
+    "ProductCode": "c562578a-aad9-4206-9b7c-4011356a525f",
+    "Descriptive": "Amarula Cream",
+    "Quantity": 5,
+    "UnitPrice": 5.81,
+    "VATPercentage": 2.37
+  },
+  {
+    "ProductCode": "bb6e4a97-e019-4ac9-9d9f-61583b3ed6f8",
+    "Descriptive": "Nantucket - 518ml",
+    "Quantity": 68,
+    "UnitPrice": 7.24,
+    "VATPercentage": 14.83
+  },
+  {
+    "ProductCode": "bbb194e2-36a5-42cf-929b-4eae40ab9017",
+    "Descriptive": "Juice - Pineapple, 48 Oz",
+    "Quantity": 61,
+    "UnitPrice": 4.55,
+    "VATPercentage": 2.95
+  },
+  {
+    "ProductCode": "b28036ec-01b2-49e7-9bba-79cafc9dbeca",
+    "Descriptive": "Soup - Campbells Chili Veg",
+    "Quantity": 74,
+    "UnitPrice": 4.02,
+    "VATPercentage": 9.23
+  },
+  {
+    "ProductCode": "8b1a8226-1a3a-4a1b-8043-99e18045a59c",
+    "Descriptive": "Spinach - Baby",
+    "Quantity": 87,
+    "UnitPrice": 4.82,
+    "VATPercentage": 3.98
+  },
+  {
+    "ProductCode": "53dbe320-0cc2-43f7-8009-795a4e2c7671",
+    "Descriptive": "Appetizer - Lobster Phyllo Roll",
+    "Quantity": 2,
+    "UnitPrice": 9.91,
+    "VATPercentage": 21.57
+  },
+  {
+    "ProductCode": "0daf1c91-bb97-4fe3-a031-5a51e62dd5c7",
+    "Descriptive": "Basil - Primerba, Paste",
+    "Quantity": 12,
+    "UnitPrice": 5.78,
+    "VATPercentage": 19.65
+  },
+  {
+    "ProductCode": "270da25b-5374-4509-ac03-404ea9488a8c",
+    "Descriptive": "Pork - Ground",
+    "Quantity": 52,
+    "UnitPrice": 3.84,
+    "VATPercentage": 4.6
+  },
+  {
+    "ProductCode": "b35d2aaf-894c-4bd9-862d-dfe0a0877728",
+    "Descriptive": "Cleaner - Comet",
+    "Quantity": 20,
+    "UnitPrice": 0.99,
+    "VATPercentage": 7.86
+  },
+  {
+    "ProductCode": "fb71f465-fdd3-44f0-bbab-4aaa856eabf9",
+    "Descriptive": "Tea - Jasmin Green",
+    "Quantity": 30,
+    "UnitPrice": 6.7,
+    "VATPercentage": 1.83
+  },
+  {
+    "ProductCode": "4c94e4b5-b5b6-4863-b59e-8c926993d9d2",
+    "Descriptive": "Garam Masala Powder",
+    "Quantity": 65,
+    "UnitPrice": 0.13,
+    "VATPercentage": 9.16
+  },
+  {
+    "ProductCode": "c50d4206-a249-4e64-b655-127c9c6da7ca",
+    "Descriptive": "Allspice - Jamaican",
+    "Quantity": 35,
+    "UnitPrice": 4.08,
+    "VATPercentage": 22.45
+  },
+  {
+    "ProductCode": "ae9f4c3c-8a67-4729-8416-1c157db8c5a6",
+    "Descriptive": "Oyster - In Shell",
+    "Quantity": 57,
+    "UnitPrice": 2.23,
+    "VATPercentage": 8.48
+  },
+  {
+    "ProductCode": "e9c62c3a-4d9e-41ee-870b-7c54d32bd944",
+    "Descriptive": "Mix Pina Colada",
+    "Quantity": 57,
+    "UnitPrice": 7.24,
+    "VATPercentage": 12.55
+  },
+  {
+    "ProductCode": "6114d037-8bc3-4472-b8e0-46e246c22d57",
+    "Descriptive": "Sparkling Wine - Rose, Freixenet",
+    "Quantity": 64,
+    "UnitPrice": 8.97,
+    "VATPercentage": 6.97
+  },
+  {
+    "ProductCode": "1403a527-912e-4cca-857c-7289f545743e",
+    "Descriptive": "Tea - Lemon Green Tea",
+    "Quantity": 60,
+    "UnitPrice": 2.11,
+    "VATPercentage": 16.34
+  },
+  {
+    "ProductCode": "994ec104-a84d-4164-ab74-5813ef013668",
+    "Descriptive": "Coconut - Shredded, Sweet",
+    "Quantity": 14,
+    "UnitPrice": 2.38,
+    "VATPercentage": 1.15
+  },
+  {
+    "ProductCode": "3d99829a-254e-4cb4-b6b8-be6f09b60a03",
+    "Descriptive": "Hipnotiq Liquor",
+    "Quantity": 86,
+    "UnitPrice": 6.24,
+    "VATPercentage": 10.26
+  },
+  {
+    "ProductCode": "642006ae-b2cf-432f-91d6-299c12199982",
+    "Descriptive": "Coriander - Seed",
+    "Quantity": 93,
+    "UnitPrice": 5.14,
+    "VATPercentage": 1.54
+  },
+  {
+    "ProductCode": "4ad61770-753f-414f-9c43-bd82e70692bc",
+    "Descriptive": "Beer - Camerons Cream Ale",
+    "Quantity": 93,
+    "UnitPrice": 0.36,
+    "VATPercentage": 7.52
+  },
+  {
+    "ProductCode": "efcce3a1-f85d-4f91-aa3d-a3d34df1c6ab",
+    "Descriptive": "Scrubbie - Scotchbrite Hand Pad",
+    "Quantity": 70,
+    "UnitPrice": 5.31,
+    "VATPercentage": 4.49
+  },
+  {
+    "ProductCode": "33ab5eb3-4ec0-4287-9564-7c9819c86e68",
+    "Descriptive": "Crackers - Graham",
+    "Quantity": 71,
+    "UnitPrice": 0.08,
+    "VATPercentage": 1.76
+  },
+  {
+    "ProductCode": "d38a7cea-714a-469d-ba07-7ca5419919cd",
+    "Descriptive": "Food Colouring - Red",
+    "Quantity": 81,
+    "UnitPrice": 6.32,
+    "VATPercentage": 9.34
+  },
+  {
+    "ProductCode": "43889c8c-2fae-4885-bf01-bbdeca6c2fbc",
+    "Descriptive": "Mcguinness - Blue Curacao",
+    "Quantity": 30,
+    "UnitPrice": 0.1,
+    "VATPercentage": 18.47
+  },
+  {
+    "ProductCode": "2846ac4f-72c7-4cb6-ad9b-2268a7527ab7",
+    "Descriptive": "Pear - Packum",
+    "Quantity": 71,
+    "UnitPrice": 6.28,
+    "VATPercentage": 9.37
+  },
+  {
+    "ProductCode": "968a9854-69cb-416e-830e-b3f9504d3c36",
+    "Descriptive": "Cake - French Pear Tart",
+    "Quantity": 37,
+    "UnitPrice": 4.08,
+    "VATPercentage": 6.03
+  },
+  {
+    "ProductCode": "8034c5bc-d862-4188-bd04-3a298821f262",
+    "Descriptive": "Wine - Jafflin Bourgongone",
+    "Quantity": 53,
+    "UnitPrice": 7.79,
+    "VATPercentage": 8.64
+  }
+]

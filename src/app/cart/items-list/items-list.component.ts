@@ -4,7 +4,6 @@ import { MatPaginator } from '@angular/material/paginator'
 import { MatSort } from '@angular/material/sort'
 import { CartItem } from '../cart.types'
 
-
 @Component({
   selector: 'app-items-list',
   templateUrl: './items-list.component.html',
@@ -13,7 +12,7 @@ import { CartItem } from '../cart.types'
 export class ItemsListComponent implements OnChanges, OnInit {
   @Input() list: CartItem[]
 
-  public cols = ['description', 'quantity', 'unitPrice', 'vatPercentage', 'itemTotal']
+  public cols = ['Descriptive', 'Quantity', 'UnitPrice', 'VATPercentage', 'ItemTotal']
   public sorted: CartItem[]
   public dataSource: MatTableDataSource<CartItem>
 
@@ -31,8 +30,8 @@ export class ItemsListComponent implements OnChanges, OnInit {
   }
 
   public getItemTotal(item: CartItem): string {
-    const subTotal = item.quantity * item.unitPrice
-    return `${(subTotal + subTotal * (item.vatPercentage / 100)).toFixed(2)}`
+    const subTotal = item.Quantity * item.UnitPrice
+    return `${(subTotal + subTotal * (item.VATPercentage / 100)).toFixed(2)}`
   }
 
   private initTableData(): void {
