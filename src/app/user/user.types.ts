@@ -4,4 +4,6 @@ export type User = {
   birthDate: Date,
   hobbies: string[],
   age?: number,
+  image: string,
+  avatar: string,
 }

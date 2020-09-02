@@ -8,9 +8,19 @@
 
   &-icon {
     padding: 0 1rem;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition: color 0.2s;
+
+    &:hover {
+      color: lightblue;
+    }
   }
 
   &-spacer {
     flex: 1 1 auto;
   }
 }
+

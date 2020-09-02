@@ -1,16 +1,6 @@
 import { Injectable } from '@angular/core';
 import { User } from './user.types'
-
-const USER: User = {
-  firstName: 'Rafael',
-  lastName: 'Veggi',
-  birthDate: new Date('1984-05-27'),
-  hobbies: [
-    'rough and tumble play with my kids',
-    'play harmonica',
-    'read a good book',
-  ]
-}
+import USER from './user.mock'
 
 @Injectable({
   providedIn: 'root'

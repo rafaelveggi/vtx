@@ -1,11 +1,18 @@
-<div *ngIf="user">
-  <h1>USER</h1>
-  <h2>{{user.firstName}} {{user.lastName}}</h2>
-  <p>{{user.age}} years old</p>
-  <h3>Hobbies: </h3>
-  <ol>
-    <li *ngFor="let hobby of user.hobbies">
-      <span>{{hobby}}</span>
-    </li>
-  </ol>
+<div class="user">
+  <mat-card class="user-card mat-elevation-z3">
+    <mat-card-header>
+      <div mat-card-avatar class="user-header-image" [style.background-image]="'url(' + user.avatar + ')'"></div>
+      <mat-card-title>{{user.firstName}} {{user.lastName}}</mat-card-title>
+      <mat-card-subtitle>{{user.age}} years old</mat-card-subtitle>
+    </mat-card-header>
+    <img class="user-background-image" mat-card-image [src]="user.image" alt="Photo of an oil painting containing a boat in a landscape">
+    <mat-card-content>
+      <h3>Hobbies</h3>
+      <ol>
+        <li *ngFor="let hobby of user.hobbies">
+          <span>{{hobby}}</span>
+        </li>
+      </ol>
+    </mat-card-content>
+  </mat-card>
 </div>

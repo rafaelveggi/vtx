@@ -21,9 +21,11 @@ export class CartListComponent implements OnChanges, OnInit {
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator
 
   constructor() { }
+
   ngOnInit(): void {
     this.initTableData()
   }
+  
   ngOnChanges(): void {
     this.initTableData()
   }

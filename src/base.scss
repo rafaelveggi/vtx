@@ -10,22 +10,5 @@ body {
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
-  display: flex;
-  flex-direction: column;
 }
 
-button {
-  border: none;
-  outline: none;
-  background-color: transparent;
-  cursor: pointer;
-  transition: color 0.2s;
-
-  &:hover {
-    color: lightblue;
-  }
-}
-
-[routerlinkactive="active"] {
-  color: lightblue;
-}
