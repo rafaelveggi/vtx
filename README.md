@@ -8,6 +8,6 @@ On your terminal, run:
 - `$ npm install`
 - `$ ng serve`
 
-Open your favorite browser and point to [http://localhost:4200/]http://localhost:4200/
+Open your favorite browser and point to [http://localhost:4200/]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
