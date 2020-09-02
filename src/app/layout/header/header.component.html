@@ -2,10 +2,10 @@
   <mat-toolbar color="primary" class="mat-elevation-z3">
     <span routerLink="/" class="header-link-home">MyProdCart</span>
     <span class="header-spacer"></span>
-    <button routerLink="/cart" mat-icon-button class="header-icon" aria-label="Shopping cart button">
+    <button routerLink="/cart" routerLinkActive="active" mat-icon-button class="header-icon" aria-label="Shopping cart button">
       <mat-icon>shopping_cart</mat-icon>
     </button>
-    <button routerLink="/user" mat-icon-button class="header-icon" aria-label="User button">
+    <button routerLink="/user" routerLinkActive="active" mat-icon-button class="header-icon" aria-label="User button">
       <mat-icon>person</mat-icon>
     </button>
     <button mat-icon-button [matMenuTriggerFor]="menu" class="header-icon" aria-label="Language Menu">

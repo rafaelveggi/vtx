@@ -6,11 +6,11 @@ import { CartItem } from '../cart.types'
 
 
 @Component({
-  selector: 'app-cart-list',
-  templateUrl: './cart-list.component.html',
-  styleUrls: ['./cart-list.component.scss']
+  selector: 'app-items-list',
+  templateUrl: './items-list.component.html',
+  styleUrls: ['./items-list.component.scss']
 })
-export class CartListComponent implements OnChanges, OnInit {
+export class ItemsListComponent implements OnChanges, OnInit {
   @Input() list: CartItem[]
 
   public cols = ['description', 'quantity', 'unitPrice', 'vatPercentage', 'itemTotal']

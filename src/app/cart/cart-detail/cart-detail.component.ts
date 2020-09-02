@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core'
-import { CartItem } from './cart.types'
-import { CartService } from './cart.service'
+import { CartItem } from '../cart.types'
+import { CartService } from '../cart.service'
 
 @Component({
   selector: 'app-cart',
-  templateUrl: './cart.component.html',
-  styleUrls: ['./cart.component.scss'],
+  templateUrl: './cart-detail.component.html',
+  styleUrls: ['./cart-detail.component.scss'],
   providers: [CartService]
 })
-export class CartComponent implements OnInit {
+export class CartDetailComponent implements OnInit {
   list: CartItem[]
 
   constructor(private service: CartService) { }
