@@ -3,14 +3,14 @@
     <mat-card-header>
       <div mat-card-avatar class="user-header-image" [style.background-image]="'url(' + user.avatar + ')'"></div>
       <mat-card-title>{{user.firstName}} {{user.lastName}}</mat-card-title>
-      <mat-card-subtitle>{{user.age}} years old</mat-card-subtitle>
+      <mat-card-subtitle i18n>{{user.age}} years old</mat-card-subtitle>
     </mat-card-header>
     <img class="user-background-image" mat-card-image [src]="user.image" alt="Photo of an oil painting containing a boat in a landscape">
     <mat-card-content>
-      <h3>Hobbies</h3>
+      <h3 i18n>Hobbies</h3>
       <ol>
         <li *ngFor="let hobby of user.hobbies">
-          <span>{{hobby}}</span>
+          <span i18n>{{hobby}}</span>
         </li>
       </ol>
     </mat-card-content>
