@@ -16,7 +16,7 @@ export class UserService {
     return this.user
   }
 
-  private getAge(birthDate): number {
+  private getAge(birthDate: Date): number {
     const today = new Date().getTime()
     return Math.floor((today - birthDate.getTime()) / 3.15576e+10)
   }

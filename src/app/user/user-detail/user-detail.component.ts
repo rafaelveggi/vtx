@@ -1,20 +1,21 @@
 import { Component, OnInit } from '@angular/core'
-import { UserService } from '../user.service'
+import { ActivatedRoute } from '@angular/router'
 import { User } from '../user.types'
 
 @Component({
   selector: 'app-user-detail',
   templateUrl: './user-detail.component.html',
   styleUrls: ['./user-detail.component.scss'],
-  providers: [UserService],
 })
 export class UserDetailComponent implements OnInit {
   public user: User
 
-  constructor(private service: UserService) { }
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this.user = this.service.getUser()
+    this.route.data.subscribe((data) => {
+      this.user = data.user
+    })
   }
 
 }

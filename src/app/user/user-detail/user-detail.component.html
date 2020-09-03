@@ -1,4 +1,4 @@
-<div class="user">
+<div *ngIf="user" class="user">
   <mat-card class="user-card mat-elevation-z3">
     <mat-card-header>
       <div mat-card-avatar class="user-header-image" [style.background-image]="'url(' + user.avatar + ')'"></div>

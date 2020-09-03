@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core'
 import { ActivatedRoute } from '@angular/router'
 import { CartItem } from '../cart.types'
-import { of } from 'rxjs'
 import { CartService } from '../cart.service'
 
 @Component({
@@ -18,7 +17,9 @@ export class CartDetailComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.route.data.subscribe(data => this.list = data.items)
+    this.route.data.subscribe((data) => {
+      this.list = data.items
+    })
   }
 
   public async onFileUpload(file: File): Promise<void> {
