@@ -35,11 +35,9 @@ export class ItemsListComponent implements OnChanges, OnInit {
   }
 
   private initTableData(): void {
-    if (this.list) {
-      this.dataSource = new MatTableDataSource(this.list)
-      this.dataSource.paginator = this.paginator
-      this.dataSource.sort = this.sort
-    }
+    this.dataSource = new MatTableDataSource(this.list)
+    this.dataSource.paginator = this.paginator
+    this.dataSource.sort = this.sort
   }
 
 }

@@ -6,17 +6,14 @@ import { CartItem } from './cart.types'
 })
 export class CartService {
 
-  constructor() { }
-
-  public getItems(): CartItem[] | null {
-    let items = null
+  public getItems(): CartItem[] {
     try {
-      const json = window.sessionStorage.getItem('items')
-      items = JSON.parse(json)
-      return items
+      const serialized = window.sessionStorage.getItem('items')
+      if (serialized) {
+        return JSON.parse(serialized)
+      }
     } catch (error) {
       console.error('Error retrieving items from sessionStorage', error)
-      return items
     }
   }
 
@@ -24,15 +21,25 @@ export class CartService {
     window.sessionStorage.clear()
   }
 
-  public async processFile(file: File): Promise<CartItem[] | null> {
-    let items = null
-    try {
-      items = await this.readFileAsync(file)
-      return items
-    } catch (error) {
-      console.error(error) // FIXME use material ui error message
-      return items
-    }
+  public processFile(file: File): Promise<CartItem[]> {
+    return new Promise((resolve, reject) => {
+      if (!file) {
+        return
+      }
+      const reader = new FileReader()
+      reader.onload = () => {
+        const contents = JSON.parse(reader.result as string)
+        const validated = this.validateContents(contents)
+        if (validated) {
+          this.saveItemsInStorage(validated)
+          resolve(validated)
+        } else {
+          alert('Invalid file format.')
+        }
+      }
+      reader.onerror = reject
+      reader.readAsText(file)
+    })
   }
 
   private saveItemsInStorage(items: CartItem[]): void {
@@ -43,20 +50,11 @@ export class CartService {
     }
   }
 
-  private readFileAsync(file: File): Promise<CartItem[]> {
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader()
-
-      reader.onload = () => {
-        const contents = JSON.parse(reader.result as string)
-        this.saveItemsInStorage(contents)
-        resolve(contents)
-      }
-
-      reader.onerror = reject
-
-      reader.readAsText(file)
-    })
+  private validateContents(items: object[]): CartItem[] {
+    const isValid = items.length && items.every((item: CartItem) => item)
+    if (isValid) {
+      return items as CartItem[]
+    }
   }
 
 }
