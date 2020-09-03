@@ -10,4 +10,7 @@ On your terminal, run:
 
 Open your favorite browser and point to http://localhost:4200/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+If you need a JSON file to load on the Cart page, please use cart.json on the root directory.
+
+
+##### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
