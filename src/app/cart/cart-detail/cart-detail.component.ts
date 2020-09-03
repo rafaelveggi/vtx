@@ -25,4 +25,11 @@ export class CartDetailComponent implements OnInit {
     this.list = await this.service.processFile(file)
   }
 
+  public onClearCart() {
+    if (window.confirm('Are you sure?')) { //FIXME use Material UI with i18n
+      this.service.clearCart()
+      this.list = this.service.getItems()
+    }
+  }
+
 }

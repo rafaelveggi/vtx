@@ -20,6 +20,10 @@ export class CartService {
     }
   }
 
+  public clearCart() {
+    window.sessionStorage.clear()
+  }
+
   public async processFile(file: File): Promise<CartItem[] | null> {
     let items = null
     try {

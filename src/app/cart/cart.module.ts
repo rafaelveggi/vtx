@@ -7,12 +7,14 @@ import { MatTableModule } from '@angular/material/table'
 import { MatPaginatorModule } from '@angular/material/paginator'
 import { MatSortModule } from '@angular/material/sort'
 import {CartRoutingModule} from './cart-routing.module'
+import { MatButton, MatButtonModule } from '@angular/material/button'
 
 @NgModule({
   declarations: [CartDetailComponent, ItemsListComponent],
   imports: [
     CartRoutingModule,
     CommonModule,
+    MatButtonModule,
     MatIconModule,
     MatTableModule,
     MatIconModule,
